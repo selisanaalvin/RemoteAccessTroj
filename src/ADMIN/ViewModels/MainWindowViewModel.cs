@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.ObjectModel;
+using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -7,6 +8,7 @@ using System.Threading.Tasks;
 using ADMIN.ViewModels;
 using Avalonia.Threading;
 using CommunityToolkit.Mvvm.ComponentModel;
+using Tmds.DBus.Protocol;
 
 
 namespace ADMIN.ViewModels
@@ -14,7 +16,6 @@ namespace ADMIN.ViewModels
     public partial class MainWindowViewModel : ViewModelBase
     {
         public ObservableCollection<string> ConnectedClients { get; set; } = new ObservableCollection<string>();
-
         public MainWindowViewModel()
         {
             StartServer();
@@ -36,7 +37,6 @@ namespace ADMIN.ViewModels
                         string clientIp = ((IPEndPoint)client.Client.RemoteEndPoint)?.Address.ToString();
 
                         var stream = client.GetStream();
-
                         // --- Receive message from client ---
                         byte[] buffer = new byte[1024];
                         int length = stream.Read(buffer, 0, buffer.Length);
@@ -69,6 +69,24 @@ namespace ADMIN.ViewModels
                     });
                 }
             });
+        }
+
+        public void SendMessage(String IpAddress, String Message)
+        {
+            try { 
+            TcpClient client = new TcpClient(IpAddress, 5000);
+            var stream = client.GetStream();
+            byte[] messageBytes = Encoding.UTF8.GetBytes(Message);
+            stream.Write(messageBytes, 0, messageBytes.Length);
+            }
+            catch (Exception ex)
+            {
+                Dispatcher.UIThread.Post(() =>
+                {
+                    ConnectedClients.Add($"Error: {ex.Message}");
+                });
+            }
+
         }
     }
 }

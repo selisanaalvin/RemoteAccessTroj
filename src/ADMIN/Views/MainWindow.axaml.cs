@@ -19,6 +19,11 @@ public partial class MainWindow : Window
 
         var targetIp= this.FindControl<TextBox>("IPTarget");
         var ipTar= targetIp.Text;
+        if (!string.IsNullOrWhiteSpace(message))
+        {
+            var viewModel = (MainWindowViewModel)DataContext;
+            viewModel.SendMessage(ipTar, message);
+        }
 
 
     }
