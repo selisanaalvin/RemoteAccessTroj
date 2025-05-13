@@ -1,0 +1,15 @@
+[2025-05-13 17:26:03] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:26:02] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:26:01] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:26:00] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:25:59] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:25:57] 127.0.0.1: Key: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-05-13 17:25:57] 127.0.0.1: Key: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-05-13 17:25:57] 127.0.0.1: Key: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-05-13 17:25:56] 127.0.0.1: Key: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-05-13 17:25:56] 127.0.0.1: Key: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-05-13 17:25:56] 127.0.0.1: Key: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-05-13 17:25:56] 127.0.0.1: Key: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-05-13 17:25:56] 127.0.0.1: Key: 162, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: 162, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: 162, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: 162, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: 162, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: 162, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: 162, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: 162, App: devenv, Title: ADMIN (Running) - Microsoft Visual StudioKey: 162, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-05-13 17:25:56] 127.0.0.1: Key: 162, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-05-13 17:25:40] 127.0.0.1: Machine - COLLABPH1004786

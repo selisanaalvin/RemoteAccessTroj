@@ -1,0 +1,56 @@
+[2025-05-13 17:27:38] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: A, App: ADMIN, Title: ADMINKey: A, App: ADMIN, Title: ADMINKey: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMINKey: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMINKey: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:37] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: D, App: ADMIN, Title: ADMINKey: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: D, App: ADMIN, Title: ADMINKey: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMINKey: S, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:36] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:33] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:32] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:32] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:32] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:27:30] 127.0.0.1: Machine - COLLABPH1004786

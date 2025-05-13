@@ -1,0 +1,19 @@
+[2025-05-13 17:30:53] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:51] 127.0.0.1: Key: N, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:51] 127.0.0.1: Key: I, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:51] 127.0.0.1: Key: V, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:51] 127.0.0.1: Key: L, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:51] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:50] 127.0.0.1: Key: G, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:50] 127.0.0.1: Key: N, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:50] 127.0.0.1: Key: I, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:50] 127.0.0.1: Key: T, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:49] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:48] 127.0.0.1: Key: E, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:48] 127.0.0.1: Key: T, App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:46] 127.0.0.1: Clicked: App: CLIENT, Title: CLIENT
+[2025-05-13 17:30:45] 127.0.0.1: Machine - COLLABPH1004786
+[2025-05-13 17:30:43] 127.0.0.1: Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-05-13 17:30:42] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-05-13 17:30:40] 127.0.0.1: Machine - COLLABPH1004786
+Client Error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..

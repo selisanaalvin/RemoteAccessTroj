@@ -1,5 +1,6 @@
 using ADMIN.ViewModels;
 using Avalonia.Controls;
+using Tmds.DBus.Protocol;
 
 namespace ADMIN.Views;
 
@@ -13,7 +14,7 @@ public partial class MainWindow : Window
     private void SendMessage(object sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
         // Get the message text from the TextBox
-        var messageTextBox = this.FindControl<TextBox>("MessageTextBox");
+        var messageTextBox = this.FindControl<TextBox>("Command");
         var message = messageTextBox.Text;
 
         var targetIp= this.FindControl<TextBox>("IPTarget");
@@ -24,6 +25,13 @@ public partial class MainWindow : Window
             viewModel.SendMessageAsync(ipTar, message);
         }
 
+
+    }
+
+    private void ExportLog(object sender, Avalonia.Interactivity.RoutedEventArgs e)
+    {
+        var viewModel = (MainWindowViewModel)DataContext;
+        viewModel.ExportTxt();
 
     }
 }
