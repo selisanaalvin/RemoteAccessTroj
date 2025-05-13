@@ -8,7 +8,6 @@ public partial class MainWindow : Window
     public MainWindow()
     {
         InitializeComponent();
-        DataContext = new MainWindowViewModel();
     }
 
     private void SendMessage(object sender, Avalonia.Interactivity.RoutedEventArgs e)
@@ -22,7 +21,7 @@ public partial class MainWindow : Window
         if (!string.IsNullOrWhiteSpace(message))
         {
             var viewModel = (MainWindowViewModel)DataContext;
-            viewModel.SendMessage(ipTar, message);
+            viewModel.SendMessageAsync(ipTar, message);
         }
 
 

@@ -67,3 +67,9 @@ C:\Users\COLLABERA.DIGITAL\Desktop\Trojan\src\ADMIN\obj\Debug\net8.0\refint\Aval
 C:\Users\COLLABERA.DIGITAL\Desktop\Trojan\src\ADMIN\obj\Debug\net8.0\ADMIN.csproj.Up2Date
 C:\Users\COLLABERA.DIGITAL\Desktop\Trojan\src\ADMIN\obj\Debug\net8.0\ADMIN.genruntimeconfig.cache
 C:\Users\COLLABERA.DIGITAL\Desktop\Trojan\src\ADMIN\obj\Debug\net8.0\ref\ADMIN.dll
+C:\Users\COLLABERA.DIGITAL\Desktop\Trojan\src\ADMIN\bin\Debug\net8.0\.env
+C:\Users\COLLABERA.DIGITAL\Desktop\Trojan\src\ADMIN\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\COLLABERA.DIGITAL\Desktop\Trojan\src\ADMIN\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\COLLABERA.DIGITAL\Desktop\Trojan\src\ADMIN\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\COLLABERA.DIGITAL\Desktop\Trojan\src\ADMIN\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\COLLABERA.DIGITAL\Desktop\Trojan\src\ADMIN\bin\Debug\net8.0\Sprache.dll

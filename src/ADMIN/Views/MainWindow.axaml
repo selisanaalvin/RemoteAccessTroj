@@ -20,7 +20,13 @@
 		<TextBox x:Name="IPTarget" Margin="0 5" Watermark="Enter IP" />
 		<TextBox x:Name="MessageTextBox" Margin="0 5" Watermark="Message" />
 		<Button Content="Message" Margin="0 5" Click="SendMessage" />
-		<ListBox ItemsSource="{Binding ConnectedClients}"/>
+		<ListBox ItemsSource="{Binding ConnectedClients}">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<TextBlock Text="{Binding}" />
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
 	</StackPanel>
 
 </Window>
