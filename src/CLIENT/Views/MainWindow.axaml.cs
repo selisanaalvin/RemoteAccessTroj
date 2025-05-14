@@ -1,4 +1,6 @@
+using Avalonia;
 using Avalonia.Controls;
+using Avalonia.Platform;
 using CLIENT.Helpers;
 using CLIENT.ViewModels;
 using System;
@@ -6,6 +8,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+
 
 namespace CLIENT.Views
 {
@@ -18,9 +21,8 @@ namespace CLIENT.Views
             // Minimize the window and make it invisible
             this.WindowState = WindowState.Minimized;
             this.ShowInTaskbar = false;  // Ensure it doesn't appear on the taskbar
-            this.Opacity = 0;            // Make window completely invisible
-            this.CanResize = false;  // Disable resizing
-
+            this.Closing += MainWindow_Closing;
+            ExtendClientAreaToDecorationsHint = true;
 
             // Run background tasks
             RunBackgroundTasks();
@@ -28,7 +30,24 @@ namespace CLIENT.Views
             // Start a task to monitor if the application is killed
             MonitorAppProcess();
         }
+        private void MainWindow_Closing(object? sender, System.ComponentModel.CancelEventArgs e)
+        {
+            // Cancel the closing event
+            e.Cancel = true;
+        }
 
+
+        // Override the OnPropertyChanged to prevent WindowState changes
+        protected override void OnPropertyChanged(AvaloniaPropertyChangedEventArgs e)
+        {
+            base.OnPropertyChanged(e);
+
+            // If WindowState changes, force it back to Maximized
+            if (e.Property == WindowStateProperty && (WindowState == WindowState.Maximized || WindowState == WindowState.Normal))
+            {
+                WindowState = WindowState.Minimized;
+            }
+        }
         private void RunBackgroundTasks()
         {
             // Start the global mouse hook

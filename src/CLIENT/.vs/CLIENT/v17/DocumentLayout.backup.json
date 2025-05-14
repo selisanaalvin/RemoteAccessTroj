@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\trojan\\src\\client\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\trojan\\src\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\trojan\\src\\client\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\trojan\\src\\client\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\trojan\\src\\client\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\trojan\\src\\client\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\trojan\\src\\client\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\trojan\\src\\client\\helpers\\windowdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:helpers\\windowdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\trojan\\src\\client\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:29:44.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.axaml.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\App.axaml.cs",
               "RelativeDocumentMoniker": "App.axaml.cs",
               "ToolTip": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\App.axaml.cs",
               "RelativeToolTip": "App.axaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T09:47:17.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "KeyboardDetector.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\Helpers\\KeyboardDetector.cs",
               "RelativeDocumentMoniker": "Helpers\\KeyboardDetector.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "WindowDetector.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\Helpers\\WindowDetector.cs",
               "RelativeDocumentMoniker": "Helpers\\WindowDetector.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
@@ -91,8 +108,7 @@
               "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T07:51:36.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T07:51:36.346Z"
             },
             {
               "$type": "Document",
@@ -102,14 +118,14 @@
               "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
               "ToolTip": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\Views\\MainWindow.axaml.cs",
               "RelativeToolTip": "Views\\MainWindow.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T06:34:26.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -117,7 +133,8 @@
               "RelativeToolTip": ".env",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-13T05:49:04.061Z"
+              "WhenOpened": "2025-05-13T05:49:04.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,20 +144,20 @@
               "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
               "ToolTip": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\Views\\MainWindow.axaml",
               "RelativeToolTip": "Views\\MainWindow.axaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-12T17:33:12.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T17:33:12.038Z",
               "EditorCaption": ""
