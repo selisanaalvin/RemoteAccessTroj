@@ -28,5 +28,6 @@
       <None Update=".env">
     <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
   </None>
+      <PackageReference Include="System.Speech" Version="9.0.5" />
   </ItemGroup>
 </Project>
