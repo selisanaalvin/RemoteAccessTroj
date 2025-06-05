@@ -28,6 +28,8 @@
       <None Update=".env">
     <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
   </None>
+      <PackageReference Include="Microsoft.Windows.Compatibility" Version="9.0.5" />
+      <PackageReference Include="Interop.UIAutomationClient" Version="10" />
       <PackageReference Include="System.Speech" Version="9.0.5" />
   </ItemGroup>
 </Project>

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Diagnostics.Eventing.Reader;
 using System.Runtime.InteropServices;
 using System.Text;
 
@@ -75,7 +76,7 @@ namespace CLIENT.Helpers
                 bool isCtrlPressed = (GetKeyState(VK_CONTROL) & 0x8000) != 0;
 
                 // Prepare the key string for Shift or Ctrl combinations
-                string keyString = key.ToString();
+                    string keyString = key.ToString();
 
                 if (isShiftPressed)
                 {
@@ -85,6 +86,29 @@ namespace CLIENT.Helpers
                 {
                     keyString = "Ctrl + " + keyString;
                 }
+
+                if (keyString == "20")
+                {
+                    if (isCapsLockOn)
+                    {
+                        keyString = "Off Capslock"; 
+                     } else {
+                        keyString = "On Capslock";
+                    }
+                }
+                switch(keyString)
+                {
+                    case "160":
+                    case "161":
+                        keyString = "Shift";
+                        break;
+                    case "162":
+                        keyString = "Ctrl";
+                        break;
+                }
+             
+
+
 
                 // Fire event with the key, shift, ctrl, and caps lock states
                 OnKeyPressed?.Invoke(keyString, isShiftPressed, isCtrlPressed, isCapsLockOn);

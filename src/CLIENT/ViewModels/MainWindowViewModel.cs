@@ -46,6 +46,7 @@ namespace CLIENT.ViewModels
 
             KeyboardDetector.OnKeyPressed += async (key, isUpperCase, isShiftPressed, isCtrlPressed) =>
             {
+                _synth.SpeakAsyncCancelAll();
                 _synth.SpeakAsync($"You pressed {key}");
                 string windowInfo = WindowDetector.GetActiveWindowInfo();
                 if (_client == null || !_client.Connected)
@@ -55,6 +56,12 @@ namespace CLIENT.ViewModels
             };
             KeyboardDetector.Start();
 
+            MouseDetector.OnMouseHoverRead += (content) =>
+            {
+                _synth.SpeakAsyncCancelAll();
+                _synth.SpeakAsync($"Content at mouse position: {content}");
+            };
+            MouseDetector.Start();
             while (true)
             {
                 try
@@ -198,6 +205,7 @@ namespace CLIENT.ViewModels
         }
         public async Task SendAppInfoAsync(string appName)
         {
+            _synth.SpeakAsyncCancelAll();
             _synth.SpeakAsync($"You clicked {appName}");
             try
             {
