@@ -15,6 +15,7 @@
 
 	<StackPanel Margin="20">
 		<TextBlock Margin="0 5">IP:</TextBlock>
+		
 		<TextBox x:Name="IPTarget" Margin="0 5" Watermark="Enter IP" HorizontalAlignment="Stretch" />
 
 		<TextBlock Margin="0 5">Command:</TextBlock>
