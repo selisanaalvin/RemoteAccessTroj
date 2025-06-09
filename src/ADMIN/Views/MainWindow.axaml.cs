@@ -41,5 +41,15 @@ namespace ADMIN.Views;
         var path = this.FindControl<TextBox>("Path");
         var viewModel = (MainWindowViewModel)DataContext;
         viewModel.ViewDirectories(targetIp.Text, $"{Path.Text}");
+        }
+
+    private async void DownloadFile(object sender, Avalonia.Interactivity.RoutedEventArgs e)
+    {
+        var targetIp = this.FindControl<TextBox>("IPTarget");
+        var path = this.FindControl<TextBox>("Path");
+        var viewModel = (MainWindowViewModel)DataContext;
+        viewModel.DownloadFile(targetIp.Text, $"{Path.Text}");
     }
-    }
+    
+
+}

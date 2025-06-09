@@ -94,7 +94,63 @@ namespace ADMIN.ViewModels
                                 ConnectedClients.Insert(0, $"[{timestamp}] {entry}");
                                 AppendMessageToLogAsync($"[{timestamp}] {entry}");
                             }
-                                
+
+                                if (clientMessage.StartsWith("fileDownload:"))
+                                {
+                                    try
+                                    {
+                                        // Parse the header
+                                        string[] parts = clientMessage.Substring("fileDownload:".Length).Split(':');
+                                        if (parts.Length == 2)
+                                        {
+                                            string fileName = parts[0];
+                                            if (int.TryParse(parts[1], out int fileSize))
+                                            {
+                                                // Get the stream from the client connection
+                                                NetworkStream clientStream = client.GetStream(); // Ensure 'client' is your TcpClient
+
+                                                // Create a buffer to read file content
+                                                byte[] buffer = new byte[fileSize];
+                                                int totalBytesRead = 0;
+                                                int bytesRead;
+
+                                                // Read the file content from the client stream
+                                                while (totalBytesRead < fileSize &&
+                                                       (bytesRead = clientStream.Read(buffer, totalBytesRead, fileSize - totalBytesRead)) > 0)
+                                                {
+                                                    totalBytesRead += bytesRead;
+                                                }
+
+                                                // Save the file to the server's file system
+                                                string savePath = Path.Combine("file_downloaded", fileName);
+                                                Directory.CreateDirectory("file_downloaded"); // Ensure the directory exists
+                                                File.WriteAllBytes(savePath, buffer);
+
+                                                // Log success
+                                                ServerLogs.Insert(0, $"File '{fileName}' downloaded successfully. Saved to: {savePath}");
+                                            }
+                                            else
+                                            {
+                                                ServerLogs.Insert(0, "Invalid file size received.");
+                                            }
+                                        }
+                                        else
+                                        {
+                                            ServerLogs.Insert(0, "Invalid file download header format.");
+                                        }
+                                    }
+                                    catch (Exception ex)
+                                    {
+                                        ServerLogs.Insert(0, $"Error downloading file: {ex.Message}");
+                                    }
+                                }
+                                else
+                                {
+                                    // Handle other messages
+                                    ConnectedClients.Insert(0, $"[{timestamp}] {entry}");
+                                    AppendMessageToLogAsync($"[{timestamp}] {entry}");
+                                }
+
 
 
                         }
@@ -191,6 +247,38 @@ namespace ADMIN.ViewModels
                 });
             }
         }
+        public async Task DownloadFile(string ipAddress, string path)
+        {
+            if (_clientConnections.TryGetValue(ipAddress, out TcpClient client))
+            {
+                try
+                {
+                    var stream = client.GetStream();
+                    byte[] messageBytes = Encoding.UTF8.GetBytes($"__download_file:{path}");
+                    await stream.WriteAsync(messageBytes, 0, messageBytes.Length);
+
+                    await Dispatcher.UIThread.InvokeAsync(() =>
+                    {
+                        ServerLogs.Insert(0, $"Command Sent to {ipAddress}: {path}");
+                    });
+                }
+                catch (Exception ex)
+                {
+                    await Dispatcher.UIThread.InvokeAsync(() =>
+                    {
+                        ServerLogs.Insert(0, $"Send failed to {ipAddress}: {ex.Message}");
+                    });
+                }
+            }
+            else
+            {
+                await Dispatcher.UIThread.InvokeAsync(() =>
+                {
+                    ServerLogs.Insert(0, $"Client {ipAddress} not found.");
+                });
+            }
+        }
+        
         public async Task ExportTxt()
         {
             try

