@@ -88,8 +88,8 @@ namespace ADMIN.ViewModels
                             // Add the entry to the top of the collection
                             ConnectedClients.Insert(0, $"[{timestamp}] {entry}");
 
-                           
                         }
+                        AppendMessageToLogAsync($"[{timestamp}] {entry}");
                         ReverseCollection();
                     });
                 }
@@ -111,8 +111,13 @@ namespace ADMIN.ViewModels
         private void ReverseCollection()
         {
             // Reverse the collection and clear and refill the ObservableCollection
-           ConnectedClients.Reverse().ToList();
-         
+            var limitedClients = ConnectedClients.Reverse().Take(100).ToList();
+
+            ConnectedClients.Clear();
+            foreach (var client in limitedClients)
+            {
+                ConnectedClients.Add(client);
+            }
         }
 
         // Send a message to a specific client
@@ -128,14 +133,14 @@ namespace ADMIN.ViewModels
 
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
-                        ConnectedClients.Insert(0, $"Sent to {ipAddress}: {message}");
+                        ServerLogs.Add( $"Command Sent to {ipAddress}: {message}");
                     });
                 }
                 catch (Exception ex)
                 {
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
-                        ConnectedClients.Add($"Send failed to {ipAddress}: {ex.Message}");
+                        ServerLogs.Add($"Send failed to {ipAddress}: {ex.Message}");
                     });
                 }
             }
@@ -143,7 +148,7 @@ namespace ADMIN.ViewModels
             {
                 await Dispatcher.UIThread.InvokeAsync(() =>
                 {
-                    ConnectedClients.Add($"Client {ipAddress} not found.");
+                    ServerLogs.Add($"Client {ipAddress} not found.");
                 });
             }
         }
@@ -175,7 +180,6 @@ namespace ADMIN.ViewModels
                 // Optionally notify that the export was successful
                 Console.WriteLine("Log exported successfully!");
                 ServerLogs.Add($"[SUCCESS] Log file path: {filePath}");
-                ReverseCollection();
 
             }
             catch (IOException ex)
@@ -186,5 +190,32 @@ namespace ADMIN.ViewModels
             }
 
         }
+        public void AppendMessageToLogAsync(string message)
+        {
+            try
+            {
+                // Get today's date string in yyyymmdd format
+                string dateStr = DateTime.Now.ToString("yyyyMMdd");
+
+                // Build file path (adjust folder as needed)
+                string logFileName = $"log-{dateStr}.txt";
+                string logFolder = "logs";  // e.g., a "logs" folder in your app directory
+                Directory.CreateDirectory(logFolder); // ensure folder exists
+
+                string logFilePath = Path.Combine(logFolder, logFileName);
+
+                // Prepare the line to write (timestamp + message)
+                string line = $"{message}{Environment.NewLine}";
+
+                File.AppendAllText(logFilePath, line);
+
+            }
+            catch (Exception ex)
+            {
+                // Handle exceptions as needed (log or show error)
+                Console.WriteLine($"Failed to write log: {ex.Message}");
+            }
+        }
+
     }
 }

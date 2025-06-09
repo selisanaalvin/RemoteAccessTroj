@@ -9,21 +9,41 @@
         Icon="/Assets/avalonia-logo.ico"
         Title="ADMIN">
 
-    <Design.DataContext>
-        <!-- This only sets the DataContext for the previewer in an IDE,
-             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
-        <vm:MainWindowViewModel/>
-    </Design.DataContext>
+	<Design.DataContext>
+		<vm:MainWindowViewModel/>
+	</Design.DataContext>
 
 	<StackPanel Margin="20">
-		<TextBlock Margin="0 5">Victim IP:</TextBlock>
-		<TextBox x:Name="IPTarget" Margin="0 5" Watermark="Enter IP" />
-		<TextBox x:Name="Command" Margin="0 5" Watermark="Command" />
-		<Button Content="Send" Margin="0 5" Click="SendMessage" />
-		<Button Content="Export" Click="ExportLog" />
-		<!-- Wrap ListBox with ScrollViewer -->
+		<TextBlock Margin="0 5">IP:</TextBlock>
+		<TextBox x:Name="IPTarget" Margin="0 5" Watermark="Enter IP" HorizontalAlignment="Stretch" />
+
+		<TextBlock Margin="0 5">Command:</TextBlock>
+		<TextBox x:Name="Command" Margin="0 5" Watermark="Enter Command" HorizontalAlignment="Stretch" />
+
+		<!-- Buttons -->
+		<Grid Margin="5">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="200" />
+				<ColumnDefinition Width="200" />
+			</Grid.ColumnDefinitions>
+			<Button Grid.Column="0" Content="Send Message" Click="SendMessage" Margin="5" HorizontalAlignment="Stretch" />
+			<Button Grid.Column="1" Content="Export Log" Click="ExportLog" Margin="5" HorizontalAlignment="Stretch" />
+		</Grid>
+
+		<!-- Open File Dialog and Output -->
+		<Grid Margin="5">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="Auto" />
+				<ColumnDefinition Width="*" />
+			</Grid.ColumnDefinitions>
+			<Button Grid.Column="0" Content="Open File Dialog" Click="FileDialog" Margin="5" HorizontalAlignment="Left" />
+			<TextBox Grid.Column="1" Name="Output" IsReadOnly="True" AcceptsReturn="True"
+                     Watermark="Output will appear here..." Margin="5" HorizontalAlignment="Stretch" />
+		</Grid>
+
+		<!-- Activity Log Section -->
 		<TextBlock Margin="0 5">Activity Log:</TextBlock>
-		<ScrollViewer VerticalScrollBarVisibility="Auto" Height="200">
+		<ScrollViewer VerticalScrollBarVisibility="Auto" Height="200" HorizontalAlignment="Stretch">
 			<ListBox ItemsSource="{Binding ConnectedClients}">
 				<ListBox.ItemTemplate>
 					<DataTemplate>
@@ -32,9 +52,10 @@
 				</ListBox.ItemTemplate>
 			</ListBox>
 		</ScrollViewer>
-		<StackPanel Height="10"></StackPanel>
+
+		<!-- Status Log Section -->
 		<TextBlock Margin="0 5">Status Log:</TextBlock>
-		<ScrollViewer VerticalScrollBarVisibility="Auto" Height="80">
+		<ScrollViewer VerticalScrollBarVisibility="Auto" Height="80" HorizontalAlignment="Stretch">
 			<ListBox ItemsSource="{Binding ServerLogs}">
 				<ListBox.ItemTemplate>
 					<DataTemplate>
@@ -44,6 +65,4 @@
 			</ListBox>
 		</ScrollViewer>
 	</StackPanel>
-
-
 </Window>
