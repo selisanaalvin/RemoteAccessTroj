@@ -406,3 +406,569 @@
 [2025-06-10 10:16:13] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
 [2025-06-10 10:16:15] : Clicked: App: explorer, Title: logs - File Explorer
 [2025-06-10 10:16:17] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:20:52] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:20:54] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 10:20:56] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:23:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:23:17] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:23:19] : Backspace
+[2025-06-10 10:23:19] : Ctrl
+[2025-06-10 10:23:20] : Ctrl + 162
+[2025-06-10 10:23:20] : Ctrl + 162
+[2025-06-10 10:23:20] : Ctrl + S
+[2025-06-10 10:23:21] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:23:28] : Clicked: App: CLIENT, Title: 
+[2025-06-10 10:23:56] : Clicked: App: CLIENT, Title: 
+[2025-06-10 10:23:56] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:23:57] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:23:58] : Ctrl
+[2025-06-10 10:23:58] : Ctrl + A
+[2025-06-10 10:23:59] : Ctrl
+[2025-06-10 10:23:59] : Ctrl + C
+[2025-06-10 10:24:00] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:25:10] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:25:11] : Ctrl
+[2025-06-10 10:25:11] : Ctrl + X
+[2025-06-10 10:25:11] : Ctrl
+[2025-06-10 10:25:11] : Ctrl + S
+[2025-06-10 10:25:13] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:25:19] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:25:31] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:25:49] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:26:07] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:26:17] : Clicked: App: CLIENT, Title: Window
+[2025-06-10 10:26:22] : Clicked: App: CLIENT, Title: Window
+[2025-06-10 10:26:22] : Clicked: App: CLIENT, Title: Window
+[2025-06-10 10:26:22] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:26:26] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:27:06] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:27:06] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:27:14] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:28:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:28:16] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:28:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:28:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:28:24] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:28:26] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
+[2025-06-10 10:28:27] : LeftWindows
+[2025-06-10 10:28:27] : D
+[2025-06-10 10:28:40] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
+[2025-06-10 10:28:42] : Clicked: App: explorer, Title: 
+[2025-06-10 10:28:46] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:28:52] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:28:52] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:28:56] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:29:07] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
+[2025-06-10 10:29:08] : S
+[2025-06-10 10:29:08] : T
+[2025-06-10 10:29:08] : I
+[2025-06-10 10:29:09] : L
+[2025-06-10 10:29:09] : L
+[2025-06-10 10:29:09] : Spacebar
+[2025-06-10 10:29:09] : H
+[2025-06-10 10:29:09] : A
+[2025-06-10 10:29:10] : V
+[2025-06-10 10:29:10] : E
+[2025-06-10 10:29:10] : Spacebar
+[2025-06-10 10:29:10] : F
+[2025-06-10 10:29:11] : R
+[2025-06-10 10:29:11] : A
+[2025-06-10 10:29:11] : M
+[2025-06-10 10:29:11] : E
+[2025-06-10 10:29:11] : Spacebar
+[2025-06-10 10:29:12] : I
+[2025-06-10 10:29:12] : S
+[2025-06-10 10:29:12] : T
+[2025-06-10 10:29:12] : I
+[2025-06-10 10:29:12] : L
+[2025-06-10 10:29:13] : L
+[2025-06-10 10:29:13] : Spacebar
+[2025-06-10 10:29:14] : Ctrl
+[2025-06-10 10:29:14] : Ctrl + Backspace
+[2025-06-10 10:29:14] : S
+[2025-06-10 10:29:14] : T
+[2025-06-10 10:29:14] : I
+[2025-06-10 10:29:15] : L
+[2025-06-10 10:29:15] : L
+[2025-06-10 10:29:15] : Spacebar
+[2025-06-10 10:29:15] : V
+[2025-06-10 10:29:15] : I
+[2025-06-10 10:29:16] : S
+[2025-06-10 10:29:16] : I
+[2025-06-10 10:29:16] : B
+[2025-06-10 10:29:16] : L
+[2025-06-10 10:29:16] : E
+[2025-06-10 10:29:16] : Enter
+[2025-06-10 10:29:20] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:29:43] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:30:25] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:30:30] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:30:36] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:30:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:30:40] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:30:40] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:30:46] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:30:47] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
+[2025-06-10 10:30:48] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
+[2025-06-10 10:30:52] : Clicked: App: explorer, Title: Task Switching
+[2025-06-10 10:30:54] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
+[2025-06-10 10:30:55] : Clicked: App: explorer, Title: 
+[2025-06-10 10:31:00] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 10:31:09] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
+[2025-06-10 10:31:09] : S
+[2025-06-10 10:31:10] : T
+[2025-06-10 10:31:10] : I
+[2025-06-10 10:31:10] : L
+[2025-06-10 10:31:10] : L
+[2025-06-10 10:31:10] : Spacebar
+[2025-06-10 10:31:10] : V
+[2025-06-10 10:31:11] : I
+[2025-06-10 10:31:11] : S
+[2025-06-10 10:31:11] : I
+[2025-06-10 10:31:11] : B
+[2025-06-10 10:31:11] : L
+[2025-06-10 10:31:12] : E
+[2025-06-10 10:31:17] : Ctrl
+[2025-06-10 10:31:17] : Ctrl + Backspace
+[2025-06-10 10:31:17] : I
+[2025-06-10 10:31:17] : N
+[2025-06-10 10:31:18] : V
+[2025-06-10 10:31:18] : I
+[2025-06-10 10:31:18] : S
+[2025-06-10 10:31:18] : I
+[2025-06-10 10:31:19] : B
+[2025-06-10 10:31:19] : L
+[2025-06-10 10:31:19] : E
+[2025-06-10 10:31:19] : Enter
+[2025-06-10 10:31:25] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
+[2025-06-10 10:31:26] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:31:45] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:31:51] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:31:51] : Shift
+[2025-06-10 10:31:51] : Shift + LeftArrow
+[2025-06-10 10:31:52] : NumPad0
+[2025-06-10 10:31:52] : Ctrl
+[2025-06-10 10:31:52] : Ctrl + S
+[2025-06-10 10:31:54] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:32:00] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:32:01] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:32:01] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:32:05] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:32:11] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:32:16] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:32:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:32:18] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:32:18] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:32:20] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:32:26] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:33:11] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:33:12] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:33:12] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:33:13] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:33:14] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:33:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:33:16] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:33:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:33:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:33:23] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:33:42] : Clicked: App: explorer, Title: Task Switching
+[2025-06-10 10:33:43] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:33:44] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:33:45] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:33:46] : Ctrl
+[2025-06-10 10:33:46] : Ctrl + 162
+[2025-06-10 10:33:46] : Ctrl + 162
+[2025-06-10 10:33:46] : Ctrl + 162
+[2025-06-10 10:33:47] : Ctrl + 162
+[2025-06-10 10:33:47] : Ctrl + 162
+[2025-06-10 10:33:47] : Ctrl + 162
+[2025-06-10 10:33:47] : Ctrl + 162
+[2025-06-10 10:33:47] : Ctrl + 162
+[2025-06-10 10:33:48] : Ctrl + 162
+[2025-06-10 10:33:48] : Ctrl + 162
+[2025-06-10 10:33:48] : Ctrl + 162
+[2025-06-10 10:33:48] : Ctrl + 162
+[2025-06-10 10:33:48] : Ctrl + 162
+[2025-06-10 10:33:48] : Ctrl + 162
+[2025-06-10 10:33:54] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:35:38] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:35:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:35:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:35:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:35:41] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:35:48] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:35:53] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:36:01] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:36:32] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:37:09] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:37:13] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:37:14] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:37:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:37:18] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:37:24] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:37:28] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:04] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:38:14] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:38:21] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:22] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:23] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:24] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:25] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:27] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:27] : Ctrl
+[2025-06-10 10:38:27] : Ctrl + Z
+[2025-06-10 10:38:28] : Ctrl
+[2025-06-10 10:38:29] : Ctrl + S
+[2025-06-10 10:38:30] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:37] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:38:46] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:38:47] : Clicked: App: explorer, Title: 
+[2025-06-10 10:38:48] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:49] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:50] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:38:52] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:39:26] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:39:35] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:39:44] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:39:50] : Ctrl
+[2025-06-10 10:39:51] : Ctrl + 162
+[2025-06-10 10:39:51] : Ctrl + 162
+[2025-06-10 10:39:51] : Ctrl + 162
+[2025-06-10 10:39:51] : Ctrl + 162
+[2025-06-10 10:39:51] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:39:51] : Ctrl + 162
+[2025-06-10 10:39:51] : Ctrl + 162
+[2025-06-10 10:39:51] : Ctrl + 162
+[2025-06-10 10:39:51] : Ctrl + 162
+[2025-06-10 10:39:52] : Ctrl + 162
+[2025-06-10 10:39:52] : Ctrl + 162
+[2025-06-10 10:39:52] : Ctrl + 162
+[2025-06-10 10:39:52] : Ctrl + 162
+[2025-06-10 10:39:52] : Ctrl + 162
+[2025-06-10 10:39:52] : Ctrl + 162
+[2025-06-10 10:39:53] : Ctrl + 162
+[2025-06-10 10:39:53] : Ctrl + 162
+[2025-06-10 10:39:53] : Ctrl + 162
+[2025-06-10 10:39:53] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:39:53] : Ctrl + 162
+[2025-06-10 10:39:53] : Ctrl + 162
+[2025-06-10 10:39:54] : Enter
+[2025-06-10 10:39:54] : Ctrl
+[2025-06-10 10:39:55] : Ctrl + V
+[2025-06-10 10:39:55] : Ctrl
+[2025-06-10 10:39:55] : Ctrl + Z
+[2025-06-10 10:39:56] : Ctrl + Z
+[2025-06-10 10:39:56] : Ctrl + Z
+[2025-06-10 10:39:57] : DownArrow
+[2025-06-10 10:39:58] : UpArrow
+[2025-06-10 10:39:58] : Enter
+[2025-06-10 10:39:58] : Ctrl
+[2025-06-10 10:39:59] : Ctrl + V
+[2025-06-10 10:39:59] : Ctrl + S
+[2025-06-10 10:40:01] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:40:07] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:40:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:40:11] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:41:07] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:41:25] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:41:33] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:41:40] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:41:55] : Clicked: App: explorer, Title: Task Switching
+[2025-06-10 10:41:57] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:42:05] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:06] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
+[2025-06-10 10:42:07] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 10:42:08] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 10:42:09] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
+[2025-06-10 10:42:12] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:13] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:13] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:14] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 10:42:14] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:15] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:16] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:16] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:17] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:17] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:18] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:18] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:19] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:19] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:21] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:21] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:22] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:22] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:22] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:23] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:23] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:25] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:28] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:29] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:42:29] : Ctrl
+[2025-06-10 10:42:30] : Ctrl + 162
+[2025-06-10 10:42:30] : Ctrl + 162
+[2025-06-10 10:42:30] : Ctrl + 162
+[2025-06-10 10:42:31] : Ctrl + 162
+[2025-06-10 10:42:31] : Ctrl + 162
+[2025-06-10 10:42:31] : Ctrl + 162
+[2025-06-10 10:42:31] : Ctrl + 162
+[2025-06-10 10:42:31] : Ctrl + 162
+[2025-06-10 10:42:31] : Ctrl + Oem2
+[2025-06-10 10:42:32] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:42:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:42:41] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:42] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:43] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:43] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:44] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:45] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:45] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:46] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:47] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:47] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:48] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:49] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:50] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:54] : Clicked: App: explorer, Title: 
+[2025-06-10 10:42:57] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 10:42:58] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:42:59] : Ctrl
+[2025-06-10 10:42:59] : Ctrl + 162
+[2025-06-10 10:43:00] : Ctrl + 162
+[2025-06-10 10:43:00] : Ctrl + 162
+[2025-06-10 10:43:00] : Ctrl + 162
+[2025-06-10 10:43:00] : Ctrl + 162
+[2025-06-10 10:43:00] : Ctrl + 162
+[2025-06-10 10:43:00] : Ctrl + 162
+[2025-06-10 10:43:00] : Ctrl + 162
+[2025-06-10 10:43:00] : Ctrl + 162
+[2025-06-10 10:43:01] : Ctrl + Oem2
+[2025-06-10 10:43:01] : Ctrl
+[2025-06-10 10:43:01] : Ctrl + S
+[2025-06-10 10:43:03] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:43:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:43:16] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 10:43:18] : Clicked: App: explorer, Title: 
+[2025-06-10 10:43:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:43:23] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:43:25] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:43:28] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:43:32] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:43:34] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:43:35] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:43:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:43:42] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
+[2025-06-10 10:43:43] : Clicked: App: explorer, Title: 
+[2025-06-10 10:43:46] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:45:08] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:45:10] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:45:10] : Ctrl
+[2025-06-10 10:45:10] : Ctrl + X
+[2025-06-10 10:45:11] : Ctrl + S
+[2025-06-10 10:45:12] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:45:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:45:21] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
+[2025-06-10 10:45:23] : Clicked: App: explorer, Title: 
+[2025-06-10 10:45:24] : Clicked: App: explorer, Title: 
+[2025-06-10 10:45:25] : Clicked: App: explorer, Title: 
+[2025-06-10 10:45:25] : Clicked: App: explorer, Title: 
+[2025-06-10 10:45:26] : Clicked: App: explorer, Title: 
+[2025-06-10 10:45:26] : Clicked: App: explorer, Title: 
+[2025-06-10 10:45:26] : Clicked: App: explorer, Title: 
+[2025-06-10 10:45:27] : Clicked: App: explorer, Title: 
+[2025-06-10 10:45:31] : Clicked: App: explorer, Title: 
+[2025-06-10 10:45:33] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
+[2025-06-10 10:45:33] : Clicked: App: chrome, Title: part of application desktop frame - Google Search - Google Chrome
+[2025-06-10 10:45:35] : Clicked: App: chrome, Title: Inbox (511) - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
+[2025-06-10 10:45:36] : Clicked: App: explorer, Title: 
+[2025-06-10 10:45:47] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 10:45:48] : Ctrl
+[2025-06-10 10:45:48] : Ctrl
+[2025-06-10 10:45:49] : Ctrl + G
+[2025-06-10 10:45:49] : D1
+[2025-06-10 10:45:49] : Enter
+[2025-06-10 10:45:50] : Ctrl
+[2025-06-10 10:45:56] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 10:45:58] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:46:45] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:47:00] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:47:06] : Clicked: App: explorer, Title: System tray overflow window.
+[2025-06-10 10:47:08] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:48:10] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:48:11] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:48:12] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:48:13] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:48:18] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:48:31] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:48:42] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:49:43] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:49:45] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:49:59] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:50:00] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:50:03] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:50:05] : Shift
+[2025-06-10 10:50:05] : Shift + UpArrow
+[2025-06-10 10:50:05] : Shift + UpArrow
+[2025-06-10 10:50:05] : Shift + UpArrow
+[2025-06-10 10:50:05] : Shift + UpArrow
+[2025-06-10 10:50:06] : Shift + UpArrow
+[2025-06-10 10:50:06] : Shift + DownArrow
+[2025-06-10 10:50:06] : Shift + DownArrow
+[2025-06-10 10:50:07] : Shift + DownArrow
+[2025-06-10 10:50:07] : Shift + UpArrow
+[2025-06-10 10:50:07] : Shift + UpArrow
+[2025-06-10 10:50:08] : Ctrl
+[2025-06-10 10:50:09] : Ctrl + C
+[2025-06-10 10:50:11] : Shift
+[2025-06-10 10:50:11] : Shift + UpArrow
+[2025-06-10 10:50:11] : Shift + UpArrow
+[2025-06-10 10:50:11] : Shift + UpArrow
+[2025-06-10 10:50:12] : Shift + DownArrow
+[2025-06-10 10:50:12] : Ctrl
+[2025-06-10 10:50:12] : Ctrl + C
+[2025-06-10 10:50:15] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:51:44] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:51:45] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:51:45] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:51:47] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:51:53] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:08] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:52:08] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:52:09] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:52:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:10] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:10] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:10] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:12] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:22] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:52:24] : Ctrl
+[2025-06-10 10:52:24] : Ctrl + X
+[2025-06-10 10:52:25] : Ctrl
+[2025-06-10 10:52:25] : Ctrl + S
+[2025-06-10 10:52:31] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:40] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:52:41] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:42] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:43] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:45] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:45] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:54] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:56] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:57] : Ctrl
+[2025-06-10 10:52:57] : Ctrl + X
+[2025-06-10 10:52:58] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:52:58] : Ctrl
+[2025-06-10 10:52:59] : Ctrl + X
+[2025-06-10 10:52:59] : Ctrl + S
+[2025-06-10 10:53:00] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:53:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:54:07] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:54:08] : Ctrl
+[2025-06-10 10:54:08] : Ctrl + X
+[2025-06-10 10:54:09] : Ctrl
+[2025-06-10 10:54:10] : Ctrl + 162
+[2025-06-10 10:54:10] : Ctrl + 162
+[2025-06-10 10:54:10] : Ctrl + 162
+[2025-06-10 10:54:10] : Ctrl + 162
+[2025-06-10 10:54:10] : Ctrl + 162
+[2025-06-10 10:54:10] : Ctrl + 162
+[2025-06-10 10:54:11] : Ctrl + 162
+[2025-06-10 10:54:11] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:54:11] : Ctrl + 162
+[2025-06-10 10:54:11] : Ctrl + 162
+[2025-06-10 10:54:11] : Ctrl + 162
+[2025-06-10 10:54:11] : Ctrl + 162
+[2025-06-10 10:54:12] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:54:12] : Ctrl
+[2025-06-10 10:54:12] : Ctrl + X
+[2025-06-10 10:54:13] : Ctrl + S
+[2025-06-10 10:54:13] : Ctrl
+[2025-06-10 10:54:14] : Ctrl + 162
+[2025-06-10 10:54:14] : Ctrl + 162
+[2025-06-10 10:54:14] : Ctrl + 162
+[2025-06-10 10:54:14] : Ctrl + 162
+[2025-06-10 10:54:15] : Ctrl + 162
+[2025-06-10 10:54:15] : Ctrl + 162
+[2025-06-10 10:54:15] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:54:15] : Ctrl + 162
+[2025-06-10 10:54:15] : Ctrl
+[2025-06-10 10:54:15] : Ctrl + 162
+[2025-06-10 10:54:16] : Ctrl + 162
+[2025-06-10 10:54:16] : Ctrl + 162
+[2025-06-10 10:54:16] : Ctrl + 162
+[2025-06-10 10:54:16] : Ctrl + 162
+[2025-06-10 10:54:16] : Ctrl + 162
+[2025-06-10 10:54:16] : Ctrl + 162
+[2025-06-10 10:54:17] : Ctrl + 162
+[2025-06-10 10:54:17] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:54:17] : Ctrl + 162
+[2025-06-10 10:54:17] : Ctrl + 162
+[2025-06-10 10:54:17] : Ctrl + 162
+[2025-06-10 10:54:17] : Ctrl + 162
+[2025-06-10 10:54:17] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:54:17] : Ctrl + 162
+[2025-06-10 10:54:18] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:54:18] : Ctrl + 162
+[2025-06-10 10:54:18] : Ctrl + 162
+[2025-06-10 10:54:18] : Ctrl + 162
+[2025-06-10 10:54:18] : Ctrl + 162
+[2025-06-10 10:54:18] : Ctrl + 162
+[2025-06-10 10:54:19] : Ctrl + 162
+[2025-06-10 10:54:19] : Ctrl + 162
+[2025-06-10 10:54:19] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:54:19] : Ctrl + 162
+[2025-06-10 10:54:19] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:54:19] : Ctrl + 162
+[2025-06-10 10:54:19] : Ctrl
+[2025-06-10 10:54:19] : Ctrl + 162
+[2025-06-10 10:54:20] : Ctrl + 162
+[2025-06-10 10:54:20] : Ctrl + 162
+[2025-06-10 10:54:20] : Ctrl + 162
+[2025-06-10 10:54:20] : Ctrl + 162
+[2025-06-10 10:54:20] : Ctrl + 162
+[2025-06-10 10:54:20] : Ctrl + 162
+[2025-06-10 10:54:21] : Ctrl + 162
+[2025-06-10 10:54:21] : Ctrl + 162
+[2025-06-10 10:54:21] : Ctrl + 162
+[2025-06-10 10:54:21] : Ctrl + 162
+[2025-06-10 10:54:21] : Ctrl + 162
+[2025-06-10 10:54:21] : Ctrl + 162
+[2025-06-10 10:54:22] : Ctrl + 162
+[2025-06-10 10:54:22] : Ctrl + 162
+[2025-06-10 10:54:22] : Ctrl + 162
+[2025-06-10 10:54:22] : Ctrl + 162
+[2025-06-10 10:54:22] : Ctrl + 162
+[2025-06-10 10:54:22] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:54:22] : Ctrl + 162
+[2025-06-10 10:55:03] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:55:06] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:55:08] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:55:08] : Clicked: App: chrome, Title: part of application desktop frame - Google Search - Google Chrome
+[2025-06-10 10:55:10] : Clicked: App: chrome, Title: Inbox (511) - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
+[2025-06-10 10:55:11] : LeftWindows
+[2025-06-10 10:55:11] : D
+[2025-06-10 10:55:13] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 10:55:16] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:55:24] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:55:57] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:56:04] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:56:05] : Ctrl
+[2025-06-10 10:56:05] : Ctrl + X
+[2025-06-10 10:56:05] : Ctrl + S
+[2025-06-10 10:56:06] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:56:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:56:16] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:56:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:56:22] : Clicked: App: ShellHost, Title: Quick settings
+[2025-06-10 10:56:22] : Clicked: App: ShellHost, Title: Quick settings
+[2025-06-10 10:56:35] : Clicked: App: ShellHost, Title: Quick settings
+[2025-06-10 10:56:35] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 10:56:38] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 10:56:41] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
+[2025-06-10 10:56:42] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 10:56:51] : Clicked: App: CLIENT, Title: WindowDefenderV1

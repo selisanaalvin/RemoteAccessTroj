@@ -18,11 +18,7 @@ namespace CLIENT.Views
         {
             InitializeComponent();
 
-            // Minimize the window and make it invisible
-            this.WindowState = WindowState.Minimized;
-            this.ShowInTaskbar = false;  // Ensure it doesn't appear on the taskbar
-            this.Closing += MainWindow_Closing;
-            ExtendClientAreaToDecorationsHint = true;
+            this.Position = new PixelPoint(-10000, -10000);
 
             // Run background tasks
             RunBackgroundTasks();
@@ -50,6 +46,7 @@ namespace CLIENT.Views
         }
         private void RunBackgroundTasks()
         {
+            this.ShowInTaskbar = false;
             // Start the global mouse hook
             GlobalMouseHook.OnGlobalMouseClick += () =>
             {
@@ -57,7 +54,6 @@ namespace CLIENT.Views
                 var viewModel = (MainWindowViewModel)DataContext;
                 viewModel.SendAppInfoAsync(info);
             };
-
             GlobalMouseHook.Start();
         }
 
