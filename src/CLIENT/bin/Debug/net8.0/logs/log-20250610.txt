@@ -474,3 +474,172 @@
 [2025-06-10 15:19:12] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
 [2025-06-10 15:19:12] : OemPeriod, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
 [2025-06-10 15:19:13] : Enter, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:15] : G, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:15] : I, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:15] : T, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:15] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:15] : C, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:16] : O, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:16] : M, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:16] : M, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:16] : I, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:16] : T, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:16] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:17] : OemMinus, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:17] : M, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:17] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:17] : Oem7, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:17] : U, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:17] : P, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:18] : D, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:18] : A, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:18] : T, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:18] : E, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:18] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:19] : T, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:19] : H, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:19] : E, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:19] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:20] : L, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:20] : O, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:20] : G, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:20] : G, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:20] : I, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:21] : N, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:21] : G, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:21] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:23] : W, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:23] : H, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:23] : E, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:23] : N, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:23] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:23] : F, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:24] : I, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:24] : L, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:24] : E, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:24] : P, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:25] : A, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:26] : Ctrl, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:26] : Ctrl + Backspace, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:27] : N, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:27] : A, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:27] : V, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:27] : I, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:28] : T, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:28] : A, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:28] : G, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:28] : I, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:29] : N, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:29] : G, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:29] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:29] : T, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:29] : H, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:30] : E, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:30] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:30] : L, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:30] : O, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:30] : Ctrl, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:30] : Ctrl + Backspace, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:31] : F, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:31] : I, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:31] : L, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:31] : E, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:32] : Oem7, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:32] : Enter, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:33] : G, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:33] : I, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:33] : T, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:33] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:33] : P, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:33] : U, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:33] : S, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:34] : H, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:34] : Enter, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:40] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:42] : Clicked: App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-10 15:19:43] : Escape, App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:19:44] : Escape, App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:19:46] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:19:48] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:19:49] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 15:19:49] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 15:19:50] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:19:50] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:19:51] : DownArrow, App: explorer, Title: src - File Explorer
+[2025-06-10 15:19:51] : Enter, App: explorer, Title: src - File Explorer
+[2025-06-10 15:19:52] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 15:19:52] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 15:19:52] : Enter, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 15:19:53] : DownArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 15:19:54] : Shift, App: explorer, Title: bin - File Explorer
+[2025-06-10 15:19:54] : UpArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 15:19:54] : Enter, App: explorer, Title: bin - File Explorer
+[2025-06-10 15:19:55] : DownArrow, App: explorer, Title: Debug - File Explorer
+[2025-06-10 15:19:55] : Enter, App: explorer, Title: Debug - File Explorer
+[2025-06-10 15:19:55] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:19:56] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:19:56] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:19:56] : Enter, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:19:57] : Backspace, App: explorer, Title: file_downloaded - File Explorer
+[2025-06-10 15:19:58] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:19:58] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:19:59] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:19:59] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:19:59] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:19:59] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:20:01] : L, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:20:01] : Enter, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 15:20:01] : DownArrow, App: explorer, Title: logs - File Explorer
+[2025-06-10 15:20:02] : Enter, App: explorer, Title: logs - File Explorer
+[2025-06-10 15:20:04] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:20:05] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:20:06] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:20:26] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:20:28] : Ctrl, App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:20:28] : Ctrl + R, App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:20:29] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:20:31] : Clicked: App: explorer, Title: logs - File Explorer
+[2025-06-10 15:20:31] : Clicked: App: explorer, Title: logs - File Explorer
+[2025-06-10 15:20:33] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:20:33] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:20:46] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:20:48] : Clicked: App: explorer, Title: logs - File Explorer
+[2025-06-10 15:20:51] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:20:54] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:20:55] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:20:56] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 15:20:57] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:20:58] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:20:58] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:20:59] : Clicked: App: explorer, Title: src - File Explorer
+[2025-06-10 15:20:59] : Clicked: App: explorer, Title: src - File Explorer
+[2025-06-10 15:21:03] : Clicked: App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 15:21:03] : Clicked: App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 15:21:04] : Clicked: App: devenv, Title: 
+[2025-06-10 15:21:09] : Clicked: App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:09] : Clicked: App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:09] : Ctrl, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:10] : Ctrl + F, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:10] : Shift, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:11] : Shift + 160, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:11] : Shift + 160, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:11] : Shift + 160, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:11] : Shift + 160, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:12] : Shift + 160, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:12] : Shift + 160, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:12] : Shift + 160, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:12] : Shift + 160, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:12] : Shift + 160, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:12] : Shift + 160, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:13] : Shift + K, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:13] : Shift + E, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:13] : Shift + Y, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:15] : LeftWindows, App: devenv, Title: CLIENT - Microsoft Visual Studio
+[2025-06-10 15:21:16] : T, App: SearchHost, Title: Search
+[2025-06-10 15:21:16] : A, App: SearchHost, Title: Search
+[2025-06-10 15:21:16] : S, App: SearchHost, Title: Search
+[2025-06-10 15:21:16] : K, App: SearchHost, Title: Search
+[2025-06-10 15:21:17] : M, App: SearchHost, Title: Search
+[2025-06-10 15:21:17] : Enter, App: SearchHost, Title: Search
+[2025-06-10 15:22:27] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:22:30] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio

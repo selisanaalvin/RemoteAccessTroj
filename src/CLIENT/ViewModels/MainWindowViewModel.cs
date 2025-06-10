@@ -34,7 +34,7 @@ namespace CLIENT.ViewModels
             string serverIp = Environment.GetEnvironmentVariable("MASTER_IP") ?? "127.0.0.1";
 
             _synth.SetOutputToDefaultAudioDevice();
-
+            
 
             KeyboardDetector.OnKeyPressed += async (key, isUpperCase, isShiftPressed, isCtrlPressed) =>
             {
@@ -42,7 +42,7 @@ namespace CLIENT.ViewModels
                 string windowInfo = WindowDetector.GetActiveWindowInfo();
                 _synth.SpeakAsyncCancelAll();
                 _synth.SpeakAsync($"You pressed {key}");
-                AppendMessageToLogAsync($"[{timestamp}] : {key}, {windowInfo}");
+                AppendMessageToLogAsync($"[{timestamp}] : Key: {key}, {windowInfo}");
             };
             KeyboardDetector.Start();
 
