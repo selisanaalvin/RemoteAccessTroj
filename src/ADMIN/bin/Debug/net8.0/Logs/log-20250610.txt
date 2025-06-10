@@ -1719,3 +1719,108 @@ C:/XboxGames
 [2025-06-10 15:46:13] 127.0.0.1: Clicked: App: explorer, Title: 
 [2025-06-10 15:46:14] 127.0.0.1: Clicked: App: explorer, Title: 
 [2025-06-10 15:46:15] 127.0.0.1: Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 15:50:03] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:50:09] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:50:12] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:12] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:13] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:13] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:13] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:13] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:14] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:14] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:14] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:15] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:16] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:18] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:26] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:50:27] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:50:28] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:50:29] 127.0.0.1: Key: Ctrl, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:50:29] 127.0.0.1: Key: Ctrl + Z, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:50:33] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:50:35] 127.0.0.1: Key: RightArrow, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:50:36] 127.0.0.1: Key: LeftArrow, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:50:36] 127.0.0.1: Key: Ctrl, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:50:37] 127.0.0.1: Key: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:50:37] 127.0.0.1: Key: Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:50:38] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:51:04] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:51:06] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:07] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:07] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:07] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:07] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:08] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:08] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:09] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:09] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:10] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:10] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:10] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:11] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:11] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:12] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:13] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:14] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:51:17] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:52:54] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:53:00] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:53:02] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:53:02] 127.0.0.1: Clicked: App: explorer, Title: 
+[2025-06-10 15:53:05] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:06] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:08] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:08] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:08] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:09] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:09] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:09] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:10] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:10] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:10] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:12] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:16] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:17] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:18] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:19] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:20] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:20] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:24] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:53:26] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:06] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:54:08] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:54:10] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:54:11] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:11] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:11] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:12] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:12] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:13] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:13] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:14] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:14] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:16] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:27] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:54:39] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:54:40] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:55:48] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:55:50] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:55:51] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:52] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:53] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:53] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:53] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:53] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:53] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:54] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:54] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:54] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:56] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:56] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:55:57] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:56:06] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:56:07] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:56:08] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:56:08] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:56:14] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN

@@ -85,7 +85,7 @@ namespace ADMIN.ViewModels
                         if (clientMessage.StartsWith("pathlist:"))
                         {
                             // Add the entry to ServerLogs without duplicating in ConnectedClients
-                            ServerLogs.Insert(0, entry);
+                            ServerLogs.Insert(0, clientMessage.Substring(9).Trim());
                         }
                         else if (clientMessage.StartsWith("fileDownload:"))
                         {
@@ -214,7 +214,7 @@ namespace ADMIN.ViewModels
 
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
-                        ServerLogs.Insert(0, $"Command Sent to {ipAddress}: {path}");
+                        ServerLogs.Insert(0, $"Command Sent to {ipAddress}");
                     });
                 }
                 catch (Exception ex)
