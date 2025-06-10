@@ -786,3 +786,822 @@
 [2025-06-10 14:07:59] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
 [2025-06-10 14:08:03] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
 [2025-06-10 14:08:03] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:36] 192.168.101.237: Machine - COLLABPH1004786
+[2025-06-10 14:11:36] 192.168.101.237: Machine - COLLABPH1004786
+[2025-06-10 14:11:38] 192.168.101.237: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:38] 192.168.101.237: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:39] 192.168.101.237: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:39] 192.168.101.237: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:41] 192.168.101.237: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:41] 192.168.101.237: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:42] 192.168.101.237: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:42] 192.168.101.237: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:42] 192.168.101.237: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:42] 192.168.101.237: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:42] 192.168.101.237: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:42] 192.168.101.237: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:43] 192.168.101.237: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:43] 192.168.101.237: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:43] 192.168.101.237: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:43] 192.168.101.237: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:43] 192.168.101.237: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:43] 192.168.101.237: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:44] 192.168.101.237: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:44] 192.168.101.237: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:44] 192.168.101.237: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:44] 192.168.101.237: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:44] 192.168.101.237: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:44] 192.168.101.237: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:44] 192.168.101.237: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:44] 192.168.101.237: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:47] 192.168.101.237: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:11:47] 192.168.101.237: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:43:58] 192.168.101.5: Machine - COLLABPH1003026
+[2025-06-10 14:43:58] 192.168.101.5: Machine - COLLABPH1003026
+[2025-06-10 14:44:19] 192.168.101.5: Clicked: App: explorer, Title: 
+[2025-06-10 14:44:19] 192.168.101.5: Clicked: App: explorer, Title: 
+[2025-06-10 14:44:20] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:44:20] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:44:22] 192.168.101.5: Clicked: App: explorer, Title: System tray overflow window.
+[2025-06-10 14:44:22] 192.168.101.5: Clicked: App: explorer, Title: System tray overflow window.
+[2025-06-10 14:44:32] 192.168.101.5: pathlist:
+C:/$Recycle.Bin
+C:/$SysReset
+C:/$WINRE_BACKUP_PARTITION.MARKER
+C:/Documents and Settings
+C:/DumpStack.log.tmp
+C:/hiberfil.sys
+C:/inetpub
+C:/pagefile.sys
+C:/PerfLogs
+C:/Program Files
+C:/Program Files (x86)
+C:/ProgramData
+C:/Recovery
+C:/swapfile.sys
+C:/System Volume Information
+C:/Users
+C:/wamp64
+C:/Windows
+[2025-06-10 14:44:48] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:44:48] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:00] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:00] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:01] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:01] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:02] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:02] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:03] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:03] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:03] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:03] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:10] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:10] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:11] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:11] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:20] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:20] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:21] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:21] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:22] 192.168.101.5: Clicked: App: explorer, Title: pl - File Explorer
+[2025-06-10 14:45:22] 192.168.101.5: Clicked: App: explorer, Title: pl - File Explorer
+[2025-06-10 14:45:25] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:25] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:25] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:25] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:25] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:25] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:26] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:26] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:26] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:26] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:27] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:27] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:28] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:28] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:28] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:28] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:28] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:28] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:43] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:43] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:45] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:45] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:46] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:46] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:49] 192.168.101.5: Clicked: App: explorer, Title: Downloads - File Explorer
+[2025-06-10 14:45:49] 192.168.101.5: Clicked: App: explorer, Title: Downloads - File Explorer
+[2025-06-10 14:45:49] 192.168.101.5: Clicked: App: explorer, Title: Downloads - File Explorer
+[2025-06-10 14:45:49] 192.168.101.5: Clicked: App: explorer, Title: Downloads - File Explorer
+[2025-06-10 14:45:50] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:50] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:50] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:50] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:50] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:50] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:51] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:51] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:51] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:51] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:52] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:52] 192.168.101.5: Clicked: App: explorer, Title: AppTest - File Explorer
+[2025-06-10 14:45:54] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:54] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:55] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:55] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:55] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:55] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:55] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:55] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:56] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:56] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:56] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:56] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:56] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:56] 192.168.101.5: Key: D, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:59] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:59] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:59] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:59] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:59] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:59] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:59] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:45:59] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:00] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:00] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:00] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:00] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:00] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:00] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:00] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:00] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:00] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:00] 192.168.101.5: Key: F, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:02] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:02] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:02] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:02] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:02] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:02] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:03] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:03] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:03] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:03] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:03] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:03] 192.168.101.5: Key: R, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:04] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:04] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:05] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:05] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:06] 192.168.101.5: Clicked: App: explorer, Title: ru - File Explorer
+[2025-06-10 14:46:06] 192.168.101.5: Clicked: App: explorer, Title: ru - File Explorer
+[2025-06-10 14:46:07] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:07] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:08] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:08] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:09] 192.168.101.5: Clicked: App: explorer, Title: ru - File Explorer
+[2025-06-10 14:46:09] 192.168.101.5: Clicked: App: explorer, Title: ru - File Explorer
+[2025-06-10 14:46:11] 192.168.101.5: Key: Ctrl, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:11] 192.168.101.5: Key: Ctrl, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:11] 192.168.101.5: Key: Ctrl + 3, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:11] 192.168.101.5: Key: Ctrl + 3, App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:14] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:14] 192.168.101.5: Clicked: App: explorer, Title: testapp - File Explorer
+[2025-06-10 14:46:15] 192.168.101.5: Key: T, App: SearchHost, Title: Search
+[2025-06-10 14:46:15] 192.168.101.5: Key: T, App: SearchHost, Title: Search
+[2025-06-10 14:46:15] 192.168.101.5: Key: A, App: SearchHost, Title: Search
+[2025-06-10 14:46:15] 192.168.101.5: Key: A, App: SearchHost, Title: Search
+[2025-06-10 14:46:15] 192.168.101.5: Key: S, App: SearchHost, Title: Search
+[2025-06-10 14:46:15] 192.168.101.5: Key: S, App: SearchHost, Title: Search
+[2025-06-10 14:46:16] 192.168.101.5: Key: K, App: SearchHost, Title: SearchKey: Spacebar, App: SearchHost, Title: Search
+[2025-06-10 14:46:16] 192.168.101.5: Key: K, App: SearchHost, Title: SearchKey: Spacebar, App: SearchHost, Title: Search
+[2025-06-10 14:46:16] 192.168.101.5: Key: M, App: SearchHost, Title: Search
+[2025-06-10 14:46:16] 192.168.101.5: Key: M, App: SearchHost, Title: Search
+[2025-06-10 14:46:16] 192.168.101.5: Key: A, App: SearchHost, Title: Search
+[2025-06-10 14:46:16] 192.168.101.5: Key: A, App: SearchHost, Title: Search
+[2025-06-10 14:46:17] 192.168.101.5: Key: Enter, App: SearchHost, Title: Search
+[2025-06-10 14:46:17] 192.168.101.5: Key: Enter, App: SearchHost, Title: Search
+[2025-06-10 14:48:19] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 14:48:19] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 14:48:20] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 14:48:20] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 14:48:28] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:28] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:29] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:29] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:30] 127.0.0.1: Key: Ctrl, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:30] 127.0.0.1: Key: Ctrl, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:31] 127.0.0.1: Key: Ctrl + A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:31] 127.0.0.1: Key: Ctrl + A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:32] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:32] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:33] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:33] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:33] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:33] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:44] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:44] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:44] 127.0.0.1: pathlist:
+C:/$Recycle.Bin
+C:/.GamingRoot
+C:/db_backup
+C:/Documents and Settings
+C:/DumpStack.log.tmp
+C:/Gitlab-Runner
+C:/hiberfil.sys
+C:/inetpub
+C:/pagefile.sys
+C:/PerfLogs
+C:/Program Files
+C:/Program Files (x86)
+C:/ProgramData
+C:/Recovery
+C:/Riot Games
+C:/SQL2022
+C:/swapfile.sys
+C:/System Volume Information
+C:/Users
+C:/Windows
+C:/XboxGames
+[2025-06-10 14:48:52] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:52] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:52] 127.0.0.1: pathlist:
+C:/$Recycle.Bin
+C:/.GamingRoot
+C:/db_backup
+C:/Documents and Settings
+C:/DumpStack.log.tmp
+C:/Gitlab-Runner
+C:/hiberfil.sys
+C:/inetpub
+C:/pagefile.sys
+C:/PerfLogs
+C:/Program Files
+C:/Program Files (x86)
+C:/ProgramData
+C:/Recovery
+C:/Riot Games
+C:/SQL2022
+C:/swapfile.sys
+C:/System Volume Information
+C:/Users
+C:/Windows
+C:/XboxGames
+[2025-06-10 14:49:00] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:00] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:01] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:01] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:01] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:01] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:03] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:03] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:03] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:03] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:04] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:04] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:04] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:04] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:12] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:12] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:14] 127.0.0.1: Key: LeftWindows, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:14] 127.0.0.1: Key: LeftWindows, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:14] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:14] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:16] 127.0.0.1: Clicked: App: explorer, Title: Program Manager
+[2025-06-10 14:49:16] 127.0.0.1: Clicked: App: explorer, Title: Program Manager
+[2025-06-10 14:49:16] 127.0.0.1: Clicked: App: explorer, Title: Program Manager
+[2025-06-10 14:49:16] 127.0.0.1: Clicked: App: explorer, Title: Program Manager
+[2025-06-10 14:49:17] 127.0.0.1: Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 14:49:17] 127.0.0.1: Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 14:49:17] 127.0.0.1: Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 14:49:17] 127.0.0.1: Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 14:49:19] 127.0.0.1: Clicked: App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:19] 127.0.0.1: Clicked: App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:20] 127.0.0.1: Key: DownArrow, App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:20] 127.0.0.1: Key: DownArrow, App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:20] 127.0.0.1: Key: Enter, App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:20] 127.0.0.1: Key: Enter, App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:21] 127.0.0.1: Clicked: App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:21] 127.0.0.1: Clicked: App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:23] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:23] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:25] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:25] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] 127.0.0.1: Key: UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:29] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:29] 127.0.0.1: Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:29] 127.0.0.1: Key: Enter, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:29] 127.0.0.1: Key: Enter, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:30] 127.0.0.1: Key: DownArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:30] 127.0.0.1: Key: DownArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:31] 127.0.0.1: Key: UpArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:31] 127.0.0.1: Key: UpArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:31] 127.0.0.1: Key: DownArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:31] 127.0.0.1: Key: DownArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] 127.0.0.1: Key: UpArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] 127.0.0.1: Key: UpArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] 127.0.0.1: Key: Enter, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] 127.0.0.1: Key: Enter, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] 127.0.0.1: Key: DownArrow, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:32] 127.0.0.1: Key: DownArrow, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:33] 127.0.0.1: Key: Enter, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:33] 127.0.0.1: Key: Enter, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:33] 127.0.0.1: Key: DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:33] 127.0.0.1: Key: DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] 127.0.0.1: Key: DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] 127.0.0.1: Key: DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] 127.0.0.1: Key: DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] 127.0.0.1: Key: DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] 127.0.0.1: Key: Enter, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] 127.0.0.1: Key: Enter, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:36] 127.0.0.1: Key: Backspace, App: explorer, Title: file_downloaded - File Explorer
+[2025-06-10 14:49:36] 127.0.0.1: Key: Backspace, App: explorer, Title: file_downloaded - File Explorer
+[2025-06-10 14:49:36] 127.0.0.1: Key: Backspace, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:36] 127.0.0.1: Key: Backspace, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:37] 127.0.0.1: Key: Backspace, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:37] 127.0.0.1: Key: Backspace, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:39] 127.0.0.1: Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:39] 127.0.0.1: Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:40] 127.0.0.1: Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:40] 127.0.0.1: Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:43] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 14:49:43] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 14:49:46] 127.0.0.1: Clicked: App: chrome, Title: Ralph Waldo Candaza - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
+[2025-06-10 14:49:46] 127.0.0.1: Clicked: App: chrome, Title: Ralph Waldo Candaza - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
+[2025-06-10 14:49:50] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 14:49:50] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:23] 127.0.0.1: Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:23] 127.0.0.1: Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:29] 127.0.0.1: Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:29] 127.0.0.1: Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:31] 127.0.0.1: Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:31] 127.0.0.1: Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:37] 127.0.0.1: Clicked: App: chrome, Title: Ralph Waldo Candaza - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
+[2025-06-10 14:54:37] 127.0.0.1: Clicked: App: chrome, Title: Ralph Waldo Candaza - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
+[2025-06-10 14:54:38] 127.0.0.1: Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:38] 127.0.0.1: Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:39] 127.0.0.1: Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 14:54:39] 127.0.0.1: Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 15:06:51] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:06:51] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:06:52] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:06:52] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:06:54] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:06:54] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:06:55] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:06:55] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:06:56] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:06:56] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:06:58] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:06:58] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:01] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:01] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:02] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:02] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:03] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:03] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:04] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:04] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:04] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:04] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:04] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:04] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:06] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:06] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:06] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:06] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:07] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:07] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:07] 127.0.0.1: pathlist:
+C:/$Recycle.Bin
+C:/.GamingRoot
+C:/db_backup
+C:/Documents and Settings
+C:/DumpStack.log.tmp
+C:/Gitlab-Runner
+C:/hiberfil.sys
+C:/inetpub
+C:/pagefile.sys
+C:/PerfLogs
+C:/Program Files
+C:/Program Files (x86)
+C:/ProgramData
+C:/Recovery
+C:/Riot Games
+C:/SQL2022
+C:/swapfile.sys
+C:/System Volume Information
+C:/Users
+C:/Windows
+C:/XboxGames
+[2025-06-10 15:07:16] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:16] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:18] 127.0.0.1: Clicked: App: chrome, Title: New Tab - Google Chrome
+[2025-06-10 15:07:18] 127.0.0.1: Clicked: App: chrome, Title: New Tab - Google Chrome
+[2025-06-10 15:07:23] 127.0.0.1: Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 15:07:23] 127.0.0.1: Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 15:07:25] 127.0.0.1: Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 15:07:25] 127.0.0.1: Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 15:07:29] 127.0.0.1: Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:29] 127.0.0.1: Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] 127.0.0.1: Key: Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] 127.0.0.1: Key: Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] 127.0.0.1: Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] 127.0.0.1: Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:40] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:40] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:40] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:40] 127.0.0.1: Key: Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:08:06] 127.0.0.1: Clicked: App: chrome, Title: New Tab - Google Chrome
+[2025-06-10 15:08:06] 127.0.0.1: Clicked: App: chrome, Title: New Tab - Google Chrome
+[2025-06-10 15:08:18] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:18] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:30] 127.0.0.1: Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:08:30] 127.0.0.1: Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:08:31] 127.0.0.1: Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:08:31] 127.0.0.1: Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:08:33] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:33] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:09:23] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:09:23] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:09:31] 127.0.0.1: Key: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:31] 127.0.0.1: Key: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:35] 127.0.0.1: Key: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:35] 127.0.0.1: Key: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioKey: F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:36] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:36] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:37] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:37] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:37] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:37] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:37] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:37] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:38] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:38] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:38] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:38] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:38] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:38] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:42] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:42] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:42] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:42] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:49] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:49] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:53] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:09:53] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:09:55] 127.0.0.1: Clicked: App: ADMIN, Title: Select a File
+[2025-06-10 15:09:55] 127.0.0.1: Clicked: App: ADMIN, Title: Select a File
+[2025-06-10 15:09:56] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:09:56] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:00] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:00] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:03] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:03] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:07] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:07] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:09] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:09] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:09] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:09] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:11] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:11] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:12] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:12] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:12] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:12] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:12] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:12] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:13] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:13] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:13] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:13] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:14] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:14] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:03] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:13:04] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:13:06] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:13:08] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:13:10] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:11] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:15] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:18] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:18] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:20] 127.0.0.1: Key: NumPad3, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:20] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:21] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:21] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:22] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:22] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:22] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:23] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:26] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:30] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:31] 127.0.0.1: pathlist:
+C:/$Recycle.Bin
+C:/.GamingRoot
+C:/db_backup
+C:/Documents and Settings
+C:/DumpStack.log.tmp
+C:/Gitlab-Runner
+C:/hiberfil.sys
+C:/inetpub
+C:/pagefile.sys
+C:/PerfLogs
+C:/Program Files
+C:/Program Files (x86)
+C:/ProgramData
+C:/Recovery
+C:/Riot Games
+C:/SQL2022
+C:/swapfile.sys
+C:/System Volume Information
+C:/Users
+C:/Windows
+C:/XboxGames
+[2025-06-10 15:13:35] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual StudioClicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:13:38] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:39] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:49] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:49] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:50] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:51] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] 127.0.0.1: Key: Shift, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:03] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:03] 127.0.0.1: Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:03] 127.0.0.1: Key: Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:03] 127.0.0.1: Key: Shift + RightArrow, App: explorer, Title: 
+[2025-06-10 15:14:03] 127.0.0.1: Key: LeftWindows, App: explorer, Title: 
+[2025-06-10 15:14:03] 127.0.0.1: Key: LeftWindows, App: SearchHost, Title: Search
+[2025-06-10 15:14:04] 127.0.0.1: Key: LeftWindows, App: explorer, Title: 
+[2025-06-10 15:14:04] 127.0.0.1: Key: C, App: SearchHost, Title: Search
+[2025-06-10 15:14:05] 127.0.0.1: Key: L, App: SearchHost, Title: Search
+[2025-06-10 15:14:05] 127.0.0.1: Key: I, App: SearchHost, Title: Search
+[2025-06-10 15:14:05] 127.0.0.1: Key: Escape, App: SearchHost, Title: Search
+[2025-06-10 15:14:06] 127.0.0.1: Key: LeftWindows, App: explorer, Title: 
+[2025-06-10 15:14:06] 127.0.0.1: Key: R, App: explorer, Title: 
+[2025-06-10 15:14:06] 127.0.0.1: Key: T, App: explorer, Title: Run
+[2025-06-10 15:14:06] 127.0.0.1: Key: A, App: explorer, Title: Run
+[2025-06-10 15:14:06] 127.0.0.1: Key: S, App: explorer, Title: Run
+[2025-06-10 15:14:07] 127.0.0.1: Key: K, App: explorer, Title: Run
+[2025-06-10 15:14:07] 127.0.0.1: Key: M, App: explorer, Title: Run
+[2025-06-10 15:14:07] 127.0.0.1: Key: G, App: explorer, Title: Run
+[2025-06-10 15:14:07] 127.0.0.1: Key: R, App: explorer, Title: Run
+[2025-06-10 15:14:07] 127.0.0.1: Key: Enter, App: explorer, Title: Run
+[2025-06-10 15:14:38] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:14:40] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:14:42] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:14:44] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:46] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:46] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:47] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:47] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:47] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:48] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:49] 127.0.0.1: Key: Ctrl, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:49] 127.0.0.1: Key: Ctrl + A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:49] 127.0.0.1: Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:50] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:50] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:50] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:51] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:51] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:51] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:52] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:52] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:52] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:53] 127.0.0.1: Key: Tab, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:55] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:55] 127.0.0.1: pathlist:
+C:/$Recycle.Bin
+C:/.GamingRoot
+C:/db_backup
+C:/Documents and Settings
+C:/DumpStack.log.tmp
+C:/Gitlab-Runner
+C:/hiberfil.sys
+C:/inetpub
+C:/pagefile.sys
+C:/PerfLogs
+C:/Program Files
+C:/Program Files (x86)
+C:/ProgramData
+C:/Recovery
+C:/Riot Games
+C:/SQL2022
+C:/swapfile.sys
+C:/System Volume Information
+C:/Users
+C:/Windows
+C:/XboxGames
+[2025-06-10 15:14:59] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:15:00] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:15:00] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:15:05] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:17:52] 127.0.0.1: Machine - COLLABPH1004786
+[2025-06-10 15:17:53] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:17:56] 127.0.0.1: Clicked: App: Ssms, Title: Microsoft SQL Server Management Studio Recovered Files
+[2025-06-10 15:17:56] 127.0.0.1: Clicked: App: Ssms, Title: Microsoft SQL Server Management Studio Recovered Files
+[2025-06-10 15:17:58] 127.0.0.1: Clicked: App: Ssms, Title: Connect to Server
+[2025-06-10 15:18:00] 127.0.0.1: Clicked: App: Ssms, Title: Microsoft SQL Server Management Studio
+[2025-06-10 15:18:03] 127.0.0.1: Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:18:04] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:05] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:06] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:07] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:08] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:09] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:09] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:09] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:09] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:10] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:10] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:10] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:10] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:11] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:14] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:15] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:16] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:18] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:19] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:20] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:21] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:26] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:27] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:28] 127.0.0.1: Key: S, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:28] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:29] 127.0.0.1: Key: F, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:30] 127.0.0.1: Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:30] 127.0.0.1: Key: Shift + F, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:30] 127.0.0.1: Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:31] 127.0.0.1: Key: D1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:31] 127.0.0.1: Key: D2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:31] 127.0.0.1: Key: D3, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:33] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:40] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:56] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN

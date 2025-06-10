@@ -21,53 +21,72 @@ C:\Users\COLLABERA.DIGITAL\.nuget\packages\avalonia.x11\11.2.7\lib\net8.0\Avalon
 C:\Users\COLLABERA.DIGITAL\.nuget\packages\communitytoolkit.mvvm\8.2.1\lib\net6.0\CommunityToolkit.Mvvm.dll
 C:\Users\COLLABERA.DIGITAL\.nuget\packages\dotnetenv\3.1.1\lib\netstandard1.3\DotNetEnv.dll
 C:\Users\COLLABERA.DIGITAL\.nuget\packages\harfbuzzsharp\7.3.0.3\lib\net6.0\HarfBuzzSharp.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\interop.uiautomationclient\10.16299.0\lib\netcoreapp3.0\Interop.UIAutomationClient.dll
 C:\Users\COLLABERA.DIGITAL\.nuget\packages\microcom.runtime\0.11.0\lib\net5.0\MicroCom.Runtime.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\microsoft.bcl.cryptography\9.0.5\lib\net8.0\Microsoft.Bcl.Cryptography.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\Microsoft.CSharp.dll
 C:\Users\COLLABERA.DIGITAL\.nuget\packages\microsoft.extensions.configuration.abstractions\1.1.2\lib\netstandard1.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\COLLABERA.DIGITAL\.nuget\packages\microsoft.extensions.configuration\1.1.2\lib\netstandard1.1\Microsoft.Extensions.Configuration.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\microsoft.extensions.objectpool\5.0.10\lib\net5.0\Microsoft.Extensions.ObjectPool.dll
 C:\Users\COLLABERA.DIGITAL\.nuget\packages\microsoft.extensions.primitives\1.1.1\lib\netstandard1.0\Microsoft.Extensions.Primitives.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\Microsoft.VisualBasic.Core.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\Microsoft.VisualBasic.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\Microsoft.Win32.Primitives.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\microsoft.win32.registry.accesscontrol\9.0.5\lib\net8.0\Microsoft.Win32.Registry.AccessControl.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\Microsoft.Win32.Registry.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\microsoft.win32.systemevents\9.0.5\lib\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\mscorlib.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\netstandard.dll
 C:\Users\COLLABERA.DIGITAL\.nuget\packages\skiasharp\2.88.9\lib\net6.0\SkiaSharp.dll
 C:\Users\COLLABERA.DIGITAL\.nuget\packages\sprache\2.3.1\lib\netstandard2.1\Sprache.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.AppContext.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Buffers.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.codedom\9.0.5\lib\net8.0\System.CodeDom.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Collections.Concurrent.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Collections.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Collections.Immutable.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Collections.NonGeneric.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Collections.Specialized.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.ComponentModel.Annotations.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.componentmodel.composition\9.0.5\lib\net8.0\System.ComponentModel.Composition.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.componentmodel.composition.registration\9.0.5\lib\net8.0\System.ComponentModel.Composition.Registration.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.ComponentModel.DataAnnotations.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.ComponentModel.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.ComponentModel.EventBasedAsync.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.ComponentModel.Primitives.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.ComponentModel.TypeConverter.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.configuration.configurationmanager\9.0.5\lib\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Configuration.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Console.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Core.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Data.Common.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Data.DataSetExtensions.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Data.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.data.odbc\9.0.5\lib\net8.0\System.Data.Odbc.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.data.oledb\9.0.5\lib\net8.0\System.Data.OleDb.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.data.sqlclient\4.8.6\ref\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Diagnostics.Contracts.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Diagnostics.Debug.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.diagnostics.eventlog\9.0.5\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.diagnostics.performancecounter\9.0.5\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Diagnostics.Process.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Diagnostics.StackTrace.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Diagnostics.TextWriterTraceListener.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Diagnostics.Tools.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Diagnostics.TraceSource.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Diagnostics.Tracing.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.directoryservices.accountmanagement\9.0.5\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.directoryservices\9.0.5\lib\net8.0\System.DirectoryServices.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.directoryservices.protocols\9.0.5\lib\net8.0\System.DirectoryServices.Protocols.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.drawing.common\9.0.5\lib\net8.0\System.Drawing.Common.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Drawing.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Drawing.Primitives.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Dynamic.Runtime.dll
-C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Formats.Asn1.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.formats.asn1\9.0.5\lib\net8.0\System.Formats.Asn1.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Formats.Tar.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Globalization.Calendars.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Globalization.dll
@@ -84,14 +103,17 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.IO.FileSystem.Watcher.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.IO.IsolatedStorage.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.IO.MemoryMappedFiles.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.io.packaging\9.0.5\lib\net8.0\System.IO.Packaging.dll
 C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.io.pipelines\8.0.0\lib\net8.0\System.IO.Pipelines.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.IO.Pipes.AccessControl.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.IO.Pipes.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.io.ports\9.0.5\lib\net8.0\System.IO.Ports.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.IO.UnmanagedMemoryStream.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Linq.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Linq.Expressions.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Linq.Parallel.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Linq.Queryable.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.management\9.0.5\lib\net8.0\System.Management.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Memory.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Net.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Net.Http.dll
@@ -115,6 +137,8 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Numerics.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Numerics.Vectors.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.ObjectModel.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.drawing.common\9.0.5\lib\net8.0\System.Private.Windows.Core.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.reflection.context\9.0.5\lib\net8.0\System.Reflection.Context.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Reflection.DispatchProxy.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Reflection.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Reflection.Emit.dll
@@ -127,6 +151,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Resources.Reader.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Resources.ResourceManager.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Resources.Writer.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.runtime.caching\9.0.5\lib\net8.0\System.Runtime.Caching.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Runtime.CompilerServices.VisualC.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Runtime.dll
@@ -151,20 +176,34 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Security.Cryptography.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Security.Cryptography.Encoding.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.security.cryptography.pkcs\9.0.5\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Security.Cryptography.Primitives.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.security.cryptography.protecteddata\9.0.5\lib\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.security.cryptography.xml\9.0.5\lib\net8.0\System.Security.Cryptography.Xml.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Security.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.security.permissions\9.0.5\lib\net8.0\System.Security.Permissions.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Security.Principal.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Security.Principal.Windows.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Security.SecureString.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.servicemodel.primitives\4.10.0\ref\net6.0\System.ServiceModel.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.servicemodel.duplex\4.10.0\ref\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.servicemodel.http\4.10.0\ref\net6.0\System.ServiceModel.Http.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.servicemodel.nettcp\4.10.0\ref\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.servicemodel.primitives\4.10.0\ref\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.servicemodel.security\4.10.0\ref\net6.0\System.ServiceModel.Security.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.servicemodel.syndication\9.0.5\lib\net8.0\System.ServiceModel.Syndication.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.ServiceModel.Web.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.ServiceProcess.dll
-C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.serviceprocess.servicecontroller\9.0.5\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.speech\9.0.5\lib\net8.0\System.Speech.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.text.encoding.codepages\9.0.5\lib\net8.0\System.Text.Encoding.CodePages.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Text.Encoding.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Text.Encoding.Extensions.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Text.Encodings.Web.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Text.Json.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Text.RegularExpressions.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.threading.accesscontrol\9.0.5\lib\net8.0\System.Threading.AccessControl.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Threading.Channels.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Threading.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Threading.Overlapped.dll
@@ -180,7 +219,9 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.ValueTuple.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Web.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Web.HttpUtility.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.web.services.description\4.10.0\lib\netstandard2.0\System.Web.Services.Description.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Windows.dll
+C:\Users\COLLABERA.DIGITAL\.nuget\packages\system.windows.extensions\9.0.5\lib\net8.0\System.Windows.Extensions.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Xml.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Xml.Linq.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.13\ref\net8.0\System.Xml.ReaderWriter.dll

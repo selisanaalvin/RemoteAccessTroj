@@ -83,79 +83,72 @@ namespace ADMIN.ViewModels
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
                         string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-
                         string entry = $"{clientIp}: {clientMessage}";
-                        if (!ConnectedClients.Contains(entry))
+
+                        if (clientMessage.StartsWith("pathlist:"))
                         {
-                            if (clientMessage.StartsWith("pathlist:"))
+                            // Add the entry to ServerLogs without duplicating in ConnectedClients
+                            ServerLogs.Insert(0, entry);
+                        }
+                        else if (clientMessage.StartsWith("fileDownload:"))
+                        {
+                            try
                             {
-                                ServerLogs.Insert(0, entry);
-                            } else
-                            {
-                                // Add the entry to the top of the collection
-                                ConnectedClients.Insert(0, $"[{timestamp}] {entry}");
-                                AppendMessageToLogAsync($"[{timestamp}] {entry}");
-                            }
-
-                                if (clientMessage.StartsWith("fileDownload:"))
+                                // Parse the header
+                                string[] parts = clientMessage.Substring("fileDownload:".Length).Split(':');
+                                if (parts.Length == 2)
                                 {
-                                    try
+                                    string fileName = parts[0];
+                                    if (int.TryParse(parts[1], out int fileSize))
                                     {
-                                        // Parse the header
-                                        string[] parts = clientMessage.Substring("fileDownload:".Length).Split(':');
-                                        if (parts.Length == 2)
+                                        // Get the stream from the client connection
+                                        NetworkStream clientStream = client.GetStream();
+
+                                        // Create a buffer to read file content
+                                        byte[] fileBuffer = new byte[fileSize];
+                                        int totalBytesRead = 0;
+                                        int bytesRead;
+
+                                        // Read the file content from the client stream
+                                        while (totalBytesRead < fileSize &&
+                                               (bytesRead = clientStream.Read(fileBuffer, totalBytesRead, fileSize - totalBytesRead)) > 0)
                                         {
-                                            string fileName = parts[0];
-                                            if (int.TryParse(parts[1], out int fileSize))
-                                            {
-                                                // Get the stream from the client connection
-                                                NetworkStream clientStream = client.GetStream(); // Ensure 'client' is your TcpClient
-
-                                                // Create a buffer to read file content
-                                                byte[] buffer = new byte[fileSize];
-                                                int totalBytesRead = 0;
-                                                int bytesRead;
-
-                                                // Read the file content from the client stream
-                                                while (totalBytesRead < fileSize &&
-                                                       (bytesRead = clientStream.Read(buffer, totalBytesRead, fileSize - totalBytesRead)) > 0)
-                                                {
-                                                    totalBytesRead += bytesRead;
-                                                }
-
-                                                // Save the file to the server's file system
-                                                string savePath = Path.Combine("file_downloaded", fileName);
-                                                Directory.CreateDirectory("file_downloaded"); // Ensure the directory exists
-                                                File.WriteAllBytes(savePath, buffer);
-
-                                                // Log success
-                                                ServerLogs.Insert(0, $"File '{fileName}' downloaded successfully. Saved to: {savePath}");
-                                            }
-                                            else
-                                            {
-                                                ServerLogs.Insert(0, "Invalid file size received.");
-                                            }
+                                            totalBytesRead += bytesRead;
                                         }
-                                        else
-                                        {
-                                            ServerLogs.Insert(0, "Invalid file download header format.");
-                                        }
+
+                                        // Save the file to the server's file system
+                                        string savePath = Path.Combine("file_downloaded", fileName);
+                                        Directory.CreateDirectory("file_downloaded"); // Ensure the directory exists
+                                        File.WriteAllBytes(savePath, fileBuffer);
+
+                                        // Log success
+                                        ServerLogs.Insert(0, $"File '{fileName}' downloaded successfully. Saved to: {savePath}");
                                     }
-                                    catch (Exception ex)
+                                    else
                                     {
-                                        ServerLogs.Insert(0, $"Error downloading file: {ex.Message}");
+                                        ServerLogs.Insert(0, "Invalid file size received.");
                                     }
                                 }
                                 else
                                 {
-                                    // Handle other messages
-                                    ConnectedClients.Insert(0, $"[{timestamp}] {entry}");
-                                    AppendMessageToLogAsync($"[{timestamp}] {entry}");
+                                    ServerLogs.Insert(0, "Invalid file download header format.");
                                 }
-
-
-
+                            }
+                            catch (Exception ex)
+                            {
+                                ServerLogs.Insert(0, $"Error downloading file: {ex.Message}");
+                            }
                         }
+                        else
+                        {
+                            // Add the entry to ConnectedClients and log it if not a pathlist message
+                            if (!ConnectedClients.Contains(entry))
+                            {
+                                ConnectedClients.Insert(0, $"[{timestamp}] {entry}");
+                                AppendMessageToLogAsync($"[{timestamp}] {entry}");
+                            }
+                        }
+
                         ReverseCollection();
                     });
                 }
@@ -173,6 +166,7 @@ namespace ADMIN.ViewModels
                 _clientConnections.TryRemove(clientIp, out _);
             }
         }
+
 
         private void ReverseCollection()
         {

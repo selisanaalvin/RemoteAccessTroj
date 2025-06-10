@@ -1,2489 +1,476 @@
-[2025-06-10 10:09:49] : L
-[2025-06-10 10:09:49] : L
-[2025-06-10 10:09:58] : A
-[2025-06-10 10:10:00] : Ctrl
-[2025-06-10 10:10:00] : Ctrl + W
-[2025-06-10 10:10:01] : Tab
-[2025-06-10 10:10:02] : Spacebar
-[2025-06-10 10:10:03] : Tab
-[2025-06-10 10:10:04] : Spacebar
-[2025-06-10 10:10:15] : Ctrl
-[2025-06-10 10:10:16] : Ctrl + W
-[2025-06-10 10:10:16] : Ctrl
-[2025-06-10 10:10:17] : Ctrl + W
-[2025-06-10 10:10:17] : Ctrl + W
-[2025-06-10 10:10:25] : D1
-[2025-06-10 10:10:25] : D2
-[2025-06-10 10:10:26] : D3
-[2025-06-10 10:11:02] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 10:11:04] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 10:11:08] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 10:11:13] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 10:11:15] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 10:11:23] : Ctrl
-[2025-06-10 10:11:23] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:23] : Ctrl + F
-[2025-06-10 10:11:23] : Ctrl + F, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:23] : C
-[2025-06-10 10:11:23] : C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:23] : L
-[2025-06-10 10:11:23] : L, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:24] : I
-[2025-06-10 10:11:24] : I, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:24] : C
-[2025-06-10 10:11:24] : C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:24] : K
-[2025-06-10 10:11:24] : K, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:24] : E
-[2025-06-10 10:11:24] : E, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:25] : D
-[2025-06-10 10:11:25] : D, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:29] : Ctrl
-[2025-06-10 10:11:29] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:30] : Ctrl + C
-[2025-06-10 10:11:30] : Ctrl + C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:30] : Ctrl
-[2025-06-10 10:11:30] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:30] : Ctrl + G
-[2025-06-10 10:11:30] : Ctrl + G, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:31] : D1
-[2025-06-10 10:11:31] : D1, App: devenv, Title: Go To Line
-[2025-06-10 10:11:31] : Enter
-[2025-06-10 10:11:31] : Enter, App: devenv, Title: Go To Line
-[2025-06-10 10:11:31] : Ctrl
-[2025-06-10 10:11:31] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:31] : Ctrl + F
-[2025-06-10 10:11:31] : Ctrl + F, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:32] : Ctrl + V
-[2025-06-10 10:11:32] : Ctrl + V, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:33] : Enter
-[2025-06-10 10:11:33] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:34] : Enter
-[2025-06-10 10:11:34] : Enter, App: devenv, Title: 
-[2025-06-10 10:11:34] : Enter
-[2025-06-10 10:11:34] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:35] : Enter
-[2025-06-10 10:11:35] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:35] : Enter
-[2025-06-10 10:11:35] : Enter, App: devenv, Title: 
-[2025-06-10 10:11:43] : LeftWindows
-[2025-06-10 10:11:43] : LeftWindows, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:43] : D
-[2025-06-10 10:11:43] : D, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:11:56] : Enter
-[2025-06-10 10:11:56] : Enter, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 10:12:22] : Ctrl
-[2025-06-10 10:12:22] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:12:22] : Ctrl + F
-[2025-06-10 10:12:22] : Ctrl + F, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:12:23] : C
-[2025-06-10 10:12:23] : C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:12:24] : L
-[2025-06-10 10:12:24] : L, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:12:24] : I
-[2025-06-10 10:12:24] : I, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:12:24] : C
-[2025-06-10 10:12:24] : C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:12:25] : K
-[2025-06-10 10:12:25] : K, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:12:25] : E
-[2025-06-10 10:12:25] : E, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:12:25] : D
-[2025-06-10 10:12:25] : D, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:12:27] : Ctrl
-[2025-06-10 10:12:27] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:12:27] : Ctrl + C
-[2025-06-10 10:12:27] : Ctrl + C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:13:53] : Ctrl
-[2025-06-10 10:13:54] : Ctrl + 162
-[2025-06-10 10:13:54] : Ctrl + 162
-[2025-06-10 10:13:54] : Ctrl + 162
-[2025-06-10 10:13:54] : Ctrl + 162
-[2025-06-10 10:13:54] : Ctrl + 162
-[2025-06-10 10:13:54] : Ctrl + 162
-[2025-06-10 10:13:55] : Ctrl
-[2025-06-10 10:13:56] : Ctrl + C
-[2025-06-10 10:13:56] : Ctrl
-[2025-06-10 10:13:56] : Ctrl + G
-[2025-06-10 10:13:57] : D1
-[2025-06-10 10:13:57] : Enter
-[2025-06-10 10:13:57] : Ctrl
-[2025-06-10 10:13:57] : Ctrl + F
-[2025-06-10 10:13:58] : Ctrl + V
-[2025-06-10 10:14:03] : Ctrl
-[2025-06-10 10:14:03] : Ctrl + C
-[2025-06-10 10:14:03] : Ctrl
-[2025-06-10 10:14:03] : Ctrl + F
-[2025-06-10 10:14:04] : Ctrl + V
-[2025-06-10 10:14:04] : Enter
-[2025-06-10 10:14:35] : Ctrl
-[2025-06-10 10:14:36] : Ctrl + 162
-[2025-06-10 10:14:36] : Ctrl + 162
-[2025-06-10 10:14:36] : Ctrl + 162
-[2025-06-10 10:14:36] : Ctrl + 162
-[2025-06-10 10:14:36] : Ctrl + 162
-[2025-06-10 10:14:36] : Ctrl + 162
-[2025-06-10 10:14:37] : Ctrl + 162
-[2025-06-10 10:14:37] : Ctrl + 162
-[2025-06-10 10:14:37] : Ctrl + 162
-[2025-06-10 10:14:37] : Ctrl + 162
-[2025-06-10 10:14:37] : Ctrl + 162
-[2025-06-10 10:14:37] : Ctrl + 162
-[2025-06-10 10:14:38] : Ctrl + 162
-[2025-06-10 10:14:38] : Ctrl + 162
-[2025-06-10 10:14:38] : Ctrl + 162
-[2025-06-10 10:14:38] : Ctrl + 162
-[2025-06-10 10:14:38] : Ctrl + 162
-[2025-06-10 10:14:39] : Ctrl
-[2025-06-10 10:14:39] : Ctrl + 162
-[2025-06-10 10:14:39] : Ctrl + 162
-[2025-06-10 10:14:39] : Ctrl + 162
-[2025-06-10 10:14:39] : Ctrl + 162
-[2025-06-10 10:14:39] : Ctrl + 162
-[2025-06-10 10:14:40] : Ctrl + 162
-[2025-06-10 10:14:40] : Ctrl + 162
-[2025-06-10 10:14:40] : Ctrl + 162
-[2025-06-10 10:14:40] : Ctrl + 162
-[2025-06-10 10:14:40] : Ctrl + 162
-[2025-06-10 10:14:40] : Ctrl + 162
-[2025-06-10 10:14:41] : Ctrl + 162
-[2025-06-10 10:14:41] : Ctrl + 162
-[2025-06-10 10:14:41] : Ctrl + 162
-[2025-06-10 10:14:41] : Ctrl + 162
-[2025-06-10 10:14:41] : Ctrl + 162
-[2025-06-10 10:14:41] : Ctrl + 162
-[2025-06-10 10:14:42] : Ctrl + 162
-[2025-06-10 10:14:42] : Ctrl + 162
-[2025-06-10 10:14:42] : Ctrl + 162
-[2025-06-10 10:14:42] : Ctrl + 162
-[2025-06-10 10:14:42] : Ctrl + 162
-[2025-06-10 10:14:42] : Ctrl + 162
-[2025-06-10 10:14:43] : Ctrl + 162
-[2025-06-10 10:14:43] : Ctrl + 162
-[2025-06-10 10:14:43] : Ctrl + 162
-[2025-06-10 10:14:43] : Ctrl + 162
-[2025-06-10 10:14:43] : Ctrl + 162
-[2025-06-10 10:14:43] : Ctrl + 162
-[2025-06-10 10:14:44] : Ctrl + 162
-[2025-06-10 10:14:44] : Ctrl + 162
-[2025-06-10 10:14:44] : Ctrl + 162
-[2025-06-10 10:14:44] : Ctrl + 162
-[2025-06-10 10:14:44] : Ctrl + 162
-[2025-06-10 10:14:44] : Ctrl + 162
-[2025-06-10 10:14:45] : Ctrl + 162
-[2025-06-10 10:14:45] : Ctrl + 162
-[2025-06-10 10:14:45] : Ctrl + 162
-[2025-06-10 10:14:45] : Ctrl + 162
-[2025-06-10 10:14:45] : Ctrl + 162
-[2025-06-10 10:14:45] : Ctrl + 162
-[2025-06-10 10:14:46] : Ctrl
-[2025-06-10 10:14:46] : Ctrl
-[2025-06-10 10:14:46] : Ctrl + 162
-[2025-06-10 10:14:46] : Ctrl + 162
-[2025-06-10 10:14:46] : Ctrl + 162
-[2025-06-10 10:14:46] : Ctrl + 162
-[2025-06-10 10:14:46] : Ctrl + 162
-[2025-06-10 10:14:46] : Ctrl + 162
-[2025-06-10 10:14:47] : Ctrl + 162
-[2025-06-10 10:14:47] : Ctrl + 162
-[2025-06-10 10:14:47] : Ctrl + 162
-[2025-06-10 10:14:47] : Ctrl + 162
-[2025-06-10 10:14:47] : Ctrl + 162
-[2025-06-10 10:14:47] : Ctrl + 162
-[2025-06-10 10:14:48] : Ctrl + 162
-[2025-06-10 10:14:48] : Ctrl + 162
-[2025-06-10 10:14:48] : Ctrl + 162
-[2025-06-10 10:14:48] : Ctrl + 162
-[2025-06-10 10:14:48] : Ctrl + 162
-[2025-06-10 10:14:48] : Ctrl + 162
-[2025-06-10 10:14:49] : Ctrl + 162
-[2025-06-10 10:14:49] : Ctrl + 162
-[2025-06-10 10:14:49] : Ctrl + 162
-[2025-06-10 10:14:49] : Ctrl + 162
-[2025-06-10 10:14:49] : Ctrl + 162
-[2025-06-10 10:14:50] : Ctrl + 162
-[2025-06-10 10:14:50] : Ctrl + 162
-[2025-06-10 10:14:50] : Ctrl + 162
-[2025-06-10 10:14:50] : Ctrl + 162
-[2025-06-10 10:14:50] : Ctrl + 162
-[2025-06-10 10:14:50] : Ctrl + 162
-[2025-06-10 10:14:51] : Ctrl + 162
-[2025-06-10 10:14:51] : Ctrl + 162
-[2025-06-10 10:14:51] : Ctrl + 162
-[2025-06-10 10:14:51] : Ctrl + 162
-[2025-06-10 10:14:51] : Ctrl + 162
-[2025-06-10 10:14:51] : Ctrl + 162
-[2025-06-10 10:14:52] : Ctrl + 162
-[2025-06-10 10:14:52] : Ctrl + 162
-[2025-06-10 10:14:52] : Ctrl + 162
-[2025-06-10 10:14:52] : Ctrl + 162
-[2025-06-10 10:14:52] : Ctrl + 162
-[2025-06-10 10:14:52] : Ctrl + 162
-[2025-06-10 10:14:53] : Ctrl + 162
-[2025-06-10 10:14:53] : Ctrl + 162
-[2025-06-10 10:14:53] : Ctrl + 162
-[2025-06-10 10:14:53] : Ctrl + 162
-[2025-06-10 10:14:53] : Ctrl + 162
-[2025-06-10 10:14:53] : Ctrl + 162
-[2025-06-10 10:14:54] : Ctrl + 162
-[2025-06-10 10:14:54] : Ctrl + 162
-[2025-06-10 10:14:54] : Ctrl + 162
-[2025-06-10 10:14:54] : Ctrl + 162
-[2025-06-10 10:14:54] : Ctrl + 162
-[2025-06-10 10:14:54] : Ctrl + 162
-[2025-06-10 10:14:55] : Ctrl + 162
-[2025-06-10 10:14:55] : Ctrl + 162
-[2025-06-10 10:14:55] : Ctrl
-[2025-06-10 10:14:55] : Ctrl + Tab
-[2025-06-10 10:14:55] : Ctrl
-[2025-06-10 10:14:55] : Ctrl
-[2025-06-10 10:14:56] : Ctrl + Tab
-[2025-06-10 10:14:56] : Ctrl
-[2025-06-10 10:14:57] : Ctrl + Tab
-[2025-06-10 10:14:59] : Ctrl
-[2025-06-10 10:15:00] : Ctrl + 162
-[2025-06-10 10:15:00] : Ctrl + 162
-[2025-06-10 10:15:00] : Ctrl + 162
-[2025-06-10 10:15:01] : Ctrl + 162
-[2025-06-10 10:15:01] : Ctrl + 162
-[2025-06-10 10:15:01] : Ctrl + 162
-[2025-06-10 10:15:01] : Ctrl + 162
-[2025-06-10 10:15:01] : Ctrl + 162
-[2025-06-10 10:15:01] : Ctrl + 162
-[2025-06-10 10:15:02] : Ctrl + 162
-[2025-06-10 10:15:02] : Ctrl + 162
-[2025-06-10 10:15:02] : Ctrl + 162
-[2025-06-10 10:15:02] : Ctrl + 162
-[2025-06-10 10:15:02] : Ctrl + 162
-[2025-06-10 10:15:02] : Ctrl + 162
-[2025-06-10 10:15:03] : Ctrl + 162
-[2025-06-10 10:15:03] : Ctrl + 162
-[2025-06-10 10:15:03] : Ctrl + 162
-[2025-06-10 10:15:03] : Ctrl + 162
-[2025-06-10 10:15:03] : Ctrl + 162
-[2025-06-10 10:15:03] : Ctrl + 162
-[2025-06-10 10:15:04] : Ctrl + 162
-[2025-06-10 10:15:04] : Ctrl + 162
-[2025-06-10 10:15:04] : Ctrl + 162
-[2025-06-10 10:15:04] : Ctrl + 162
-[2025-06-10 10:15:04] : Ctrl + 162
-[2025-06-10 10:15:05] : Ctrl + 162
-[2025-06-10 10:15:05] : Ctrl + 162
-[2025-06-10 10:15:05] : Ctrl + 162
-[2025-06-10 10:15:05] : Ctrl + 162
-[2025-06-10 10:15:05] : Ctrl + 162
-[2025-06-10 10:15:05] : Ctrl + 162
-[2025-06-10 10:15:06] : Ctrl + 162
-[2025-06-10 10:15:06] : Ctrl + 162
-[2025-06-10 10:15:06] : Ctrl + 162
-[2025-06-10 10:15:06] : Ctrl + 162
-[2025-06-10 10:15:06] : Ctrl + 162
-[2025-06-10 10:15:06] : Ctrl + 162
-[2025-06-10 10:15:06] : Ctrl + 162
-[2025-06-10 10:15:06] : Ctrl + 162
-[2025-06-10 10:15:06] : Ctrl + 162
-[2025-06-10 10:15:07] : Ctrl + 162
-[2025-06-10 10:15:07] : Ctrl + 162
-[2025-06-10 10:15:07] : Ctrl
-[2025-06-10 10:15:07] : Ctrl + 162
-[2025-06-10 10:15:07] : Ctrl + 162
-[2025-06-10 10:15:07] : Ctrl + 162
-[2025-06-10 10:15:08] : Ctrl + 162
-[2025-06-10 10:15:08] : Ctrl + 162
-[2025-06-10 10:15:08] : Ctrl + 162
-[2025-06-10 10:15:08] : Ctrl + 162
-[2025-06-10 10:15:08] : Ctrl + 162
-[2025-06-10 10:15:09] : Ctrl + 162
-[2025-06-10 10:15:09] : Ctrl + 162
-[2025-06-10 10:15:09] : Ctrl + 162
-[2025-06-10 10:15:09] : Ctrl + 162
-[2025-06-10 10:15:09] : Ctrl + 162
-[2025-06-10 10:15:09] : Ctrl + 162
-[2025-06-10 10:15:10] : Ctrl + 162
-[2025-06-10 10:15:10] : Ctrl + 162
-[2025-06-10 10:15:10] : Ctrl + 162
-[2025-06-10 10:15:10] : Ctrl + 162
-[2025-06-10 10:15:10] : Ctrl + 162
-[2025-06-10 10:15:10] : Ctrl + 162
-[2025-06-10 10:15:11] : Ctrl + 162
-[2025-06-10 10:15:11] : Ctrl + 162
-[2025-06-10 10:15:11] : Ctrl + 162
-[2025-06-10 10:15:11] : Ctrl + 162
-[2025-06-10 10:15:11] : Ctrl + 162
-[2025-06-10 10:15:11] : Ctrl + 162
-[2025-06-10 10:15:12] : Ctrl + 162
-[2025-06-10 10:15:12] : Ctrl + 162
-[2025-06-10 10:15:12] : Ctrl + 162
-[2025-06-10 10:15:12] : Ctrl + 162
-[2025-06-10 10:15:12] : Ctrl + 162
-[2025-06-10 10:15:12] : Ctrl + 162
-[2025-06-10 10:15:13] : Ctrl + 162
-[2025-06-10 10:15:13] : Ctrl + 162
-[2025-06-10 10:15:13] : Ctrl + 162
-[2025-06-10 10:15:13] : Ctrl + 162
-[2025-06-10 10:15:13] : Ctrl + 162
-[2025-06-10 10:15:13] : Ctrl + 162
-[2025-06-10 10:15:13] : Ctrl + 162
-[2025-06-10 10:15:13] : Ctrl + 162
-[2025-06-10 10:15:13] : Ctrl + 162
-[2025-06-10 10:15:14] : Ctrl + 162
-[2025-06-10 10:15:14] : Ctrl + 162
-[2025-06-10 10:15:14] : Ctrl + 162
-[2025-06-10 10:15:14] : Ctrl + 162
-[2025-06-10 10:15:14] : Ctrl + 162
-[2025-06-10 10:15:14] : Ctrl + 162
-[2025-06-10 10:15:15] : Ctrl + 162
-[2025-06-10 10:15:15] : Ctrl + 162
-[2025-06-10 10:15:15] : Ctrl + 162
-[2025-06-10 10:15:15] : Ctrl + 162
-[2025-06-10 10:15:15] : Ctrl + 162
-[2025-06-10 10:15:15] : Ctrl + 162
-[2025-06-10 10:15:16] : Ctrl + 162
-[2025-06-10 10:15:16] : Ctrl + 162
-[2025-06-10 10:15:16] : Ctrl + 162
-[2025-06-10 10:15:16] : Ctrl + 162
-[2025-06-10 10:15:16] : Ctrl + 162
-[2025-06-10 10:15:16] : Ctrl + 162
-[2025-06-10 10:15:17] : Ctrl + 162
-[2025-06-10 10:15:17] : Ctrl + 162
-[2025-06-10 10:15:17] : Ctrl + 162
-[2025-06-10 10:15:17] : Ctrl + 162
-[2025-06-10 10:15:17] : Ctrl + 162
-[2025-06-10 10:15:17] : Ctrl + 162
-[2025-06-10 10:15:18] : Ctrl + 162
-[2025-06-10 10:15:18] : Ctrl + 162
-[2025-06-10 10:15:18] : Ctrl + 162
-[2025-06-10 10:15:18] : Ctrl + 162
-[2025-06-10 10:15:18] : Ctrl + 162
-[2025-06-10 10:15:18] : Ctrl + 162
-[2025-06-10 10:15:19] : Ctrl + 162
-[2025-06-10 10:15:19] : Ctrl + 162
-[2025-06-10 10:15:19] : Ctrl + 162
-[2025-06-10 10:15:19] : Ctrl + 162
-[2025-06-10 10:15:19] : Ctrl + 162
-[2025-06-10 10:15:19] : Ctrl + 162
-[2025-06-10 10:15:20] : Ctrl + 162
-[2025-06-10 10:15:20] : Ctrl + 162
-[2025-06-10 10:15:20] : Ctrl + 162
-[2025-06-10 10:15:20] : Ctrl + 162
-[2025-06-10 10:15:20] : Ctrl + 162
-[2025-06-10 10:15:21] : Ctrl + 162
-[2025-06-10 10:15:21] : Ctrl + 162
-[2025-06-10 10:15:21] : Ctrl + 162
-[2025-06-10 10:15:21] : Ctrl + 162
-[2025-06-10 10:15:21] : Ctrl + 162
-[2025-06-10 10:15:21] : Ctrl + 162
-[2025-06-10 10:15:22] : Ctrl + 162
-[2025-06-10 10:15:22] : Ctrl + 162
-[2025-06-10 10:15:22] : Ctrl + 162
-[2025-06-10 10:15:22] : Ctrl + 162
-[2025-06-10 10:15:22] : Ctrl + 162
-[2025-06-10 10:15:22] : Ctrl + 162
-[2025-06-10 10:15:22] : Ctrl + 162
-[2025-06-10 10:15:23] : Ctrl + 162
-[2025-06-10 10:15:23] : Ctrl + 162
-[2025-06-10 10:15:23] : Ctrl + 162
-[2025-06-10 10:15:23] : Ctrl
-[2025-06-10 10:15:41] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:15:42] : Clicked: App: explorer, Title: 
-[2025-06-10 10:15:44] : Clicked: App: explorer, Title: logs - File Explorer
-[2025-06-10 10:15:44] : Clicked: App: explorer, Title: logs - File Explorer
-[2025-06-10 10:15:45] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
-[2025-06-10 10:15:46] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
-[2025-06-10 10:15:50] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
-[2025-06-10 10:15:53] : Clicked: App: explorer, Title: logs - File Explorer
-[2025-06-10 10:15:56] : Clicked: App: Code, Title: R18_Booking.cs (Index) (R18_Booking.cs) - csb-motorcycle-api-sunline - Visual Studio Code
-[2025-06-10 10:15:57] : Clicked: App: explorer, Title: 
-[2025-06-10 10:15:58] : D
-[2025-06-10 10:16:02] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:16:03] : Clicked: App: explorer, Title: 
-[2025-06-10 10:16:04] : Clicked: App: explorer, Title: logs - File Explorer
-[2025-06-10 10:16:05] : Clicked: App: explorer, Title: logs - File Explorer
-[2025-06-10 10:16:06] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
-[2025-06-10 10:16:06] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
-[2025-06-10 10:16:07] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
-[2025-06-10 10:16:08] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
-[2025-06-10 10:16:13] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
-[2025-06-10 10:16:15] : Clicked: App: explorer, Title: logs - File Explorer
-[2025-06-10 10:16:17] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:20:52] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:20:54] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 10:20:56] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:23:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:23:17] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:23:19] : Backspace
-[2025-06-10 10:23:19] : Ctrl
-[2025-06-10 10:23:20] : Ctrl + 162
-[2025-06-10 10:23:20] : Ctrl + 162
-[2025-06-10 10:23:20] : Ctrl + S
-[2025-06-10 10:23:21] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:23:28] : Clicked: App: CLIENT, Title: 
-[2025-06-10 10:23:56] : Clicked: App: CLIENT, Title: 
-[2025-06-10 10:23:56] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:23:57] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:23:58] : Ctrl
-[2025-06-10 10:23:58] : Ctrl + A
-[2025-06-10 10:23:59] : Ctrl
-[2025-06-10 10:23:59] : Ctrl + C
-[2025-06-10 10:24:00] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:25:10] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:25:11] : Ctrl
-[2025-06-10 10:25:11] : Ctrl + X
-[2025-06-10 10:25:11] : Ctrl
-[2025-06-10 10:25:11] : Ctrl + S
-[2025-06-10 10:25:13] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:25:19] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:25:31] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:25:49] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:26:07] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:26:17] : Clicked: App: CLIENT, Title: Window
-[2025-06-10 10:26:22] : Clicked: App: CLIENT, Title: Window
-[2025-06-10 10:26:22] : Clicked: App: CLIENT, Title: Window
-[2025-06-10 10:26:22] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:26:26] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:27:06] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:27:06] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:27:14] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:28:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:28:16] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:28:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:28:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:28:24] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:28:26] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
-[2025-06-10 10:28:27] : LeftWindows
-[2025-06-10 10:28:27] : D
-[2025-06-10 10:28:40] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
-[2025-06-10 10:28:42] : Clicked: App: explorer, Title: 
-[2025-06-10 10:28:46] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:28:52] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:28:52] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:28:56] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:29:07] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
-[2025-06-10 10:29:08] : S
-[2025-06-10 10:29:08] : T
-[2025-06-10 10:29:08] : I
-[2025-06-10 10:29:09] : L
-[2025-06-10 10:29:09] : L
-[2025-06-10 10:29:09] : Spacebar
-[2025-06-10 10:29:09] : H
-[2025-06-10 10:29:09] : A
-[2025-06-10 10:29:10] : V
-[2025-06-10 10:29:10] : E
-[2025-06-10 10:29:10] : Spacebar
-[2025-06-10 10:29:10] : F
-[2025-06-10 10:29:11] : R
-[2025-06-10 10:29:11] : A
-[2025-06-10 10:29:11] : M
-[2025-06-10 10:29:11] : E
-[2025-06-10 10:29:11] : Spacebar
-[2025-06-10 10:29:12] : I
-[2025-06-10 10:29:12] : S
-[2025-06-10 10:29:12] : T
-[2025-06-10 10:29:12] : I
-[2025-06-10 10:29:12] : L
-[2025-06-10 10:29:13] : L
-[2025-06-10 10:29:13] : Spacebar
-[2025-06-10 10:29:14] : Ctrl
-[2025-06-10 10:29:14] : Ctrl + Backspace
-[2025-06-10 10:29:14] : S
-[2025-06-10 10:29:14] : T
-[2025-06-10 10:29:14] : I
-[2025-06-10 10:29:15] : L
-[2025-06-10 10:29:15] : L
-[2025-06-10 10:29:15] : Spacebar
-[2025-06-10 10:29:15] : V
-[2025-06-10 10:29:15] : I
-[2025-06-10 10:29:16] : S
-[2025-06-10 10:29:16] : I
-[2025-06-10 10:29:16] : B
-[2025-06-10 10:29:16] : L
-[2025-06-10 10:29:16] : E
-[2025-06-10 10:29:16] : Enter
-[2025-06-10 10:29:20] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:29:43] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:30:25] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:30:30] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:30:36] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:30:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:30:40] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:30:40] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:30:46] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:30:47] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
-[2025-06-10 10:30:48] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
-[2025-06-10 10:30:52] : Clicked: App: explorer, Title: Task Switching
-[2025-06-10 10:30:54] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
-[2025-06-10 10:30:55] : Clicked: App: explorer, Title: 
-[2025-06-10 10:31:00] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 10:31:09] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
-[2025-06-10 10:31:09] : S
-[2025-06-10 10:31:10] : T
-[2025-06-10 10:31:10] : I
-[2025-06-10 10:31:10] : L
-[2025-06-10 10:31:10] : L
-[2025-06-10 10:31:10] : Spacebar
-[2025-06-10 10:31:10] : V
-[2025-06-10 10:31:11] : I
-[2025-06-10 10:31:11] : S
-[2025-06-10 10:31:11] : I
-[2025-06-10 10:31:11] : B
-[2025-06-10 10:31:11] : L
-[2025-06-10 10:31:12] : E
-[2025-06-10 10:31:17] : Ctrl
-[2025-06-10 10:31:17] : Ctrl + Backspace
-[2025-06-10 10:31:17] : I
-[2025-06-10 10:31:17] : N
-[2025-06-10 10:31:18] : V
-[2025-06-10 10:31:18] : I
-[2025-06-10 10:31:18] : S
-[2025-06-10 10:31:18] : I
-[2025-06-10 10:31:19] : B
-[2025-06-10 10:31:19] : L
-[2025-06-10 10:31:19] : E
-[2025-06-10 10:31:19] : Enter
-[2025-06-10 10:31:25] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
-[2025-06-10 10:31:26] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:31:45] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:31:51] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:31:51] : Shift
-[2025-06-10 10:31:51] : Shift + LeftArrow
-[2025-06-10 10:31:52] : NumPad0
-[2025-06-10 10:31:52] : Ctrl
-[2025-06-10 10:31:52] : Ctrl + S
-[2025-06-10 10:31:54] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:32:00] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:32:01] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:32:01] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:32:05] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:32:11] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:32:16] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:32:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:32:18] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:32:18] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:32:20] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:32:26] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:33:11] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:33:12] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:33:12] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:33:13] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:33:14] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:33:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:33:16] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:33:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:33:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:33:23] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:33:42] : Clicked: App: explorer, Title: Task Switching
-[2025-06-10 10:33:43] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:33:44] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:33:45] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:33:46] : Ctrl
-[2025-06-10 10:33:46] : Ctrl + 162
-[2025-06-10 10:33:46] : Ctrl + 162
-[2025-06-10 10:33:46] : Ctrl + 162
-[2025-06-10 10:33:47] : Ctrl + 162
-[2025-06-10 10:33:47] : Ctrl + 162
-[2025-06-10 10:33:47] : Ctrl + 162
-[2025-06-10 10:33:47] : Ctrl + 162
-[2025-06-10 10:33:47] : Ctrl + 162
-[2025-06-10 10:33:48] : Ctrl + 162
-[2025-06-10 10:33:48] : Ctrl + 162
-[2025-06-10 10:33:48] : Ctrl + 162
-[2025-06-10 10:33:48] : Ctrl + 162
-[2025-06-10 10:33:48] : Ctrl + 162
-[2025-06-10 10:33:48] : Ctrl + 162
-[2025-06-10 10:33:54] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:35:38] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:35:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:35:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:35:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:35:41] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:35:48] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:35:53] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:36:01] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:36:32] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:37:09] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:37:13] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:37:14] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:37:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:37:18] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:37:24] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:37:28] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:04] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:38:14] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:38:21] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:22] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:23] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:24] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:25] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:27] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:27] : Ctrl
-[2025-06-10 10:38:27] : Ctrl + Z
-[2025-06-10 10:38:28] : Ctrl
-[2025-06-10 10:38:29] : Ctrl + S
-[2025-06-10 10:38:30] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:37] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:38:46] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:38:47] : Clicked: App: explorer, Title: 
-[2025-06-10 10:38:48] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:49] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:50] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:38:52] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:39:26] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:39:35] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:39:44] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:39:50] : Ctrl
-[2025-06-10 10:39:51] : Ctrl + 162
-[2025-06-10 10:39:51] : Ctrl + 162
-[2025-06-10 10:39:51] : Ctrl + 162
-[2025-06-10 10:39:51] : Ctrl + 162
-[2025-06-10 10:39:51] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:39:51] : Ctrl + 162
-[2025-06-10 10:39:51] : Ctrl + 162
-[2025-06-10 10:39:51] : Ctrl + 162
-[2025-06-10 10:39:51] : Ctrl + 162
-[2025-06-10 10:39:52] : Ctrl + 162
-[2025-06-10 10:39:52] : Ctrl + 162
-[2025-06-10 10:39:52] : Ctrl + 162
-[2025-06-10 10:39:52] : Ctrl + 162
-[2025-06-10 10:39:52] : Ctrl + 162
-[2025-06-10 10:39:52] : Ctrl + 162
-[2025-06-10 10:39:53] : Ctrl + 162
-[2025-06-10 10:39:53] : Ctrl + 162
-[2025-06-10 10:39:53] : Ctrl + 162
-[2025-06-10 10:39:53] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:39:53] : Ctrl + 162
-[2025-06-10 10:39:53] : Ctrl + 162
-[2025-06-10 10:39:54] : Enter
-[2025-06-10 10:39:54] : Ctrl
-[2025-06-10 10:39:55] : Ctrl + V
-[2025-06-10 10:39:55] : Ctrl
-[2025-06-10 10:39:55] : Ctrl + Z
-[2025-06-10 10:39:56] : Ctrl + Z
-[2025-06-10 10:39:56] : Ctrl + Z
-[2025-06-10 10:39:57] : DownArrow
-[2025-06-10 10:39:58] : UpArrow
-[2025-06-10 10:39:58] : Enter
-[2025-06-10 10:39:58] : Ctrl
-[2025-06-10 10:39:59] : Ctrl + V
-[2025-06-10 10:39:59] : Ctrl + S
-[2025-06-10 10:40:01] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:40:07] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:40:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:40:11] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:41:07] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:41:25] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:41:33] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:41:40] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:41:55] : Clicked: App: explorer, Title: Task Switching
-[2025-06-10 10:41:57] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:42:05] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:06] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
-[2025-06-10 10:42:07] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
-[2025-06-10 10:42:08] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 10:42:09] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
-[2025-06-10 10:42:12] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:13] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:13] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:14] : Clicked: App: explorer, Title: Program Manager
-[2025-06-10 10:42:14] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:15] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:16] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:16] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:17] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:17] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:18] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:18] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:19] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:19] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:21] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:21] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:22] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:22] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:22] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:23] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:23] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:25] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:28] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:29] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:42:29] : Ctrl
-[2025-06-10 10:42:30] : Ctrl + 162
-[2025-06-10 10:42:30] : Ctrl + 162
-[2025-06-10 10:42:30] : Ctrl + 162
-[2025-06-10 10:42:31] : Ctrl + 162
-[2025-06-10 10:42:31] : Ctrl + 162
-[2025-06-10 10:42:31] : Ctrl + 162
-[2025-06-10 10:42:31] : Ctrl + 162
-[2025-06-10 10:42:31] : Ctrl + 162
-[2025-06-10 10:42:31] : Ctrl + Oem2
-[2025-06-10 10:42:32] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:42:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:42:41] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:42] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:43] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:43] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:44] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:45] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:45] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:46] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:47] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:47] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:48] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:49] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:50] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:54] : Clicked: App: explorer, Title: 
-[2025-06-10 10:42:57] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 10:42:58] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:42:59] : Ctrl
-[2025-06-10 10:42:59] : Ctrl + 162
-[2025-06-10 10:43:00] : Ctrl + 162
-[2025-06-10 10:43:00] : Ctrl + 162
-[2025-06-10 10:43:00] : Ctrl + 162
-[2025-06-10 10:43:00] : Ctrl + 162
-[2025-06-10 10:43:00] : Ctrl + 162
-[2025-06-10 10:43:00] : Ctrl + 162
-[2025-06-10 10:43:00] : Ctrl + 162
-[2025-06-10 10:43:00] : Ctrl + 162
-[2025-06-10 10:43:01] : Ctrl + Oem2
-[2025-06-10 10:43:01] : Ctrl
-[2025-06-10 10:43:01] : Ctrl + S
-[2025-06-10 10:43:03] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:43:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:43:16] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 10:43:18] : Clicked: App: explorer, Title: 
-[2025-06-10 10:43:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:43:23] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:43:25] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:43:28] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:43:32] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:43:34] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:43:35] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:43:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:43:42] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
-[2025-06-10 10:43:43] : Clicked: App: explorer, Title: 
-[2025-06-10 10:43:46] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:45:08] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:45:10] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:45:10] : Ctrl
-[2025-06-10 10:45:10] : Ctrl + X
-[2025-06-10 10:45:11] : Ctrl + S
-[2025-06-10 10:45:12] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:45:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:45:21] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
-[2025-06-10 10:45:23] : Clicked: App: explorer, Title: 
-[2025-06-10 10:45:24] : Clicked: App: explorer, Title: 
-[2025-06-10 10:45:25] : Clicked: App: explorer, Title: 
-[2025-06-10 10:45:25] : Clicked: App: explorer, Title: 
-[2025-06-10 10:45:26] : Clicked: App: explorer, Title: 
-[2025-06-10 10:45:26] : Clicked: App: explorer, Title: 
-[2025-06-10 10:45:26] : Clicked: App: explorer, Title: 
-[2025-06-10 10:45:27] : Clicked: App: explorer, Title: 
-[2025-06-10 10:45:31] : Clicked: App: explorer, Title: 
-[2025-06-10 10:45:33] : Clicked: App: chrome, Title: AvaloniaUI Panel Overview - Google Chrome
-[2025-06-10 10:45:33] : Clicked: App: chrome, Title: part of application desktop frame - Google Search - Google Chrome
-[2025-06-10 10:45:35] : Clicked: App: chrome, Title: Inbox (511) - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
-[2025-06-10 10:45:36] : Clicked: App: explorer, Title: 
-[2025-06-10 10:45:47] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 10:45:48] : Ctrl
-[2025-06-10 10:45:48] : Ctrl
-[2025-06-10 10:45:49] : Ctrl + G
-[2025-06-10 10:45:49] : D1
-[2025-06-10 10:45:49] : Enter
-[2025-06-10 10:45:50] : Ctrl
-[2025-06-10 10:45:56] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 10:45:58] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:46:45] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:47:00] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:47:06] : Clicked: App: explorer, Title: System tray overflow window.
-[2025-06-10 10:47:08] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:48:10] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:48:11] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:48:12] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:48:13] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:48:18] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:48:31] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:48:42] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:49:43] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:49:45] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:49:59] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:50:00] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:50:03] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:50:05] : Shift
-[2025-06-10 10:50:05] : Shift + UpArrow
-[2025-06-10 10:50:05] : Shift + UpArrow
-[2025-06-10 10:50:05] : Shift + UpArrow
-[2025-06-10 10:50:05] : Shift + UpArrow
-[2025-06-10 10:50:06] : Shift + UpArrow
-[2025-06-10 10:50:06] : Shift + DownArrow
-[2025-06-10 10:50:06] : Shift + DownArrow
-[2025-06-10 10:50:07] : Shift + DownArrow
-[2025-06-10 10:50:07] : Shift + UpArrow
-[2025-06-10 10:50:07] : Shift + UpArrow
-[2025-06-10 10:50:08] : Ctrl
-[2025-06-10 10:50:09] : Ctrl + C
-[2025-06-10 10:50:11] : Shift
-[2025-06-10 10:50:11] : Shift + UpArrow
-[2025-06-10 10:50:11] : Shift + UpArrow
-[2025-06-10 10:50:11] : Shift + UpArrow
-[2025-06-10 10:50:12] : Shift + DownArrow
-[2025-06-10 10:50:12] : Ctrl
-[2025-06-10 10:50:12] : Ctrl + C
-[2025-06-10 10:50:15] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:51:44] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:51:45] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:51:45] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:51:47] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:51:53] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:08] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:52:08] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:52:09] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:52:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:10] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:10] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:10] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:12] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:22] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:52:24] : Ctrl
-[2025-06-10 10:52:24] : Ctrl + X
-[2025-06-10 10:52:25] : Ctrl
-[2025-06-10 10:52:25] : Ctrl + S
-[2025-06-10 10:52:31] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:40] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:52:41] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:42] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:43] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:45] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:45] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:54] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:56] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:57] : Ctrl
-[2025-06-10 10:52:57] : Ctrl + X
-[2025-06-10 10:52:58] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:52:58] : Ctrl
-[2025-06-10 10:52:59] : Ctrl + X
-[2025-06-10 10:52:59] : Ctrl + S
-[2025-06-10 10:53:00] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:53:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:54:07] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:54:08] : Ctrl
-[2025-06-10 10:54:08] : Ctrl + X
-[2025-06-10 10:54:09] : Ctrl
-[2025-06-10 10:54:10] : Ctrl + 162
-[2025-06-10 10:54:10] : Ctrl + 162
-[2025-06-10 10:54:10] : Ctrl + 162
-[2025-06-10 10:54:10] : Ctrl + 162
-[2025-06-10 10:54:10] : Ctrl + 162
-[2025-06-10 10:54:10] : Ctrl + 162
-[2025-06-10 10:54:11] : Ctrl + 162
-[2025-06-10 10:54:11] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:54:11] : Ctrl + 162
-[2025-06-10 10:54:11] : Ctrl + 162
-[2025-06-10 10:54:11] : Ctrl + 162
-[2025-06-10 10:54:11] : Ctrl + 162
-[2025-06-10 10:54:12] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:54:12] : Ctrl
-[2025-06-10 10:54:12] : Ctrl + X
-[2025-06-10 10:54:13] : Ctrl + S
-[2025-06-10 10:54:13] : Ctrl
-[2025-06-10 10:54:14] : Ctrl + 162
-[2025-06-10 10:54:14] : Ctrl + 162
-[2025-06-10 10:54:14] : Ctrl + 162
-[2025-06-10 10:54:14] : Ctrl + 162
-[2025-06-10 10:54:15] : Ctrl + 162
-[2025-06-10 10:54:15] : Ctrl + 162
-[2025-06-10 10:54:15] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:54:15] : Ctrl + 162
-[2025-06-10 10:54:15] : Ctrl
-[2025-06-10 10:54:15] : Ctrl + 162
-[2025-06-10 10:54:16] : Ctrl + 162
-[2025-06-10 10:54:16] : Ctrl + 162
-[2025-06-10 10:54:16] : Ctrl + 162
-[2025-06-10 10:54:16] : Ctrl + 162
-[2025-06-10 10:54:16] : Ctrl + 162
-[2025-06-10 10:54:16] : Ctrl + 162
-[2025-06-10 10:54:17] : Ctrl + 162
-[2025-06-10 10:54:17] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:54:17] : Ctrl + 162
-[2025-06-10 10:54:17] : Ctrl + 162
-[2025-06-10 10:54:17] : Ctrl + 162
-[2025-06-10 10:54:17] : Ctrl + 162
-[2025-06-10 10:54:17] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:54:17] : Ctrl + 162
-[2025-06-10 10:54:18] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:54:18] : Ctrl + 162
-[2025-06-10 10:54:18] : Ctrl + 162
-[2025-06-10 10:54:18] : Ctrl + 162
-[2025-06-10 10:54:18] : Ctrl + 162
-[2025-06-10 10:54:18] : Ctrl + 162
-[2025-06-10 10:54:19] : Ctrl + 162
-[2025-06-10 10:54:19] : Ctrl + 162
-[2025-06-10 10:54:19] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:54:19] : Ctrl + 162
-[2025-06-10 10:54:19] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:54:19] : Ctrl + 162
-[2025-06-10 10:54:19] : Ctrl
-[2025-06-10 10:54:19] : Ctrl + 162
-[2025-06-10 10:54:20] : Ctrl + 162
-[2025-06-10 10:54:20] : Ctrl + 162
-[2025-06-10 10:54:20] : Ctrl + 162
-[2025-06-10 10:54:20] : Ctrl + 162
-[2025-06-10 10:54:20] : Ctrl + 162
-[2025-06-10 10:54:20] : Ctrl + 162
-[2025-06-10 10:54:21] : Ctrl + 162
-[2025-06-10 10:54:21] : Ctrl + 162
-[2025-06-10 10:54:21] : Ctrl + 162
-[2025-06-10 10:54:21] : Ctrl + 162
-[2025-06-10 10:54:21] : Ctrl + 162
-[2025-06-10 10:54:21] : Ctrl + 162
-[2025-06-10 10:54:22] : Ctrl + 162
-[2025-06-10 10:54:22] : Ctrl + 162
-[2025-06-10 10:54:22] : Ctrl + 162
-[2025-06-10 10:54:22] : Ctrl + 162
-[2025-06-10 10:54:22] : Ctrl + 162
-[2025-06-10 10:54:22] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:54:22] : Ctrl + 162
-[2025-06-10 10:55:03] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:55:06] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:55:08] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:55:08] : Clicked: App: chrome, Title: part of application desktop frame - Google Search - Google Chrome
-[2025-06-10 10:55:10] : Clicked: App: chrome, Title: Inbox (511) - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
-[2025-06-10 10:55:11] : LeftWindows
-[2025-06-10 10:55:11] : D
-[2025-06-10 10:55:13] : Clicked: App: explorer, Title: Program Manager
-[2025-06-10 10:55:16] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:55:24] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:55:57] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:56:04] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:56:05] : Ctrl
-[2025-06-10 10:56:05] : Ctrl + X
-[2025-06-10 10:56:05] : Ctrl + S
-[2025-06-10 10:56:06] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:56:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:56:16] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:56:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:56:22] : Clicked: App: ShellHost, Title: Quick settings
-[2025-06-10 10:56:22] : Clicked: App: ShellHost, Title: Quick settings
-[2025-06-10 10:56:35] : Clicked: App: ShellHost, Title: Quick settings
-[2025-06-10 10:56:35] : Clicked: App: explorer, Title: Program Manager
-[2025-06-10 10:56:38] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 10:56:41] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
-[2025-06-10 10:56:42] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 10:56:51] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:27:42] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:27:48] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:27:50] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:27:51] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:27:53] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:27:54] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:27:57] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:27:57] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:27:59] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:28:07] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:28:09] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:28:10] : LeftWindows
-[2025-06-10 13:28:10] : LeftWindows, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:11] : E
-[2025-06-10 13:28:11] : E, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:12] : Clicked: App: explorer, Title: Home - File Explorer
-[2025-06-10 13:28:14] : Clicked: App: explorer, Title: Desktop - File Explorer
-[2025-06-10 13:28:15] : Clicked: App: explorer, Title: Downloads - File Explorer
-[2025-06-10 13:28:17] : Clicked: App: explorer, Title: Desktop - File Explorer
-[2025-06-10 13:28:17] : T
-[2025-06-10 13:28:17] : T, App: explorer, Title: Desktop - File Explorer
-[2025-06-10 13:28:18] : T
-[2025-06-10 13:28:18] : T, App: explorer, Title: Desktop - File Explorer
-[2025-06-10 13:28:19] : Enter
-[2025-06-10 13:28:19] : Enter, App: explorer, Title: Desktop - File Explorer
-[2025-06-10 13:28:20] : DownArrow
-[2025-06-10 13:28:20] : DownArrow, App: explorer, Title: Trojan - File Explorer
-[2025-06-10 13:28:20] : Enter
-[2025-06-10 13:28:20] : Enter, App: explorer, Title: Trojan - File Explorer
-[2025-06-10 13:28:21] : DownArrow
-[2025-06-10 13:28:21] : DownArrow, App: explorer, Title: src - File Explorer
-[2025-06-10 13:28:21] : Enter
-[2025-06-10 13:28:21] : Enter, App: explorer, Title: src - File Explorer
-[2025-06-10 13:28:21] : B
-[2025-06-10 13:28:21] : B, App: explorer, Title: CLIENT - File Explorer
-[2025-06-10 13:28:22] : Enter
-[2025-06-10 13:28:22] : Enter, App: explorer, Title: CLIENT - File Explorer
-[2025-06-10 13:28:23] : DownArrow
-[2025-06-10 13:28:23] : DownArrow, App: explorer, Title: bin - File Explorer
-[2025-06-10 13:28:23] : UpArrow
-[2025-06-10 13:28:23] : UpArrow, App: explorer, Title: bin - File Explorer
-[2025-06-10 13:28:23] : Enter
-[2025-06-10 13:28:23] : Enter, App: explorer, Title: bin - File Explorer
-[2025-06-10 13:28:25] : Clicked: App: explorer, Title: Debug - File Explorer
-[2025-06-10 13:28:25] : Clicked: App: explorer, Title: Debug - File Explorer
-[2025-06-10 13:28:26] : Clicked: App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:27] : D
-[2025-06-10 13:28:27] : D, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:27] : D
-[2025-06-10 13:28:27] : D, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:28] : D
-[2025-06-10 13:28:28] : D, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:28] : D
-[2025-06-10 13:28:28] : D, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:30] : Clicked: App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:32] : Clicked: App: explorer, Title: Debug - File Explorer
-[2025-06-10 13:28:33] : Clicked: App: explorer, Title: bin - File Explorer
-[2025-06-10 13:28:34] : Clicked: App: explorer, Title: bin - File Explorer
-[2025-06-10 13:28:35] : Clicked: App: explorer, Title: Release - File Explorer
-[2025-06-10 13:28:35] : Clicked: App: explorer, Title: Release - File Explorer
-[2025-06-10 13:28:36] : Clicked: App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:36] : F
-[2025-06-10 13:28:36] : F, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:37] : F
-[2025-06-10 13:28:37] : F, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:37] : F
-[2025-06-10 13:28:37] : F, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:40] : Clicked: App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:28:41] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
-[2025-06-10 13:28:43] : Clicked: App: explorer, Title: 
-[2025-06-10 13:28:48] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:28:52] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:28:52] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:56] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:56] : Ctrl
-[2025-06-10 13:28:56] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:56] : Ctrl + F
-[2025-06-10 13:28:56] : Ctrl + F, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:57] : F
-[2025-06-10 13:28:57] : F, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:57] : I
-[2025-06-10 13:28:57] : I, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:57] : L
-[2025-06-10 13:28:57] : L, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:57] : E
-[2025-06-10 13:28:57] : E, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:58] : Shift
-[2025-06-10 13:28:58] : Shift, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:58] : Shift + OemMinus
-[2025-06-10 13:28:58] : Shift + OemMinus, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:59] : U
-[2025-06-10 13:28:59] : U, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:28:59] : P
-[2025-06-10 13:28:59] : P, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:01] : Backspace
-[2025-06-10 13:29:01] : Backspace, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:01] : Backspace
-[2025-06-10 13:29:01] : Backspace, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:01] : Backspace
-[2025-06-10 13:29:01] : Backspace, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:01] : Backspace
-[2025-06-10 13:29:01] : Backspace, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:02] : Backspace
-[2025-06-10 13:29:02] : Backspace, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:02] : Backspace
-[2025-06-10 13:29:02] : Backspace, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:02] : Backspace
-[2025-06-10 13:29:02] : Backspace, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:02] : U
-[2025-06-10 13:29:02] : U, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:02] : P
-[2025-06-10 13:29:02] : P, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:03] : L
-[2025-06-10 13:29:03] : L, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:03] : O
-[2025-06-10 13:29:03] : O, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:03] : A
-[2025-06-10 13:29:03] : A, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:03] : D
-[2025-06-10 13:29:03] : D, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:04] : Escape
-[2025-06-10 13:29:04] : Escape, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:07] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:09] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:29:12] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:14] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:29:15] : Clicked: App: explorer, Title: 
-[2025-06-10 13:29:16] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:29:17] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:19] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:29:19] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:29:20] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:21] : NumPad1
-[2025-06-10 13:29:21] : NumPad1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:21] : NumPad2
-[2025-06-10 13:29:21] : NumPad2, App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:24] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:26] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:29:29] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:29:31] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:29:32] : NumPad7
-[2025-06-10 13:29:32] : NumPad7, App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:32] : Decimal
-[2025-06-10 13:29:32] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:33] : NumPad0
-[2025-06-10 13:29:33] : NumPad0, App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:33] : Decimal
-[2025-06-10 13:29:33] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:34] : NumPad0
-[2025-06-10 13:29:34] : NumPad0, App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:34] : Decimal
-[2025-06-10 13:29:34] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:35] : NumPad1
-[2025-06-10 13:29:35] : NumPad1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:36] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:39] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:41] : F10
-[2025-06-10 13:29:41] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:42] : F10
-[2025-06-10 13:29:42] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:42] : F10
-[2025-06-10 13:29:42] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:43] : F10
-[2025-06-10 13:29:43] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:43] : F10
-[2025-06-10 13:29:43] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:44] : F10
-[2025-06-10 13:29:44] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:44] : F10
-[2025-06-10 13:29:44] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:45] : F10
-[2025-06-10 13:29:45] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:45] : F10
-[2025-06-10 13:29:45] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:49] : F10
-[2025-06-10 13:29:49] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:49] : F10
-[2025-06-10 13:29:49] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:50] : F10
-[2025-06-10 13:29:50] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:52] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:29:55] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:55] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:29:58] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:00] : Ctrl
-[2025-06-10 13:30:00] : Ctrl, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:01] : Ctrl + C
-[2025-06-10 13:30:01] : Ctrl + C, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:01] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:02] : Enter
-[2025-06-10 13:30:02] : Enter, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:02] : Ctrl
-[2025-06-10 13:30:02] : Ctrl, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:02] : Ctrl + V
-[2025-06-10 13:30:02] : Ctrl + V, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:03] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:03] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:04] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:04] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:07] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:07] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:08] : Ctrl
-[2025-06-10 13:30:08] : Ctrl, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:08] : Ctrl + C
-[2025-06-10 13:30:08] : Ctrl + C, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:09] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:10] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:10] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:10] : Ctrl
-[2025-06-10 13:30:10] : Ctrl, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:10] : Ctrl + 160
-[2025-06-10 13:30:10] : Ctrl + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:10] : Shift + 160
-[2025-06-10 13:30:10] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:11] : Shift + RightArrow
-[2025-06-10 13:30:11] : Shift + RightArrow, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:11] : Shift + RightArrow
-[2025-06-10 13:30:11] : Shift + RightArrow, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:12] : Ctrl + V
-[2025-06-10 13:30:12] : Ctrl + V, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:13] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:13] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:14] : Shift
-[2025-06-10 13:30:14] : Shift, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:15] : S
-[2025-06-10 13:30:15] : S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:15] : E
-[2025-06-10 13:30:15] : E, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:15] : N
-[2025-06-10 13:30:15] : N, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:15] : T
-[2025-06-10 13:30:15] : T, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:15] : Spacebar
-[2025-06-10 13:30:15] : Spacebar, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:16] : Shift
-[2025-06-10 13:30:16] : Shift, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:16] : Shift + F
-[2025-06-10 13:30:16] : Shift + F, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:16] : Backspace
-[2025-06-10 13:30:16] : Backspace, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:17] : F
-[2025-06-10 13:30:17] : F, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:17] : I
-[2025-06-10 13:30:17] : I, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:17] : L
-[2025-06-10 13:30:17] : L, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:17] : E
-[2025-06-10 13:30:17] : E, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:18] : Ctrl
-[2025-06-10 13:30:18] : Ctrl, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:18] : Ctrl + S
-[2025-06-10 13:30:18] : Ctrl + S, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:24] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:30:26] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:30:26] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:30:27] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:30:29] : F10
-[2025-06-10 13:30:29] : F10, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:31] : Clicked: App: devenv, Title: Microsoft Visual Studio
-[2025-06-10 13:30:36] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:30:38] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:30:41] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:30:42] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:30:42] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:30:44] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:30:45] : F10
-[2025-06-10 13:30:45] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:30:45] : F10
-[2025-06-10 13:30:45] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:30:47] : F10
-[2025-06-10 13:30:47] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:30:49] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:30:53] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:30:54] : Clicked: App: explorer, Title: 
-[2025-06-10 13:30:55] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:30:59] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:31:02] : Clicked: App: explorer, Title: 
-[2025-06-10 13:31:04] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:31:06] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:07] : NumPad1
-[2025-06-10 13:31:07] : NumPad1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:08] : NumPad2
-[2025-06-10 13:31:08] : NumPad2, App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:08] : NumPad7
-[2025-06-10 13:31:08] : NumPad7, App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:08] : Decimal
-[2025-06-10 13:31:08] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:08] : NumPad0
-[2025-06-10 13:31:08] : NumPad0, App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:09] : Decimal
-[2025-06-10 13:31:09] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:09] : NumPad0
-[2025-06-10 13:31:09] : NumPad0, App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:09] : Decimal
-[2025-06-10 13:31:09] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:09] : NumPad1
-[2025-06-10 13:31:09] : NumPad1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:12] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:31:13] : F10
-[2025-06-10 13:31:13] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:14] : F10
-[2025-06-10 13:31:14] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:14] : F10
-[2025-06-10 13:31:14] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:15] : F10
-[2025-06-10 13:31:15] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:18] : F10
-[2025-06-10 13:31:18] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:23] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:27] : Clicked: App: devenv, Title: ADMIN
-[2025-06-10 13:31:28] : F10
-[2025-06-10 13:31:28] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:34] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:36] : Clicked: App: devenv, Title: ADMIN
-[2025-06-10 13:31:39] : Clicked: App: devenv, Title: ADMIN
-[2025-06-10 13:31:40] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:42] : F10
-[2025-06-10 13:31:42] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:44] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:45] : F10
-[2025-06-10 13:31:45] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:48] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:48] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:31:57] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:02] : Clicked: App: devenv, Title: ADMIN
-[2025-06-10 13:32:05] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:05] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:07] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:07] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:14] : Ctrl
-[2025-06-10 13:32:14] : Ctrl, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:14] : Ctrl + C
-[2025-06-10 13:32:14] : Ctrl + C, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:18] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:19] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:32:19] : Ctrl
-[2025-06-10 13:32:19] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:32:19] : Ctrl + F
-[2025-06-10 13:32:19] : Ctrl + F, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:32:19] : Ctrl + V
-[2025-06-10 13:32:19] : Ctrl + V, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:32:20] : Enter
-[2025-06-10 13:32:20] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:32:21] : Enter
-[2025-06-10 13:32:21] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:32:22] : Enter
-[2025-06-10 13:32:22] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:32:30] : Enter
-[2025-06-10 13:32:30] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:32:35] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:36] : Ctrl
-[2025-06-10 13:32:36] : Ctrl, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:36] : Ctrl + G
-[2025-06-10 13:32:36] : Ctrl + G, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:37] : D1
-[2025-06-10 13:32:37] : D1, App: devenv, Title: Go To Line
-[2025-06-10 13:32:37] : Enter
-[2025-06-10 13:32:37] : Enter, App: devenv, Title: Go To Line
-[2025-06-10 13:32:38] : Ctrl
-[2025-06-10 13:32:38] : Ctrl, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:38] : Ctrl + F
-[2025-06-10 13:32:38] : Ctrl + F, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:43] : C
-[2025-06-10 13:32:43] : C, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:43] : L
-[2025-06-10 13:32:43] : L, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:43] : I
-[2025-06-10 13:32:43] : I, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:43] : E
-[2025-06-10 13:32:43] : E, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:43] : N
-[2025-06-10 13:32:43] : N, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:44] : T
-[2025-06-10 13:32:44] : T, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:46] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:32:56] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:01] : Enter
-[2025-06-10 13:33:01] : Enter, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:01] : Shift
-[2025-06-10 13:33:01] : Shift, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:02] : Shift + OemMinus
-[2025-06-10 13:33:02] : Shift + OemMinus, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:03] : C
-[2025-06-10 13:33:03] : C, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:03] : L
-[2025-06-10 13:33:03] : L, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:03] : I
-[2025-06-10 13:33:03] : I, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:03] : N
-[2025-06-10 13:33:03] : N, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:03] : E
-[2025-06-10 13:33:03] : E, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:04] : T
-[2025-06-10 13:33:04] : T, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:04] : Ctrl
-[2025-06-10 13:33:04] : Ctrl, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:04] : Ctrl + Backspace
-[2025-06-10 13:33:04] : Ctrl + Backspace, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:05] : Shift
-[2025-06-10 13:33:05] : Shift, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:05] : Shift + OemMinus
-[2025-06-10 13:33:05] : Shift + OemMinus, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:33:09] : Ctrl
-[2025-06-10 13:33:09] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:33:10] : Ctrl + C
-[2025-06-10 13:33:10] : Ctrl + C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:33:10] : Ctrl
-[2025-06-10 13:33:10] : Ctrl, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:11] : Ctrl + V
-[2025-06-10 13:33:11] : Ctrl + V, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:12] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:13] : Shift
-[2025-06-10 13:33:13] : Shift, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:13] : Shift + RightArrow
-[2025-06-10 13:33:13] : Shift + RightArrow, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:13] : RightArrow
-[2025-06-10 13:33:13] : RightArrow, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:14] : Shift
-[2025-06-10 13:33:14] : Shift, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:14] : Shift + LeftArrow
-[2025-06-10 13:33:14] : Shift + LeftArrow, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:14] : Shift + LeftArrow
-[2025-06-10 13:33:14] : Shift + LeftArrow, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:14] : Backspace
-[2025-06-10 13:33:14] : Backspace, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:15] : Ctrl
-[2025-06-10 13:33:15] : Ctrl, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:15] : Ctrl + S
-[2025-06-10 13:33:15] : Ctrl + S, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:15] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:16] : LeftArrow
-[2025-06-10 13:33:16] : LeftArrow, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:16] : LeftArrow
-[2025-06-10 13:33:16] : LeftArrow, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:16] : Shift
-[2025-06-10 13:33:16] : Shift, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:17] : Shift + LeftArrow
-[2025-06-10 13:33:17] : Shift + LeftArrow, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:17] : Backspace
-[2025-06-10 13:33:17] : Backspace, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:17] : Ctrl
-[2025-06-10 13:33:17] : Ctrl, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:17] : Ctrl + S
-[2025-06-10 13:33:17] : Ctrl + S, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:18] : Ctrl
-[2025-06-10 13:33:18] : Ctrl, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:18] : Ctrl + 162
-[2025-06-10 13:33:18] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:19] : Ctrl + 162
-[2025-06-10 13:33:19] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:19] : Ctrl + 162
-[2025-06-10 13:33:19] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:19] : Ctrl + 162
-[2025-06-10 13:33:19] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:19] : Ctrl + 162
-[2025-06-10 13:33:19] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:19] : Ctrl + 162
-[2025-06-10 13:33:19] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:20] : Ctrl + 162
-[2025-06-10 13:33:20] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:20] : Ctrl + 162
-[2025-06-10 13:33:20] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:20] : Ctrl + 162
-[2025-06-10 13:33:20] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:20] : Ctrl + 162
-[2025-06-10 13:33:20] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:20] : Ctrl + 162
-[2025-06-10 13:33:20] : Ctrl + 162, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:21] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:23] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:33:28] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:29] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:33:29] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:33:31] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:32] : NumPad1
-[2025-06-10 13:33:32] : NumPad1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:32] : NumPad2
-[2025-06-10 13:33:32] : NumPad2, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:32] : Decimal
-[2025-06-10 13:33:32] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:33] : NumPad7
-[2025-06-10 13:33:33] : NumPad7, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:34] : Ctrl
-[2025-06-10 13:33:34] : Ctrl, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:34] : Ctrl + A
-[2025-06-10 13:33:34] : Ctrl + A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:34] : Backspace
-[2025-06-10 13:33:34] : Backspace, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:37] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:38] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:33:46] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:33:48] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:33:49] : NumPad1
-[2025-06-10 13:33:49] : NumPad1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:49] : NumPad2
-[2025-06-10 13:33:49] : NumPad2, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:49] : NumPad7
-[2025-06-10 13:33:49] : NumPad7, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:50] : Decimal
-[2025-06-10 13:33:50] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:50] : NumPad0
-[2025-06-10 13:33:50] : NumPad0, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:50] : Decimal
-[2025-06-10 13:33:50] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:51] : NumPad0
-[2025-06-10 13:33:51] : NumPad0, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:51] : Decimal
-[2025-06-10 13:33:51] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:52] : NumPad1
-[2025-06-10 13:33:52] : NumPad1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:54] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:33:57] : F10
-[2025-06-10 13:33:57] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:57] : F10
-[2025-06-10 13:33:57] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:58] : F10
-[2025-06-10 13:33:58] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:58] : F10
-[2025-06-10 13:33:58] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:59] : F10
-[2025-06-10 13:33:59] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:33:59] : F10
-[2025-06-10 13:33:59] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:34:00] : F10
-[2025-06-10 13:34:00] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:34:00] : F10
-[2025-06-10 13:34:00] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:34:27] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
-[2025-06-10 13:34:32] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:34:33] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:34:34] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:34:36] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:34:38] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:39] : Clicked: App: explorer, Title: 
-[2025-06-10 13:34:40] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:34:46] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:34:47] : Clicked: App: chrome, Title: Make TextBox Read-Only - Google Chrome
-[2025-06-10 13:34:48] : Clicked: App: explorer, Title: 
-[2025-06-10 13:34:49] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:34:50] : Clicked: App: chrome, Title: Make TextBox Read-Only - Google Chrome
-[2025-06-10 13:34:51] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:34:53] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:54] : NumPad1
-[2025-06-10 13:34:54] : NumPad1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:54] : NumPad2
-[2025-06-10 13:34:54] : NumPad2, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:54] : NumPad7
-[2025-06-10 13:34:54] : NumPad7, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:54] : Decimal
-[2025-06-10 13:34:54] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:55] : NumPad0
-[2025-06-10 13:34:55] : NumPad0, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:55] : Decimal
-[2025-06-10 13:34:55] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:55] : NumPad0
-[2025-06-10 13:34:55] : NumPad0, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:56] : NumPad1
-[2025-06-10 13:34:56] : NumPad1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:57] : Backspace
-[2025-06-10 13:34:57] : Backspace, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:57] : Decimal
-[2025-06-10 13:34:57] : Decimal, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:57] : NumPad0
-[2025-06-10 13:34:57] : NumPad0, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:58] : Backspace
-[2025-06-10 13:34:58] : Backspace, App: ADMIN, Title: ADMIN
-[2025-06-10 13:34:59] : NumPad1
-[2025-06-10 13:34:59] : NumPad1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:35:00] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:35:02] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:35:03] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:35:04] : Clicked: App: ADMIN, Title: Select a File
-[2025-06-10 13:35:05] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:35:17] : LeftWindows
-[2025-06-10 13:35:17] : LeftWindows, App: ADMIN, Title: ADMIN
-[2025-06-10 13:35:17] : D
-[2025-06-10 13:35:17] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 13:35:20] : Clicked: App: explorer, Title: Program Manager
-[2025-06-10 13:35:21] : Clicked: App: explorer, Title: 
-[2025-06-10 13:35:23] : Clicked: App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:35:24] : Clicked: App: explorer, Title: Release - File Explorer
-[2025-06-10 13:35:25] : Clicked: App: explorer, Title: Release - File Explorer
-[2025-06-10 13:35:26] : Clicked: App: explorer, Title: Release - File Explorer
-[2025-06-10 13:35:27] : Clicked: App: explorer, Title: bin - File Explorer
-[2025-06-10 13:35:28] : Clicked: App: explorer, Title: bin - File Explorer
-[2025-06-10 13:35:28] : Clicked: App: explorer, Title: bin - File Explorer
-[2025-06-10 13:35:29] : B
-[2025-06-10 13:35:29] : B, App: explorer, Title: Debug - File Explorer
-[2025-06-10 13:35:30] : Clicked: App: explorer, Title: Debug - File Explorer
-[2025-06-10 13:35:30] : Clicked: App: explorer, Title: Debug - File Explorer
-[2025-06-10 13:35:31] : Clicked: App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:35:31] : B
-[2025-06-10 13:35:31] : B, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:35:32] : DownArrow
-[2025-06-10 13:35:32] : DownArrow, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:35:32] : Enter
-[2025-06-10 13:35:32] : Enter, App: explorer, Title: net8.0 - File Explorer
-[2025-06-10 13:35:33] : LeftArrow
-[2025-06-10 13:35:33] : LeftArrow, App: explorer, Title: file_downloaded - File Explorer
-[2025-06-10 13:35:34] : LeftArrow
-[2025-06-10 13:35:34] : LeftArrow, App: explorer, Title: file_downloaded - File Explorer
-[2025-06-10 13:35:34] : LeftArrow
-[2025-06-10 13:35:34] : LeftArrow, App: explorer, Title: file_downloaded - File Explorer
-[2025-06-10 13:35:34] : RightArrow
-[2025-06-10 13:35:34] : RightArrow, App: explorer, Title: file_downloaded - File Explorer
-[2025-06-10 13:35:35] : Clicked: App: explorer, Title: file_downloaded - File Explorer
-[2025-06-10 13:35:37] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:35:38] : Clicked: App: chrome, Title: Make TextBox Read-Only - Google Chrome
-[2025-06-10 13:35:40] : Clicked: App: chrome, Title: Jordan Tumaliuan - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
-[2025-06-10 13:35:41] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:35:42] : Clicked: App: explorer, Title: 
-[2025-06-10 13:35:43] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:35:47] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:41:47] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:44:44] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:44:45] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:44:57] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:45:01] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:45:35] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:45:38] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:45:45] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:45:52] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:46:05] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:46:06] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:08] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:46:13] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:46:16] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
-[2025-06-10 13:46:19] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
-[2025-06-10 13:46:28] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:30] : Ctrl
-[2025-06-10 13:46:30] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:30] : Ctrl + X
-[2025-06-10 13:46:30] : Ctrl + X, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:31] : Ctrl
-[2025-06-10 13:46:31] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:31] : Shift
-[2025-06-10 13:46:31] : Shift, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:32] : Shift + 160
-[2025-06-10 13:46:32] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:32] : Shift + 160
-[2025-06-10 13:46:32] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:32] : Shift + 160
-[2025-06-10 13:46:32] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:33] : Shift + 160
-[2025-06-10 13:46:33] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:33] : Shift + 160
-[2025-06-10 13:46:33] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:33] : Shift + 160
-[2025-06-10 13:46:33] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:33] : Shift + UpArrow
-[2025-06-10 13:46:33] : Shift + UpArrow, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:33] : Shift + UpArrow
-[2025-06-10 13:46:33] : Shift + UpArrow, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:34] : Shift
-[2025-06-10 13:46:34] : Shift, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:34] : Shift + DownArrow
-[2025-06-10 13:46:34] : Shift + DownArrow, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:35] : Backspace
-[2025-06-10 13:46:35] : Backspace, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:36] : Ctrl
-[2025-06-10 13:46:36] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:36] : Ctrl + S
-[2025-06-10 13:46:36] : Ctrl + S, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:38] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:50] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:46:52] : Enter
-[2025-06-10 13:46:52] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:52] : Ctrl
-[2025-06-10 13:46:52] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:53] : Ctrl + V
-[2025-06-10 13:46:53] : Ctrl + V, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:54] : Ctrl
-[2025-06-10 13:46:54] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:54] : Ctrl + S
-[2025-06-10 13:46:54] : Ctrl + S, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:55] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:46:55] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:13] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:14] : Ctrl
-[2025-06-10 13:47:14] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:14] : Ctrl + X
-[2025-06-10 13:47:14] : Ctrl + X, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:15] : Ctrl
-[2025-06-10 13:47:15] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:15] : Ctrl + 162
-[2025-06-10 13:47:15] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:15] : Ctrl + 162
-[2025-06-10 13:47:15] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:15] : Ctrl + 162
-[2025-06-10 13:47:15] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:16] : Ctrl + 162
-[2025-06-10 13:47:16] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:16] : Ctrl + 162
-[2025-06-10 13:47:16] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:16] : Ctrl + 162
-[2025-06-10 13:47:16] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:16] : Ctrl + 162
-[2025-06-10 13:47:16] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:16] : Ctrl + 162
-[2025-06-10 13:47:16] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:17] : Ctrl + 162
-[2025-06-10 13:47:17] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:17] : Ctrl + 162
-[2025-06-10 13:47:17] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:17] : Ctrl + X
-[2025-06-10 13:47:17] : Ctrl + X, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:17] : Backspace
-[2025-06-10 13:47:17] : Backspace, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:18] : Ctrl
-[2025-06-10 13:47:18] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:18] : Ctrl + Z
-[2025-06-10 13:47:18] : Ctrl + Z, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:19] : Ctrl
-[2025-06-10 13:47:19] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:20] : Ctrl + S
-[2025-06-10 13:47:20] : Ctrl + S, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:20] : Ctrl + S
-[2025-06-10 13:47:20] : Ctrl + S, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:21] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:47:28] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:47:32] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:36] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:38] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:39] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:40] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:42] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:43] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:43] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:44] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:48] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:49] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:50] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:51] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:52] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:52] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:53] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:53] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:54] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:54] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:54] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:54] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:56] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:58] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:58] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:58] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:59] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:59] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:59] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:59] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:47:59] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:00] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:11] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:48:22] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:31] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:34] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:34] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:35] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:38] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:39] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:48:41] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:48:41] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:48:43] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:44] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:48] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:48:49] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:48:52] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:48:59] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:49:04] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:49:05] : Clicked: App: chrome, Title: Make TextBox Read-Only - Google Chrome
-[2025-06-10 13:49:21] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:49:34] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:49:37] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
-[2025-06-10 13:49:40] : Clicked: App: chrome, Title: Make TextBox Read-Only - Google Chrome
-[2025-06-10 13:49:41] : Clicked: App: explorer, Title: 
-[2025-06-10 13:49:49] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
-[2025-06-10 13:49:50] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
-[2025-06-10 13:49:52] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:52] : Ctrl
-[2025-06-10 13:49:52] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:52] : Ctrl + F
-[2025-06-10 13:49:52] : Ctrl + F, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:55] : R
-[2025-06-10 13:49:55] : R, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:55] : E
-[2025-06-10 13:49:55] : E, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:55] : S
-[2025-06-10 13:49:55] : S, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:56] : Backspace
-[2025-06-10 13:49:56] : Backspace, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:56] : V
-[2025-06-10 13:49:56] : V, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:56] : E
-[2025-06-10 13:49:56] : E, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:57] : R
-[2025-06-10 13:49:57] : R, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:57] : S
-[2025-06-10 13:49:57] : S, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:57] : E
-[2025-06-10 13:49:57] : E, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:58] : Ctrl
-[2025-06-10 13:49:58] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:58] : Ctrl + 162
-[2025-06-10 13:49:58] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:59] : Ctrl + 162
-[2025-06-10 13:49:59] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:59] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:59] : Ctrl + 162
-[2025-06-10 13:49:59] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:59] : Ctrl + 162
-[2025-06-10 13:49:59] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:59] : Ctrl + 162
-[2025-06-10 13:49:59] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:49:59] : Ctrl + 162
-[2025-06-10 13:49:59] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:00] : Ctrl + 162
-[2025-06-10 13:50:00] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:00] : Ctrl + 162
-[2025-06-10 13:50:00] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:00] : Ctrl + 162
-[2025-06-10 13:50:00] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:00] : Ctrl + 162
-[2025-06-10 13:50:00] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:00] : Ctrl + 162
-[2025-06-10 13:50:00] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:00] : Ctrl + 162
-[2025-06-10 13:50:00] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:01] : Ctrl + 162
-[2025-06-10 13:50:01] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:01] : Ctrl + 162
-[2025-06-10 13:50:01] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:01] : Ctrl + 162
-[2025-06-10 13:50:01] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:01] : Ctrl + 162
-[2025-06-10 13:50:01] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:01] : Ctrl + 162
-[2025-06-10 13:50:01] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:02] : Ctrl + 162
-[2025-06-10 13:50:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:02] : Ctrl + 162
-[2025-06-10 13:50:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:02] : Ctrl + 162
-[2025-06-10 13:50:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:02] : Ctrl + 162
-[2025-06-10 13:50:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:02] : Ctrl + 162
-[2025-06-10 13:50:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:02] : Ctrl + 162
-[2025-06-10 13:50:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:03] : Ctrl + 162
-[2025-06-10 13:50:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:03] : Ctrl + 162
-[2025-06-10 13:50:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:03] : Ctrl + 162
-[2025-06-10 13:50:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:03] : Ctrl + 162
-[2025-06-10 13:50:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:03] : Ctrl + 162
-[2025-06-10 13:50:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:04] : Ctrl + 162
-[2025-06-10 13:50:04] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:04] : Ctrl + 162
-[2025-06-10 13:50:04] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:04] : Ctrl + 162
-[2025-06-10 13:50:04] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:04] : Ctrl + 162
-[2025-06-10 13:50:04] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:08] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:08] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:10] : Shift
-[2025-06-10 13:50:10] : Shift, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:10] : Shift + I
-[2025-06-10 13:50:10] : Shift + I, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:10] : N
-[2025-06-10 13:50:10] : N, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:10] : S
-[2025-06-10 13:50:10] : S, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:11] : E
-[2025-06-10 13:50:11] : E, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:11] : Tab
-[2025-06-10 13:50:11] : Tab, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:12] : RightArrow
-[2025-06-10 13:50:12] : RightArrow, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:14] : D0
-[2025-06-10 13:50:14] : D0, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:14] : OemComma
-[2025-06-10 13:50:14] : OemComma, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:15] : Spacebar
-[2025-06-10 13:50:15] : Spacebar, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:16] : Ctrl
-[2025-06-10 13:50:16] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:16] : Ctrl + S
-[2025-06-10 13:50:16] : Ctrl + S, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:16] : Ctrl + S
-[2025-06-10 13:50:16] : Ctrl + S, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:17] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:50:23] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:50:24] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:50:27] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:50:35] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:50:38] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:50:40] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:50:40] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:50:49] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:50:51] : Clicked: App: explorer, Title: 
-[2025-06-10 13:50:51] : Clicked: App: explorer, Title: 
-[2025-06-10 13:50:53] : Clicked: App: explorer, Title: 
-[2025-06-10 13:50:55] : Clicked: App: explorer, Title: 
-[2025-06-10 13:50:56] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
-[2025-06-10 13:51:00] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:01] : Clicked: App: Postman, Title: SUNLINE LOAN CREATION - My Workspace
-[2025-06-10 13:51:04] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:05] : Clicked: App: chrome, Title: Make TextBox Read-Only - Google Chrome
-[2025-06-10 13:51:12] : S
-[2025-06-10 13:51:12] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:13] : A
-[2025-06-10 13:51:13] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:13] : S
-[2025-06-10 13:51:13] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:14] : D
-[2025-06-10 13:51:14] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:14] : A
-[2025-06-10 13:51:14] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:15] : S
-[2025-06-10 13:51:15] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:15] : D
-[2025-06-10 13:51:15] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:15] : D
-[2025-06-10 13:51:15] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:16] : S
-[2025-06-10 13:51:16] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:16] : A
-[2025-06-10 13:51:16] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:18] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:51:21] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:53:24] : Clicked: App: explorer, Title: Task Switching
-[2025-06-10 13:53:30] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:32] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:33] : A
-[2025-06-10 13:53:33] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:33] : S
-[2025-06-10 13:53:33] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:34] : D
-[2025-06-10 13:53:34] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:34] : S
-[2025-06-10 13:53:34] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:35] : A
-[2025-06-10 13:53:35] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:35] : S
-[2025-06-10 13:53:35] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:35] : D
-[2025-06-10 13:53:35] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:35] : A
-[2025-06-10 13:53:35] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:36] : S
-[2025-06-10 13:53:36] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:36] : D
-[2025-06-10 13:53:36] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:36] : A
-[2025-06-10 13:53:36] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:36] : S
-[2025-06-10 13:53:36] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:36] : D
-[2025-06-10 13:53:36] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:37] : D
-[2025-06-10 13:53:37] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:37] : S
-[2025-06-10 13:53:37] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:37] : A
-[2025-06-10 13:53:37] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:37] : S
-[2025-06-10 13:53:37] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:37] : D
-[2025-06-10 13:53:37] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:38] : A
-[2025-06-10 13:53:38] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:38] : S
-[2025-06-10 13:53:38] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:53:40] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:54:06] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:54:07] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 13:54:08] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 13:54:09] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:19] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:55:21] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:22] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:22] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:23] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:23] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:23] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:24] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:24] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:25] : D1
-[2025-06-10 13:55:25] : D1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:25] : D2
-[2025-06-10 13:55:25] : D2, App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:26] : D3
-[2025-06-10 13:55:26] : D3, App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:26] : D1
-[2025-06-10 13:55:26] : D1, App: ADMIN, Title: ADMIN
-[2025-06-10 13:55:29] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:55:37] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:55:37] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:38] : Ctrl
-[2025-06-10 13:55:38] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:38] : Ctrl + C
-[2025-06-10 13:55:38] : Ctrl + C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:38] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:38] : Ctrl
-[2025-06-10 13:55:38] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:38] : Ctrl + F
-[2025-06-10 13:55:38] : Ctrl + F, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:39] : Ctrl + V
-[2025-06-10 13:55:39] : Ctrl + V, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:40] : Enter
-[2025-06-10 13:55:40] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:41] : Enter
-[2025-06-10 13:55:41] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:41] : Enter
-[2025-06-10 13:55:41] : Enter, App: devenv, Title: 
-[2025-06-10 13:55:47] : Clicked: App: explorer, Title: Task View
-[2025-06-10 13:55:48] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:50] : Ctrl
-[2025-06-10 13:55:50] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:50] : Ctrl + 162
-[2025-06-10 13:55:50] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:50] : Ctrl + 162
-[2025-06-10 13:55:50] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:50] : Ctrl + 162
-[2025-06-10 13:55:50] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:51] : Ctrl + 162
-[2025-06-10 13:55:51] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:51] : Ctrl + 162
-[2025-06-10 13:55:51] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:51] : Ctrl + 162
-[2025-06-10 13:55:51] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:51] : Ctrl + 162
-[2025-06-10 13:55:51] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:51] : Ctrl + 162
-[2025-06-10 13:55:51] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:51] : Ctrl + 162
-[2025-06-10 13:55:51] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:52] : Ctrl + Oem2
-[2025-06-10 13:55:52] : Ctrl + Oem2, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:53] : Ctrl
-[2025-06-10 13:55:53] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:53] : Ctrl + S
-[2025-06-10 13:55:53] : Ctrl + S, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:55:53] : Ctrl + S
-[2025-06-10 13:55:53] : Ctrl + S, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:02] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:03] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:05] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:06] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:06] : Shift
-[2025-06-10 13:56:06] : Shift, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:07] : Shift + 160
-[2025-06-10 13:56:07] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:07] : Shift + 160
-[2025-06-10 13:56:07] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:07] : Shift + 160
-[2025-06-10 13:56:07] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:07] : Shift + 160
-[2025-06-10 13:56:07] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:07] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:07] : Shift + 160
-[2025-06-10 13:56:08] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:08] : Shift + 160
-[2025-06-10 13:56:08] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:08] : Shift + 160
-[2025-06-10 13:56:08] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:08] : Shift + 160
-[2025-06-10 13:56:08] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:08] : Shift + 160
-[2025-06-10 13:56:08] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:08] : Shift + 160
-[2025-06-10 13:56:08] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:09] : Shift + 160
-[2025-06-10 13:56:09] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:09] : Shift + 160
-[2025-06-10 13:56:09] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:09] : Shift + 160
-[2025-06-10 13:56:09] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:09] : Shift + 160
-[2025-06-10 13:56:09] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:09] : Shift + 160
-[2025-06-10 13:56:09] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:10] : Shift + 160
-[2025-06-10 13:56:10] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:10] : Shift + 160
-[2025-06-10 13:56:10] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:10] : Shift + 160
-[2025-06-10 13:56:10] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:10] : Shift + 160
-[2025-06-10 13:56:10] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:10] : Shift + 160
-[2025-06-10 13:56:10] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:11] : Shift + 160
-[2025-06-10 13:56:11] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:11] : Shift + 160
-[2025-06-10 13:56:11] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:11] : Shift + 160
-[2025-06-10 13:56:11] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:11] : Shift + 160
-[2025-06-10 13:56:11] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:11] : Shift + 160
-[2025-06-10 13:56:11] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:12] : Shift + 160
-[2025-06-10 13:56:12] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:12] : Shift + 160
-[2025-06-10 13:56:12] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:12] : Shift + 160
-[2025-06-10 13:56:12] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:12] : Shift + 160
-[2025-06-10 13:56:12] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:12] : Shift + 160
-[2025-06-10 13:56:12] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:12] : Shift + 160
-[2025-06-10 13:56:12] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:13] : Shift + 160
-[2025-06-10 13:56:13] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:13] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:13] : Shift + 160
-[2025-06-10 13:56:13] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:13] : Shift + 160
-[2025-06-10 13:56:13] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:13] : Ctrl
-[2025-06-10 13:56:13] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:13] : Ctrl + 162
-[2025-06-10 13:56:13] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:14] : Ctrl + 162
-[2025-06-10 13:56:14] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:14] : Ctrl + C
-[2025-06-10 13:56:14] : Ctrl + C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:14] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:15] : Enter
-[2025-06-10 13:56:15] : Enter, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:15] : Ctrl
-[2025-06-10 13:56:15] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:16] : Ctrl + V
-[2025-06-10 13:56:16] : Ctrl + V, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:16] : Ctrl
-[2025-06-10 13:56:16] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:17] : Ctrl + Z
-[2025-06-10 13:56:17] : Ctrl + Z, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:18] : Shift
-[2025-06-10 13:56:18] : Shift, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:19] : Shift + 160
-[2025-06-10 13:56:19] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:19] : Shift + 160
-[2025-06-10 13:56:19] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:19] : Shift + 160
-[2025-06-10 13:56:19] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:19] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:19] : Shift + 160
-[2025-06-10 13:56:19] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:19] : Shift + 160
-[2025-06-10 13:56:19] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:19] : Shift + 160
-[2025-06-10 13:56:19] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:20] : Shift + 160
-[2025-06-10 13:56:20] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:20] : Shift + 160
-[2025-06-10 13:56:20] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:20] : Shift + 160
-[2025-06-10 13:56:20] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:20] : Shift + 160
-[2025-06-10 13:56:20] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:20] : Shift + 160
-[2025-06-10 13:56:20] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:20] : Shift + 160
-[2025-06-10 13:56:20] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:21] : Shift + 160
-[2025-06-10 13:56:21] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:21] : Shift + 160
-[2025-06-10 13:56:21] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:21] : Shift + 160
-[2025-06-10 13:56:21] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:21] : Shift + 160
-[2025-06-10 13:56:21] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:21] : Shift + 160
-[2025-06-10 13:56:21] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:21] : Shift + 160
-[2025-06-10 13:56:21] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:22] : Shift + 160
-[2025-06-10 13:56:22] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:22] : Shift + 160
-[2025-06-10 13:56:22] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:22] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:22] : Shift + 160
-[2025-06-10 13:56:22] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:22] : Shift + 160
-[2025-06-10 13:56:22] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:22] : Shift + 160
-[2025-06-10 13:56:22] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:22] : Shift + 160
-[2025-06-10 13:56:22] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:23] : Shift + 160
-[2025-06-10 13:56:23] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:23] : Shift + 160
-[2025-06-10 13:56:23] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:23] : Shift + 160
-[2025-06-10 13:56:23] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:23] : Shift + 160
-[2025-06-10 13:56:23] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:23] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:23] : Ctrl
-[2025-06-10 13:56:23] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:24] : Ctrl + C
-[2025-06-10 13:56:24] : Ctrl + C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:24] : Shift
-[2025-06-10 13:56:24] : Shift, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:24] : Shift + 160
-[2025-06-10 13:56:24] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:25] : Shift + 160
-[2025-06-10 13:56:25] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:25] : Shift + 160
-[2025-06-10 13:56:25] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:25] : Shift + 160
-[2025-06-10 13:56:25] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:25] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:25] : Shift + 160
-[2025-06-10 13:56:25] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:25] : Shift + 160
-[2025-06-10 13:56:25] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:25] : Shift + 160
-[2025-06-10 13:56:25] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:26] : Shift + 160
-[2025-06-10 13:56:26] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:26] : Shift + 160
-[2025-06-10 13:56:26] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:26] : Shift + 160
-[2025-06-10 13:56:26] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:26] : Shift + 160
-[2025-06-10 13:56:26] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:26] : Shift + 160
-[2025-06-10 13:56:26] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:26] : Shift + 160
-[2025-06-10 13:56:26] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:27] : Shift + 160
-[2025-06-10 13:56:27] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:27] : Shift + 160
-[2025-06-10 13:56:27] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:27] : Shift + 160
-[2025-06-10 13:56:27] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:27] : Shift + 160
-[2025-06-10 13:56:27] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:27] : Shift + 160
-[2025-06-10 13:56:27] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:28] : Shift + 160
-[2025-06-10 13:56:28] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:28] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:28] : Shift + 160
-[2025-06-10 13:56:28] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:28] : Shift + 160
-[2025-06-10 13:56:28] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:28] : Shift + 160
-[2025-06-10 13:56:28] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:28] : Shift + 160
-[2025-06-10 13:56:28] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:28] : Shift + 160
-[2025-06-10 13:56:28] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:29] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:29] : Shift + 160
-[2025-06-10 13:56:29] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:29] : Shift + 160
-[2025-06-10 13:56:29] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:29] : Shift + 160
-[2025-06-10 13:56:29] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:29] : Shift + 160
-[2025-06-10 13:56:29] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:29] : Shift + 160
-[2025-06-10 13:56:29] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:29] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:29] : Shift + 160
-[2025-06-10 13:56:29] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:30] : Shift + 160
-[2025-06-10 13:56:30] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:30] : Shift + 160
-[2025-06-10 13:56:30] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:30] : Shift + 160
-[2025-06-10 13:56:30] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:30] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:30] : Shift + 160
-[2025-06-10 13:56:30] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:30] : Shift + 160
-[2025-06-10 13:56:30] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:31] : Shift + 160
-[2025-06-10 13:56:31] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:31] : Shift + 160
-[2025-06-10 13:56:31] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:31] : Shift + 160
-[2025-06-10 13:56:31] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:31] : Shift + 160
-[2025-06-10 13:56:31] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:31] : Shift + 160
-[2025-06-10 13:56:31] : Shift + 160, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:31] : Ctrl
-[2025-06-10 13:56:31] : Ctrl, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:32] : Ctrl + 162
-[2025-06-10 13:56:32] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:32] : Ctrl + 162
-[2025-06-10 13:56:32] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:32] : Ctrl + 162
-[2025-06-10 13:56:32] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:32] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:32] : Ctrl + 162
-[2025-06-10 13:56:32] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:32] : Ctrl + 162
-[2025-06-10 13:56:32] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:33] : Ctrl + 162
-[2025-06-10 13:56:33] : Ctrl + 162, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:33] : Ctrl + C
-[2025-06-10 13:56:33] : Ctrl + C, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:33] : UpArrow
-[2025-06-10 13:56:33] : UpArrow, App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 13:56:34] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:59:39] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 13:59:40] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:59:43] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:59:44] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:59:45] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:59:45] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:59:46] : A
-[2025-06-10 13:59:47] : S
-[2025-06-10 13:59:50] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:59:51] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:59:51] : D
-[2025-06-10 13:59:52] : S
-[2025-06-10 13:59:52] : A
-[2025-06-10 13:59:52] : S
-[2025-06-10 13:59:53] : Ctrl
-[2025-06-10 13:59:53] : Ctrl + A
-[2025-06-10 13:59:54] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 13:59:56] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 13:59:56] : Ctrl
-[2025-06-10 13:59:57] : Ctrl + 162
-[2025-06-10 13:59:57] : Ctrl + 162
-[2025-06-10 13:59:57] : Ctrl + 162
-[2025-06-10 13:59:57] : Ctrl + 162
-[2025-06-10 13:59:58] : Ctrl + 162
-[2025-06-10 13:59:58] : Ctrl + 162
-[2025-06-10 13:59:58] : Ctrl + Z
-[2025-06-10 13:59:59] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 14:00:05] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:00:05] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 14:00:07] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 14:02:53] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 14:02:54] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:02:57] : Clicked: App: devenv, Title: Microsoft Visual Studio
-[2025-06-10 14:02:58] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:02:59] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:02:59] : Ctrl + Z, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:00] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:00] : Ctrl + Z, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:01] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:01] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:01] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:02] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:03] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:04] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:04] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:04] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:04] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:04] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:04] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:05] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:05] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:05] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:05] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:05] : Ctrl + Y, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:05] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:08] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:09] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:09] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:09] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:09] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:09] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:09] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:10] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:10] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:10] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:10] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:10] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:11] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:11] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:11] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:11] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:11] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:11] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:12] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:12] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:12] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:12] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:12] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:12] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:12] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:13] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:13] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:13] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:13] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:13] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:13] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:14] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:14] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:14] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:14] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:14] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:15] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:14] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:15] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:15] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:15] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:15] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:15] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:16] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:16] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:16] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:16] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:16] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:16] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:17] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:17] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:17] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:17] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:17] : Escape, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:17] : Escape, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:18] : Escape, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:18] : LeftArrow, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:19] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:03:20] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 14:03:38] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 14:03:40] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 14:03:43] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:44] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:44] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:45] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:46] : T, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:46] : E, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:46] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:46] : T, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:47] : I, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:47] : N, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:48] : G, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:49] : A, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:49] : S, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:49] : D, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:49] : F, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:49] : Ctrl, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:49] : Ctrl + A, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:50] : Backspace, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:52] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:52] : D1, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:52] : D2, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:52] : D3, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:53] : D3, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:53] : D2, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:53] : D1, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:54] : Ctrl, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:54] : Ctrl + A, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:55] : Backspace, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:55] : D3, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:55] : D2, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:56] : D1, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:56] : D2, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:56] : D3, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:56] : D1, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:56] : D2, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:57] : D3, App: ADMIN, Title: ADMIN
-[2025-06-10 14:03:59] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 14:04:00] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 14:04:00] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:04:00] : Ctrl + S, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:04:01] : Ctrl + S, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:04:01] : Ctrl + S, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:04:07] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:04:09] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
-[2025-06-10 14:06:59] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 14:07:00] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:07:01] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:07:05] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 14:07:05] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 14:07:06] : LeftWindows, App: ADMIN, Title: ADMIN
-[2025-06-10 14:07:06] : R, App: ADMIN, Title: ADMIN
-[2025-06-10 14:07:07] : T, App: explorer, Title: Run
-[2025-06-10 14:07:07] : A, App: explorer, Title: Run
-[2025-06-10 14:07:07] : S, App: explorer, Title: Run
-[2025-06-10 14:07:08] : K, App: explorer, Title: Run
-[2025-06-10 14:07:08] : M, App: explorer, Title: Run
-[2025-06-10 14:07:08] : G, App: explorer, Title: Run
-[2025-06-10 14:07:08] : R, App: explorer, Title: Run
-[2025-06-10 14:07:08] : Enter, App: explorer, Title: Run
-[2025-06-10 14:07:48] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 14:07:49] : Clicked: App: explorer, Title: 
-[2025-06-10 14:07:50] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:07:54] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 14:07:55] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 14:07:59] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 14:08:03] : Clicked: App: ADMIN, Title: ADMIN
-[2025-06-10 14:08:04] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:08:04] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:08:04] : Ctrl + S, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:08:04] : Ctrl + S, App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:08:05] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
-[2025-06-10 14:08:08] : Clicked: App: CLIENT, Title: WindowDefenderV1
-[2025-06-10 14:08:10] : Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 14:48:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 14:48:28] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:29] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:30] : Ctrl, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:31] : Ctrl + A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:32] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:33] : NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:33] : NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:44] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:52] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:00] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:01] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:01] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:03] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:04] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:04] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:05] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:12] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:14] : LeftWindows, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:14] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:16] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 14:49:16] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 14:49:17] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 14:49:17] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 14:49:19] : Clicked: App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:20] : DownArrow, App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:20] : Enter, App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:21] : Clicked: App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:23] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:25] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:29] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:29] : Enter, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:30] : DownArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:31] : UpArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:31] : DownArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] : UpArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] : Enter, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] : DownArrow, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:33] : Enter, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:33] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] : Enter, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:36] : Backspace, App: explorer, Title: file_downloaded - File Explorer
+[2025-06-10 14:49:36] : Backspace, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:37] : Backspace, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:39] : Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:40] : Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:43] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 14:49:46] : Clicked: App: chrome, Title: Ralph Waldo Candaza - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
+[2025-06-10 14:49:50] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:23] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:29] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:31] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:37] : Clicked: App: chrome, Title: Ralph Waldo Candaza - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
+[2025-06-10 14:54:38] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:39] : Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 15:06:52] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:06:54] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:06:55] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:06:56] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:06:58] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:01] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:02] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:03] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:04] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:04] : NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:04] : NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:04] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:05] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:06] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:06] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:07] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:16] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:07:18] : Clicked: App: chrome, Title: New Tab - Google Chrome
+[2025-06-10 15:07:23] : Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 15:07:25] : Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 15:07:29] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] : Ctrl, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:38] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:39] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:40] : Ctrl + 162, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:07:41] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:08:06] : Clicked: App: chrome, Title: New Tab - Google Chrome
+[2025-06-10 15:08:18] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:30] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:08:31] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:08:33] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:34] : Clicked: App: explorer, Title: 
+[2025-06-10 15:08:38] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:39] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:42] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:43] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:43] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:46] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:46] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:47] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:48] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:48] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:50] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:51] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:08:54] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:08:58] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:08:58] : LeftWindows, App: explorer, Title: 
+[2025-06-10 15:08:59] : C, App: SearchHost, Title: Search
+[2025-06-10 15:08:59] : L, App: SearchHost, Title: Search
+[2025-06-10 15:08:59] : I, App: SearchHost, Title: Search
+[2025-06-10 15:08:59] : E, App: SearchHost, Title: Search
+[2025-06-10 15:09:00] : N, App: SearchHost, Title: Search
+[2025-06-10 15:09:01] : Escape, App: SearchHost, Title: Search
+[2025-06-10 15:09:01] : LeftWindows, App: explorer, Title: 
+[2025-06-10 15:09:01] : R, App: explorer, Title: 
+[2025-06-10 15:09:02] : T, App: explorer, Title: Run
+[2025-06-10 15:09:02] : A, App: explorer, Title: Run
+[2025-06-10 15:09:02] : S, App: explorer, Title: Run
+[2025-06-10 15:09:02] : K, App: explorer, Title: Run
+[2025-06-10 15:09:03] : M, App: explorer, Title: Run
+[2025-06-10 15:09:03] : G, App: explorer, Title: Run
+[2025-06-10 15:09:03] : R, App: explorer, Title: Run
+[2025-06-10 15:09:03] : Enter, App: explorer, Title: Run
+[2025-06-10 15:09:27] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:28] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:29] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:31] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:32] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:32] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:33] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:33] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:34] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:35] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:36] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:36] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:37] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:37] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:38] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:38] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:38] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:38] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:39] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:40] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:41] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:42] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:43] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:45] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:47] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:49] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:09:53] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:09:55] : Clicked: App: ADMIN, Title: Select a File
+[2025-06-10 15:09:56] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:00] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:03] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:07] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:09] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:09] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] : NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] : NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:10] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:11] : Backspace, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:12] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:12] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:12] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:13] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:13] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:14] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:10:21] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:10:23] : Clicked: App: devenv, Title: ADMIN
+[2025-06-10 15:10:28] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:10:29] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:10:29] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:10:30] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:10:31] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:11:16] : F10, App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:11:27] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:11:43] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:44] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:49] : Shift, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:49] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:50] : On Capslock, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:51] : Off Capslock, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:53] : Shift, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:53] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:53] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:53] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:53] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:54] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:54] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:54] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:55] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:56] : Shift, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:57] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:57] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:57] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:57] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:57] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:57] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:57] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:57] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:58] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:58] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:58] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:58] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:11:58] : Shift + 160, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:12:00] : LeftWindows, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:12:01] : C, App: SearchHost, Title: Search
+[2025-06-10 15:12:01] : L, App: SearchHost, Title: Search
+[2025-06-10 15:12:01] : I, App: SearchHost, Title: Search
+[2025-06-10 15:12:01] : E, App: SearchHost, Title: Search
+[2025-06-10 15:12:02] : N, App: SearchHost, Title: Search
+[2025-06-10 15:12:02] : T, App: SearchHost, Title: Search
+[2025-06-10 15:12:02] : Ctrl, App: SearchHost, Title: Search
+[2025-06-10 15:12:03] : Ctrl + A, App: SearchHost, Title: Search
+[2025-06-10 15:12:03] : Escape, App: SearchHost, Title: Search
+[2025-06-10 15:12:03] : LeftWindows, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:12:03] : R, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:12:04] : T, App: explorer, Title: Run
+[2025-06-10 15:12:04] : A, App: explorer, Title: Run
+[2025-06-10 15:12:04] : S, App: explorer, Title: Run
+[2025-06-10 15:12:04] : K, App: explorer, Title: Run
+[2025-06-10 15:12:05] : M, App: explorer, Title: Run
+[2025-06-10 15:12:05] : G, App: explorer, Title: Run
+[2025-06-10 15:12:05] : R, App: explorer, Title: Run
+[2025-06-10 15:12:05] : Enter, App: explorer, Title: Run
+[2025-06-10 15:13:04] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:13:06] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:13:08] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:13:10] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:11] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:15] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:17] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:18] : NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:20] : NumPad3, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:20] : Backspace, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:21] : NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:21] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:22] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:22] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:22] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:23] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:26] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:30] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:33] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:13:35] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:13:38] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:39] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:13:49] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:49] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:50] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:51] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] : Shift, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:58] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:13:59] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:00] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:01] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:02] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:03] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:03] : Shift + 160, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 15:14:03] : Shift + RightArrow, App: Idle, Title: 
+[2025-06-10 15:14:03] : LeftWindows, App: explorer, Title: 
+[2025-06-10 15:14:03] : LeftWindows, App: Idle, Title: 
+[2025-06-10 15:14:04] : LeftWindows, App: explorer, Title: 
+[2025-06-10 15:14:04] : C, App: SearchHost, Title: Search
+[2025-06-10 15:14:05] : L, App: SearchHost, Title: Search
+[2025-06-10 15:14:05] : I, App: SearchHost, Title: Search
+[2025-06-10 15:14:05] : Escape, App: SearchHost, Title: Search
+[2025-06-10 15:14:06] : LeftWindows, App: explorer, Title: 
+[2025-06-10 15:14:06] : R, App: explorer, Title: 
+[2025-06-10 15:14:06] : T, App: explorer, Title: Run
+[2025-06-10 15:14:06] : A, App: explorer, Title: Run
+[2025-06-10 15:14:06] : S, App: explorer, Title: Run
+[2025-06-10 15:14:06] : K, App: explorer, Title: Run
+[2025-06-10 15:14:07] : M, App: explorer, Title: Run
+[2025-06-10 15:14:07] : G, App: explorer, Title: Run
+[2025-06-10 15:14:07] : R, App: explorer, Title: Run
+[2025-06-10 15:14:07] : Enter, App: explorer, Title: Run
+[2025-06-10 15:14:40] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:14:42] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:14:44] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:46] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:46] : NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:47] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:47] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:47] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:48] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:48] : Ctrl, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:49] : Ctrl + A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:49] : Backspace, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:50] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:50] : NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:50] : NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:51] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:51] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:51] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:52] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:52] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:52] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:53] : Tab, App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:55] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:14:59] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:15:00] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:15:00] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:15:05] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:15:10] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:15:13] : LeftWindows, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:15:14] : C, App: SearchHost, Title: Search
+[2025-06-10 15:15:14] : L, App: SearchHost, Title: Search
+[2025-06-10 15:15:14] : I, App: SearchHost, Title: Search
+[2025-06-10 15:15:14] : E, App: SearchHost, Title: Search
+[2025-06-10 15:15:14] : N, App: SearchHost, Title: Search
+[2025-06-10 15:15:14] : T, App: SearchHost, Title: Search
+[2025-06-10 15:15:16] : Escape, App: SearchHost, Title: Search
+[2025-06-10 15:15:16] : LeftWindows, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:15:16] : R, App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:15:17] : T, App: explorer, Title: Run
+[2025-06-10 15:15:17] : A, App: explorer, Title: Run
+[2025-06-10 15:15:17] : S, App: explorer, Title: Run
+[2025-06-10 15:15:17] : K, App: explorer, Title: Run
+[2025-06-10 15:15:18] : Backspace, App: explorer, Title: Run
+[2025-06-10 15:15:18] : Backspace, App: explorer, Title: Run
+[2025-06-10 15:15:18] : Escape, App: explorer, Title: Run
+[2025-06-10 15:15:19] : Escape, App: explorer, Title: Run
+[2025-06-10 15:15:33] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 15:15:42] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:17:53] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:17:56] : Clicked: App: Ssms, Title: Microsoft SQL Server Management Studio Recovered Files
+[2025-06-10 15:17:56] : Clicked: App: Ssms, Title: Microsoft SQL Server Management Studio Recovered Files
+[2025-06-10 15:17:58] : Clicked: App: Ssms, Title: Connect to Server
+[2025-06-10 15:18:00] : Clicked: App: Ssms, Title: Microsoft SQL Server Management Studio
+[2025-06-10 15:18:03] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:18:04] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:05] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:06] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:06] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:08] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:09] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:09] : NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:09] : NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:09] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:10] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:10] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:10] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:10] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:11] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:14] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:15] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:16] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:18] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:19] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:20] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:21] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:26] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:27] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:28] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:28] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:29] : F, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:29] : Shift, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:30] : Shift + F, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:30] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:31] : D1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:31] : D2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:31] : D3, App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:33] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:40] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:56] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:18:59] : LeftWindows, App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:18:59] : D, App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:19:00] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 15:19:00] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 15:19:02] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:19:03] : C, App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:19:03] : M, App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:19:03] : D, App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:19:04] : Enter, App: explorer, Title: Trojan - File Explorer
+[2025-06-10 15:19:04] : C, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-10 15:19:04] : O, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-10 15:19:05] : D, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-10 15:19:05] : E, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-10 15:19:05] : Spacebar, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-10 15:19:05] : OemPeriod, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-10 15:19:05] : Enter, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-10 15:19:07] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:09] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:19:10] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:11] : G, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:11] : I, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:11] : T, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:11] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:11] : A, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:12] : D, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:12] : D, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:12] : Spacebar, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:12] : OemPeriod, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:19:13] : Enter, App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
