@@ -1,0 +1,18 @@
+[2025-06-10 15:38:54] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:53] 127.0.0.1: Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:53] 127.0.0.1: Key: M, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:53] 127.0.0.1: Key: C, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:52] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:50] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:50] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:49] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:49] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:49] 127.0.0.1: Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:48] 127.0.0.1: Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:48] 127.0.0.1: Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:48] 127.0.0.1: Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:47] 127.0.0.1: Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:46] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:45] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:44] 127.0.0.1: Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:42] 127.0.0.1: Machine - COLLABPH1004786

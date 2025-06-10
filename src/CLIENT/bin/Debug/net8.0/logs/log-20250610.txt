@@ -643,3 +643,117 @@
 [2025-06-10 15:21:17] : Enter, App: SearchHost, Title: Search
 [2025-06-10 15:22:27] : Clicked: App: CLIENT, Title: WindowDefenderV1
 [2025-06-10 15:22:30] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 15:38:33] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:38:35] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:38:37] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:38:38] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-10 15:38:44] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:45] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:46] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:47] : Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:47] : Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:48] : Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:48] : Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:49] : Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:49] : Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:49] : Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:49] : Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:50] : Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:52] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:53] : Key: C, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:53] : Key: M, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:53] : Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 15:38:54] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:40:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:40:23] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:40:26] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:40:29] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:40:30] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-10 15:40:34] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:40:36] : Key: C, App: ADMIN, Title: ADMIN
+[2025-06-10 15:40:36] : Key: M, App: ADMIN, Title: ADMIN
+[2025-06-10 15:40:36] : Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 15:40:38] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:41:43] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:41:46] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:42:27] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:27] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:33] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:44] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:42:47] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 15:42:51] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:51] : Key: Ctrl, App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:51] : Key: Ctrl + A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:52] : Key: C, App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:53] : Key: M, App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:53] : Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:55] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:56] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:57] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:58] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:58] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:42:59] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:43:01] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:43:02] : Clicked: App: ADMIN, Title: Select a File
+[2025-06-10 15:43:02] : Clicked: App: ADMIN, Title: Select a File
+[2025-06-10 15:43:11] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:44:29] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:44:30] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:44:32] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:44:33] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:44:34] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:13] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:45:15] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:45:17] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:45:19] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 15:45:19] : Key: Ctrl, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:19] : Key: Ctrl + A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:19] : Key: N, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:20] : Key: O, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:20] : Key: T, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:20] : Key: E, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:20] : Key: P, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:20] : Key: A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:20] : Key: D, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:22] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:25] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:45:26] : Clicked: App: Idle, Title: 
+[2025-06-10 15:45:30] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:32] : Clicked: App: Notepad, Title: log-20250610.txt - Notepad
+[2025-06-10 15:45:33] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:34] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:35] : Key: Shift + 162, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:35] : Key: Shift + LeftArrow, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:35] : Key: Shift + LeftArrow, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:36] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:36] : Key: G, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:36] : Key: I, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:36] : Key: T, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:36] : Key: Spacebar, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:37] : Key: H, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:37] : Key: E, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:37] : Key: L, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:37] : Key: P, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:38] : Key: Ctrl, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:38] : Key: Ctrl + LeftArrow, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:39] : Key: OemMinus, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:39] : Key: OemMinus, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:41] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:43] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:44] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:45] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:46] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:47] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:51] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:52] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:53] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:54] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:54] : Key: Ctrl, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:54] : Key: Ctrl + A, App: ADMIN, Title: ADMIN
+[2025-06-10 15:45:57] : Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-10 15:46:06] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 15:46:07] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:46:11] : Clicked: App: Code, Title: .env (Working Tree) (.env) - Trojan - Visual Studio Code
+[2025-06-10 15:46:13] : Clicked: App: explorer, Title: 
+[2025-06-10 15:46:14] : Clicked: App: explorer, Title: 
+[2025-06-10 15:46:15] : Clicked: App: devenv, Title: Microsoft Visual Studio

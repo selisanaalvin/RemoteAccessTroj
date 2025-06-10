@@ -49,10 +49,7 @@ namespace ADMIN.ViewModels
             }
             catch (Exception ex)
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    ConnectedClients.Add($"Error: {ex.Message}");
-                });
+                ServerLogs.Insert(0,$"Error: {ex.Message}");
             }
         }
 
@@ -155,10 +152,7 @@ namespace ADMIN.ViewModels
             }
             catch (Exception ex)
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    ConnectedClients.Add($"Client Error: {ex.Message}");
-                });
+                    ServerLogs.Insert(0, $"Client Error: {ex.Message}");
             }
             finally
             {
@@ -198,18 +192,14 @@ namespace ADMIN.ViewModels
                 }
                 catch (Exception ex)
                 {
-                    await Dispatcher.UIThread.InvokeAsync(() =>
-                    {
+            
                         ServerLogs.Insert(0, $"Send failed to {ipAddress}: {ex.Message}");
-                    });
                 }
             }
             else
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    ServerLogs.Insert(0, $"Client {ipAddress} not found.");
-                });
+                
+                ServerLogs.Insert(0, $"Client {ipAddress} not found.");
             }
         }
         public async Task ViewDirectories(string ipAddress, string path)
@@ -229,18 +219,13 @@ namespace ADMIN.ViewModels
                 }
                 catch (Exception ex)
                 {
-                    await Dispatcher.UIThread.InvokeAsync(() =>
-                    {
+                  
                         ServerLogs.Insert(0, $"Send failed to {ipAddress}: {ex.Message}");
-                    });
                 }
             }
             else
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    ServerLogs.Insert(0, $"Client {ipAddress} not found.");
-                });
+                ServerLogs.Insert(0, $"Client {ipAddress} not found.");
             }
         }
         public async Task DownloadFile(string ipAddress, string path)
@@ -260,18 +245,12 @@ namespace ADMIN.ViewModels
                 }
                 catch (Exception ex)
                 {
-                    await Dispatcher.UIThread.InvokeAsync(() =>
-                    {
-                        ServerLogs.Insert(0, $"Send failed to {ipAddress}: {ex.Message}");
-                    });
+                    ServerLogs.Insert(0, $"Send failed to {ipAddress}: {ex.Message}");
                 }
             }
             else
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    ServerLogs.Insert(0, $"Client {ipAddress} not found.");
-                });
+                ServerLogs.Insert(0, $"Client {ipAddress} not found.");
             }
         }
         public async Task UploadFile(string ipAddress, string attachment)
@@ -297,18 +276,12 @@ namespace ADMIN.ViewModels
                 }
                 catch (Exception ex)
                 {
-                    await Dispatcher.UIThread.InvokeAsync(() =>
-                    {
                         ServerLogs.Insert(0, $"Send failed to {ipAddress}: {ex.Message}");
-                    });
                 }
             }
             else
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    ServerLogs.Insert(0, $"Client {ipAddress} not found.");
-                });
+                ServerLogs.Insert(0, $"Client {ipAddress} not found.");
             }
         }
 
