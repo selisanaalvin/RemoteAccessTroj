@@ -27,7 +27,7 @@
 				<ColumnDefinition Width="200" />
 				<ColumnDefinition Width="200" />
 			</Grid.ColumnDefinitions>
-			<Button Grid.Column="0" Content="Send Message" Click="SendMessage" Margin="5" HorizontalAlignment="Stretch" />
+			<Button Grid.Column="0" Content="Execute Command" Click="SendMessage" Margin="5" HorizontalAlignment="Stretch" />
 			<Button Grid.Column="1" Content="Export Log" Click="ExportLog" Margin="5" HorizontalAlignment="Stretch" />
 		</Grid>
 
@@ -44,6 +44,19 @@
 			<TextBox Grid.Column="2" x:Name="Path" Watermark="C:/" Margin="5" HorizontalAlignment="Stretch" />
 
 		</Grid>
+
+		<Grid Margin="5">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="200" />
+				<ColumnDefinition Width="200" />
+				<ColumnDefinition Width="*" />
+			</Grid.ColumnDefinitions>
+			<Button Grid.Column="0" Content="Attach File" Click="AttachFile" Margin="5" HorizontalAlignment="Stretch" />
+			<Button Grid.Column="1" Content="Upload" Click="UploadFile" Margin="5" HorizontalAlignment="Stretch" />
+			<TextBox Grid.Column="2" Name="Attachment" Watermark="No File Attached" Margin="5" HorizontalAlignment="Stretch" IsReadOnly="True"/>
+
+		</Grid>
+
 
 
 		<!-- Activity Log Section -->

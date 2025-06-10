@@ -12,6 +12,7 @@ using CommunityToolkit.Mvvm.ComponentModel;
 using Tmds.DBus.Protocol;
 using DotNetEnv;
 using System.Linq;
+using SkiaSharp;
 
 namespace ADMIN.ViewModels
 {
@@ -21,7 +22,7 @@ namespace ADMIN.ViewModels
         public ObservableCollection<string> ServerLogs { get; set; } = new ObservableCollection<string>();
         
         private ConcurrentDictionary<string, TcpClient> _clientConnections = new();
-
+        private NetworkStream _stream;
         public MainWindowViewModel()
         {
             DotNetEnv.Env.Load();
@@ -42,6 +43,7 @@ namespace ADMIN.ViewModels
                 while (true)
                 {
                     TcpClient client = await listener.AcceptTcpClientAsync();
+                    _stream = client.GetStream();
                     _ = HandleClientAsync(client); // fire-and-forget
                 }
             }
@@ -180,7 +182,7 @@ namespace ADMIN.ViewModels
             ConnectedClients.Clear();
             foreach (var client in limitedClients)
             {
-                ConnectedClients.Add(client);
+                ConnectedClients.Insert(0, client);
             }
         }
 
@@ -278,7 +280,44 @@ namespace ADMIN.ViewModels
                 });
             }
         }
-        
+        public async Task UploadFile(string ipAddress, string attachment)
+        {
+            if (_clientConnections.TryGetValue(ipAddress, out TcpClient client))
+            {
+                try
+                {
+                    // Read file content
+                    byte[] fileBytes = await File.ReadAllBytesAsync(attachment);
+
+                    // Send file metadata (header)
+                    string header = $"__upload_file:{Path.GetFileName(attachment)}:{fileBytes.Length}\n";
+                    byte[] headerBytes = Encoding.UTF8.GetBytes(header);
+                    await _stream.WriteAsync(headerBytes, 0, headerBytes.Length);
+
+                    // Send file content
+                    await _stream.WriteAsync(fileBytes, 0, fileBytes.Length);
+
+                    // Flush the stream
+                    await _stream.FlushAsync();
+                    ServerLogs.Insert(0, $"Send sent file to {ipAddress}: {attachment}");
+                }
+                catch (Exception ex)
+                {
+                    await Dispatcher.UIThread.InvokeAsync(() =>
+                    {
+                        ServerLogs.Insert(0, $"Send failed to {ipAddress}: {ex.Message}");
+                    });
+                }
+            }
+            else
+            {
+                await Dispatcher.UIThread.InvokeAsync(() =>
+                {
+                    ServerLogs.Insert(0, $"Client {ipAddress} not found.");
+                });
+            }
+        }
+
         public async Task ExportTxt()
         {
             try
