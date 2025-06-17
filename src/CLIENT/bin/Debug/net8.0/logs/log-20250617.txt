@@ -1,0 +1,11 @@
+[2025-06-17 13:14:21] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-17 13:16:25] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-17 13:16:26] : Clicked: App: ShellHost, Title: Quick settings
+[2025-06-17 13:16:27] : Clicked: App: ShellHost, Title: Quick settings
+[2025-06-17 13:16:28] : Clicked: App: ShellHost, Title: Quick settings
+[2025-06-17 13:16:32] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-17 13:16:34] : Clicked: App: explorer, Title: System tray overflow window.
+[2025-06-17 13:16:45] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-17 13:16:55] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-17 13:16:56] : Clicked: App: ShellHost, Title: Quick settings
+[2025-06-17 13:16:58] : Clicked: App: ShellHost, Title: Quick settings

