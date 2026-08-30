@@ -1,0 +1,16 @@
+# Logs
+**/logs/
+**/logs/**
+*.log
+
+# Build outputs
+**/bin/
+**/obj/
+
+# VS / Rider
+.vs/
+*.user
+*.suo
+
+# Environment
+.env
