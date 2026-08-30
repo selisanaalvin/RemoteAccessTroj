@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\CLIENT.csproj": {}
+    "C:\\Users\\Zephyrion\\OneDrive\\Desktop\\personalproject\\test-deployment\\src\\CLIENT\\CLIENT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\CLIENT.csproj": {
+    "C:\\Users\\Zephyrion\\OneDrive\\Desktop\\personalproject\\test-deployment\\src\\CLIENT\\CLIENT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\CLIENT.csproj",
+        "projectUniqueName": "C:\\Users\\Zephyrion\\OneDrive\\Desktop\\personalproject\\test-deployment\\src\\CLIENT\\CLIENT.csproj",
         "projectName": "CLIENT",
-        "projectPath": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\CLIENT.csproj",
-        "packagesPath": "C:\\Users\\COLLABERA.DIGITAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\Trojan\\src\\CLIENT\\obj\\",
+        "projectPath": "C:\\Users\\Zephyrion\\OneDrive\\Desktop\\personalproject\\test-deployment\\src\\CLIENT\\CLIENT.csproj",
+        "packagesPath": "C:\\Users\\Zephyrion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zephyrion\\OneDrive\\Desktop\\personalproject\\test-deployment\\src\\CLIENT\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\COLLABERA.DIGITAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Zephyrion\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -44,10 +38,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Avalonia": {
@@ -102,12 +98,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.30, 8.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.30, 8.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.30, 8.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.30, 8.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

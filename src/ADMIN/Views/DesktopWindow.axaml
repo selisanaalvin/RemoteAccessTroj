@@ -1,0 +1,132 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        x:Class="ADMIN.Views.DesktopWindow"
+        Title="Remote Desktop"
+        Width="1280" Height="760"
+        MinWidth="640" MinHeight="420"
+        Background="#080a0f"
+        CanResize="True">
+
+  <Window.Styles>
+    <Style Selector="Button.toolbar-btn">
+      <Setter Property="Background" Value="#252836"/>
+      <Setter Property="Foreground" Value="#c9d1d9"/>
+      <Setter Property="BorderBrush" Value="#3d4263"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="CornerRadius" Value="5"/>
+      <Setter Property="Padding" Value="10 5"/>
+      <Setter Property="FontSize" Value="11"/>
+      <Setter Property="Cursor" Value="Hand"/>
+      <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+    <Style Selector="Button.toolbar-btn:pointerover /template/ ContentPresenter">
+      <Setter Property="Background" Value="#2e3250"/>
+    </Style>
+    <Style Selector="Button.stop-btn">
+      <Setter Property="Background" Value="#2d1b1b"/>
+      <Setter Property="Foreground" Value="#f87171"/>
+      <Setter Property="BorderBrush" Value="#5c2626"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="CornerRadius" Value="5"/>
+      <Setter Property="Padding" Value="10 5"/>
+      <Setter Property="FontSize" Value="11"/>
+      <Setter Property="Cursor" Value="Hand"/>
+      <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+    <Style Selector="Button.stop-btn:pointerover /template/ ContentPresenter">
+      <Setter Property="Background" Value="#3d2020"/>
+    </Style>
+    <Style Selector="Button.start-btn">
+      <Setter Property="Background" Value="#1a2e1a"/>
+      <Setter Property="Foreground" Value="#4ade80"/>
+      <Setter Property="BorderBrush" Value="#2d5a2d"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="CornerRadius" Value="5"/>
+      <Setter Property="Padding" Value="10 5"/>
+      <Setter Property="FontSize" Value="11"/>
+      <Setter Property="Cursor" Value="Hand"/>
+      <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+    <Style Selector="Button.start-btn:pointerover /template/ ContentPresenter">
+      <Setter Property="Background" Value="#1e3a1e"/>
+    </Style>
+  </Window.Styles>
+
+  <Grid RowDefinitions="42,*,24">
+
+    <!-- ── Toolbar ────────────────────────────────────────────────────── -->
+    <Border Grid.Row="0" Background="#13151f" BorderBrush="#1e2235"
+            BorderThickness="0 0 0 1">
+      <Grid ColumnDefinitions="Auto,*,Auto" Margin="10 0">
+
+        <!-- Left: client info -->
+        <StackPanel Grid.Column="0" Orientation="Horizontal" Spacing="10"
+                    VerticalAlignment="Center">
+          <Border Width="26" Height="26" CornerRadius="5" Background="#1e3a5f">
+            <TextBlock Text="🖥" FontSize="13" HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+          </Border>
+          <StackPanel VerticalAlignment="Center">
+            <TextBlock x:Name="ClientLabel" FontSize="12" FontWeight="SemiBold"
+                       Foreground="White"/>
+            <TextBlock Text="Remote Desktop Session" FontSize="9" Foreground="#6b7280"/>
+          </StackPanel>
+
+          <!-- Live indicator -->
+          <Border Background="#1a2e1a" CornerRadius="10" Padding="8 3"
+                  BorderBrush="#2d5a2d" BorderThickness="1" Margin="6 0 0 0">
+            <StackPanel Orientation="Horizontal" Spacing="5">
+              <Ellipse Width="6" Height="6" Fill="#4ade80" VerticalAlignment="Center"/>
+              <TextBlock Text="LIVE" FontSize="9" FontWeight="Bold"
+                         Foreground="#4ade80" LetterSpacing="1" VerticalAlignment="Center"/>
+            </StackPanel>
+          </Border>
+        </StackPanel>
+
+        <!-- Right: controls -->
+        <StackPanel Grid.Column="2" Orientation="Horizontal" Spacing="10"
+                    VerticalAlignment="Center">
+
+          <Button x:Name="BtnToggleStream" Classes="stop-btn"
+                  Content="⏹  Stop Stream" Click="ToggleStream_Click"/>
+        </StackPanel>
+
+      </Grid>
+    </Border>
+
+    <!-- ── Screen area — fully responsive ────────────────────────────── -->
+    <Viewbox x:Name="ScreenViewbox"
+             Grid.Row="1"
+             Stretch="Uniform"
+             HorizontalAlignment="Stretch"
+             VerticalAlignment="Stretch">
+      <Image x:Name="ScreenImage"
+             Stretch="Uniform"
+             HorizontalAlignment="Stretch"
+             VerticalAlignment="Stretch"
+             Cursor="Arrow"
+             MinWidth="640"
+             MinHeight="360"/>
+    </Viewbox>
+
+    <!-- ── Status bar ─────────────────────────────────────────────────── -->
+    <Border Grid.Row="2" Background="#0d0f18" BorderBrush="#1e2235"
+            BorderThickness="0 1 0 0">
+      <Grid ColumnDefinitions="Auto,*,Auto" Margin="10 0">
+        <Ellipse Grid.Column="0" Width="6" Height="6" Fill="#4ade80"
+                 VerticalAlignment="Center" Margin="0 0 6 0"/>
+        <TextBlock Grid.Column="1" x:Name="StatusLabel"
+                   FontSize="10" Foreground="#6b7280"
+                   FontFamily="Consolas,monospace"
+                   VerticalAlignment="Center"
+                   Text="Connecting..."/>
+        <TextBlock Grid.Column="2" Text="Press ESC to release keyboard focus"
+                   FontSize="10" Foreground="#374151" VerticalAlignment="Center"/>
+      </Grid>
+    </Border>
+
+  </Grid>
+</Window>

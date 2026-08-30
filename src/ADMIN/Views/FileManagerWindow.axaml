@@ -1,0 +1,294 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:ADMIN.ViewModels"
+        xmlns:models="using:ADMIN.Models"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        x:Class="ADMIN.Views.FileManagerWindow"
+        x:DataType="vm:FileManagerViewModel"
+        Title="File Manager"
+        Width="1000" Height="640"
+        MinWidth="720" MinHeight="460"
+        Background="#0f1117">
+
+  <Window.Styles>
+    <!-- Pane header -->
+    <Style Selector="Border.pane-header">
+      <Setter Property="Background" Value="#1e2235"/>
+      <Setter Property="Padding" Value="12 8"/>
+    </Style>
+
+    <!-- Tree view styling -->
+    <Style Selector="TreeView">
+      <Setter Property="Background" Value="#12141e"/>
+      <Setter Property="BorderThickness" Value="0"/>
+      <Setter Property="Padding" Value="4"/>
+    </Style>
+    <Style Selector="TreeViewItem">
+      <Setter Property="Padding" Value="2 2"/>
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="Foreground" Value="#c9d1d9"/>
+    </Style>
+    <Style Selector="TreeViewItem:selected /template/ Border#PART_LayoutRoot">
+      <Setter Property="Background" Value="#1e2a4a"/>
+    </Style>
+    <Style Selector="TreeViewItem:pointerover /template/ Border#PART_LayoutRoot">
+      <Setter Property="Background" Value="#1a2035"/>
+    </Style>
+
+    <!-- Transfer button -->
+    <Style Selector="Button.transfer">
+      <Setter Property="Background" Value="#3b5bdb"/>
+      <Setter Property="Foreground" Value="White"/>
+      <Setter Property="CornerRadius" Value="6"/>
+      <Setter Property="Padding" Value="16 8"/>
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="FontWeight" Value="Medium"/>
+      <Setter Property="Cursor" Value="Hand"/>
+    </Style>
+    <Style Selector="Button.transfer:pointerover /template/ ContentPresenter">
+      <Setter Property="Background" Value="#4c6ef5"/>
+    </Style>
+  </Window.Styles>
+
+  <Grid RowDefinitions="Auto,*,Auto,Auto">
+
+    <!-- ── Transfer overlay (shown during upload/download) ───────────── -->
+    <Grid Grid.Row="0" Grid.RowSpan="4"
+          IsVisible="{Binding IsTransferring}"
+          ZIndex="100"
+          Background="#99000000">
+      <Border Background="#1a1d27" BorderBrush="#3b5bdb" BorderThickness="2"
+              CornerRadius="12" Padding="32 24"
+              HorizontalAlignment="Center" VerticalAlignment="Center"
+              MinWidth="280">
+        <StackPanel Spacing="16" HorizontalAlignment="Center">
+          <!-- Spinner using indeterminate ProgressBar -->
+          <ProgressBar IsIndeterminate="True"
+                       Width="200" Height="6"
+                       Foreground="#3b5bdb"
+                       Background="#1e2235"
+                       HorizontalAlignment="Center"/>
+
+          <TextBlock Text="{Binding TransferLabel}"
+                     FontSize="13" FontWeight="SemiBold"
+                     Foreground="White" HorizontalAlignment="Center"
+                     TextAlignment="Center"/>
+          <TextBlock Text="{Binding Status}"
+                     FontSize="11" Foreground="#94a3b8"
+                     HorizontalAlignment="Center" TextAlignment="Center"
+                     TextWrapping="Wrap" MaxWidth="240"/>
+        </StackPanel>
+      </Border>
+    </Grid>
+
+    <!-- ── Title bar ──────────────────────────────────────────────────── -->
+    <Border Grid.Row="0" Background="#13151f" BorderBrush="#1e2235"
+            BorderThickness="0 0 0 1" Padding="16 10">
+      <Grid ColumnDefinitions="Auto,*,Auto">
+        <StackPanel Grid.Column="0" Orientation="Horizontal" Spacing="10">
+          <Border Width="28" Height="28" CornerRadius="6" Background="#1e3a5f">
+            <TextBlock Text="📁" FontSize="14" HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+          </Border>
+          <StackPanel VerticalAlignment="Center">
+            <TextBlock Text="File Manager" FontSize="13" FontWeight="SemiBold"
+                       Foreground="White"/>
+            <TextBlock Text="Dual-Pane Transfer" FontSize="10" Foreground="#6b7280"/>
+          </StackPanel>
+        </StackPanel>
+
+        <!-- Path breadcrumbs -->
+        <Border Grid.Column="2" Background="#1a1d27" CornerRadius="6"
+                Padding="10 5" BorderBrush="#2d3148" BorderThickness="1">
+          <StackPanel Orientation="Horizontal" Spacing="6">
+            <TextBlock Text="📍" FontSize="11" VerticalAlignment="Center"/>
+            <TextBlock Text="{Binding SelectedRemoteNode.FullPath}"
+                       FontSize="11" Foreground="#94a3b8" VerticalAlignment="Center"
+                       TextTrimming="CharacterEllipsis" MaxWidth="300"/>
+          </StackPanel>
+        </Border>
+      </Grid>
+    </Border>
+
+    <!-- ── Dual pane ──────────────────────────────────────────────────── -->
+    <Grid Grid.Row="1" ColumnDefinitions="*,6,*" Margin="12 10">
+
+      <!-- LOCAL pane -->
+      <Border Grid.Column="0" Background="#1a1d27" BorderBrush="#2d3148"
+              BorderThickness="1" CornerRadius="8">
+        <Grid RowDefinitions="Auto,Auto,*">
+
+          <!-- Pane header -->
+          <Border Grid.Row="0" Classes="pane-header" CornerRadius="8 8 0 0">
+            <Grid ColumnDefinitions="Auto,*,Auto">
+              <StackPanel Grid.Column="0" Orientation="Horizontal" Spacing="8">
+                <Border Width="22" Height="22" CornerRadius="4" Background="#1e3a5f">
+                  <TextBlock Text="💻" FontSize="11" HorizontalAlignment="Center"
+                             VerticalAlignment="Center"/>
+                </Border>
+                <StackPanel VerticalAlignment="Center">
+                  <TextBlock Text="LOCAL" FontSize="10" FontWeight="Bold"
+                             Foreground="#60a5fa" LetterSpacing="1.5"/>
+                  <TextBlock Text="Admin Machine" FontSize="10" Foreground="#6b7280"/>
+                </StackPanel>
+              </StackPanel>
+              <Button Grid.Column="2" Content="↻  Refresh"
+                      Click="RefreshLocal_Click"
+                      Background="#12141e" Foreground="#60a5fa"
+                      BorderBrush="#2d3148" BorderThickness="1"
+                      CornerRadius="4" Padding="6 3" FontSize="10"
+                      Cursor="Hand"/>
+            </Grid>
+          </Border>
+
+          <!-- Path display -->
+          <Border Grid.Row="1" Background="#12141e" Padding="10 5"
+                  BorderBrush="#2d3148" BorderThickness="0 1 0 1">
+            <TextBlock Text="{Binding SelectedLocalNode.FullPath}"
+                       FontSize="10" Foreground="#6b7280"
+                       FontFamily="Consolas,monospace"
+                       TextTrimming="CharacterEllipsis"/>
+          </Border>
+
+          <!-- Tree -->
+          <TreeView Grid.Row="2"
+                    x:Name="LocalTreeView"
+                    ItemsSource="{Binding LocalTree}"
+                    SelectedItem="{Binding SelectedLocalNode}"
+                    SelectionChanged="LocalTree_SelectionChanged">
+            <TreeView.ItemTemplate>
+              <TreeDataTemplate ItemsSource="{Binding Children}">
+                <StackPanel Orientation="Horizontal" Spacing="6" Margin="2 1">
+                  <TextBlock Text="{Binding Icon}" FontSize="13" VerticalAlignment="Center"/>
+                  <TextBlock Text="{Binding Name}" FontSize="12" VerticalAlignment="Center"
+                             Foreground="#c9d1d9"/>
+                </StackPanel>
+              </TreeDataTemplate>
+            </TreeView.ItemTemplate>
+          </TreeView>
+        </Grid>
+      </Border>
+
+      <!-- Splitter -->
+      <GridSplitter Grid.Column="1" Width="6" ResizeDirection="Columns"
+                    Background="#2d3148" HorizontalAlignment="Stretch"
+                    VerticalAlignment="Stretch"/>
+
+      <!-- REMOTE pane -->
+      <Border Grid.Column="2" Background="#1a1d27" BorderBrush="#2d3148"
+              BorderThickness="1" CornerRadius="8">
+        <Grid RowDefinitions="Auto,Auto,*">
+
+          <!-- Pane header -->
+          <Border Grid.Row="0" Classes="pane-header" CornerRadius="8 8 0 0">
+            <Grid ColumnDefinitions="Auto,*,Auto">
+              <StackPanel Grid.Column="0" Orientation="Horizontal" Spacing="8">
+                <Border Width="22" Height="22" CornerRadius="4" Background="#2d1b3d">
+                  <TextBlock Text="🖥" FontSize="11" HorizontalAlignment="Center"
+                             VerticalAlignment="Center"/>
+                </Border>
+                <StackPanel VerticalAlignment="Center">
+                  <TextBlock Text="REMOTE" FontSize="10" FontWeight="Bold"
+                             Foreground="#a78bfa" LetterSpacing="1.5"/>
+                  <TextBlock Text="Client Machine" FontSize="10" Foreground="#6b7280"/>
+                </StackPanel>
+              </StackPanel>
+              <Button Grid.Column="2" Content="↻  Refresh"
+                      Click="RefreshRemote_Click"
+                      Background="#12141e" Foreground="#a78bfa"
+                      BorderBrush="#2d3148" BorderThickness="1"
+                      CornerRadius="4" Padding="6 3" FontSize="10"
+                      Cursor="Hand"/>
+            </Grid>
+          </Border>
+
+          <!-- Path display -->
+          <Border Grid.Row="1" Background="#12141e" Padding="10 5"
+                  BorderBrush="#2d3148" BorderThickness="0 1 0 1">
+            <TextBlock Text="{Binding SelectedRemoteNode.FullPath}"
+                       FontSize="10" Foreground="#6b7280"
+                       FontFamily="Consolas,monospace"
+                       TextTrimming="CharacterEllipsis"/>
+          </Border>
+
+          <!-- Tree -->
+          <TreeView Grid.Row="2"
+                    x:Name="RemoteTreeView"
+                    ItemsSource="{Binding RemoteTree}"
+                    SelectedItem="{Binding SelectedRemoteNode}"
+                    SelectionChanged="RemoteTree_SelectionChanged">
+            <TreeView.ItemTemplate>
+              <TreeDataTemplate ItemsSource="{Binding Children}">
+                <StackPanel Orientation="Horizontal" Spacing="6" Margin="2 1">
+                  <TextBlock Text="{Binding Icon}" FontSize="13" VerticalAlignment="Center"/>
+                  <TextBlock Text="{Binding Name}" FontSize="12" VerticalAlignment="Center"
+                             Foreground="#c9d1d9"/>
+                </StackPanel>
+              </TreeDataTemplate>
+            </TreeView.ItemTemplate>
+          </TreeView>
+        </Grid>
+      </Border>
+
+    </Grid>
+
+    <!-- ── Transfer action bar ────────────────────────────────────────── -->
+    <Border Grid.Row="2" Background="#13151f" BorderBrush="#1e2235"
+            BorderThickness="0 1 0 0" Padding="16 10">
+      <Grid ColumnDefinitions="*,Auto,Auto,Auto,*">
+
+        <!-- Local selection info -->
+        <Border Grid.Column="0" Background="#1a1d27" CornerRadius="6"
+                Padding="10 6" BorderBrush="#2d3148" BorderThickness="1"
+                Margin="0 0 8 0">
+          <StackPanel Orientation="Horizontal" Spacing="6">
+            <TextBlock Text="📄" FontSize="11" VerticalAlignment="Center"/>
+            <TextBlock Text="{Binding SelectedLocalNode.FullPath}"
+                       FontSize="11" Foreground="#94a3b8" VerticalAlignment="Center"
+                       TextTrimming="CharacterEllipsis"/>
+          </StackPanel>
+        </Border>
+
+        <!-- Attach a local file then upload it -->
+        <Button Grid.Column="1" Classes="transfer" Content="📎  Attach &amp; Upload"
+                Click="AttachAndUpload_Click" Margin="4 0"
+                Background="#1e3a5f" BorderBrush="#2d5a8f" BorderThickness="1"/>
+
+        <Button Grid.Column="2" Classes="transfer" Content="⬆  Upload →"
+                Click="Upload_Click" Margin="4 0"/>
+
+        <Button Grid.Column="3" Classes="transfer" Content="← Download  ⬇"
+                Click="Download_Click" Margin="4 0"/>
+
+        <!-- Remote selection info -->
+        <Border Grid.Column="4" Background="#1a1d27" CornerRadius="6"
+                Padding="10 6" BorderBrush="#2d3148" BorderThickness="1"
+                Margin="8 0 0 0">
+          <StackPanel Orientation="Horizontal" Spacing="6" HorizontalAlignment="Right">
+            <TextBlock Text="{Binding SelectedRemoteNode.FullPath}"
+                       FontSize="11" Foreground="#94a3b8" VerticalAlignment="Center"
+                       TextTrimming="CharacterEllipsis" HorizontalAlignment="Right"/>
+            <TextBlock Text="📄" FontSize="11" VerticalAlignment="Center"/>
+          </StackPanel>
+        </Border>
+
+      </Grid>
+    </Border>
+
+    <!-- ── Status bar ─────────────────────────────────────────────────── -->
+    <Border Grid.Row="3" Background="#0d0f18" Padding="16 6">
+      <Grid ColumnDefinitions="Auto,*,Auto">
+        <Ellipse Grid.Column="0" Width="7" Height="7" Fill="#4ade80"
+                 VerticalAlignment="Center" Margin="0 0 8 0"/>
+        <TextBlock Grid.Column="1" Text="{Binding Status}"
+                   FontSize="11" Foreground="#6b7280"
+                   FontFamily="Consolas,monospace" VerticalAlignment="Center"/>
+        <TextBlock Grid.Column="2" Text="File Manager v2"
+                   FontSize="10" Foreground="#374151" VerticalAlignment="Center"/>
+      </Grid>
+    </Border>
+
+  </Grid>
+</Window>

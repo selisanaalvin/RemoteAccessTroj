@@ -1,13 +1,7 @@
 using Avalonia.Controls;
 using ADMIN.ViewModels;
-using System.IO;
 using System.Threading.Tasks;
-using Avalonia.Platform.Storage;
-using Tmds.DBus.Protocol;
 using System;
-using System.Net.Sockets;
-using System.Windows;
-using Microsoft.Win32;
 
 namespace ADMIN.Views;
     public partial class MainWindow : Window
@@ -15,6 +9,14 @@ namespace ADMIN.Views;
         public MainWindow()
         {
             InitializeComponent();
+            DataContextChanged += (_, _) =>
+            {
+                if (DataContext is MainWindowViewModel vm)
+                {
+                    // Seed FilteredClients with all items on startup
+                    vm.SyncFilteredClients();
+                }
+            };
         }
 
         private void SendMessage(object sender, Avalonia.Interactivity.RoutedEventArgs e)
@@ -39,52 +41,53 @@ namespace ADMIN.Views;
             viewModel.ExportTxt();
         }
 
-        private async void FileDialog(object sender, Avalonia.Interactivity.RoutedEventArgs e)
-        {
-        var targetIp = this.FindControl<TextBox>("IPTarget");
-        var path = this.FindControl<TextBox>("Path");
-        var viewModel = (MainWindowViewModel)DataContext;
-        viewModel.ViewDirectories(targetIp.Text, $"{path.Text}");
-        }
-
-    private async void DownloadFile(object sender, Avalonia.Interactivity.RoutedEventArgs e)
+    // ── Client list: click to set target IP and auto-filter activity log ────
+    private void ClientList_SelectionChanged(object? sender, SelectionChangedEventArgs e)
     {
-        var targetIp = this.FindControl<TextBox>("IPTarget");
-        var path = this.FindControl<TextBox>("Path");
-        var viewModel = (MainWindowViewModel)DataContext;
-        viewModel.DownloadFile(targetIp.Text, $"{path.Text}");
-    }
-
-    private async void AttachFile(object sender, Avalonia.Interactivity.RoutedEventArgs e)
-    {
-        OpenFileDialog openFileDialog = new OpenFileDialog
+        if (sender is ListBox lb && lb.SelectedItem is string ip)
         {
-            Title = "Select a File",
-            AllowMultiple = false 
-        };
+            var ipBox = this.FindControl<TextBox>("IPTarget");
+            if (ipBox != null)
+                ipBox.Text = ip;
 
-        var result = await openFileDialog.ShowAsync(this);
+            var viewModel = (MainWindowViewModel)DataContext;
+            // Auto-filter activity log to the selected IP
+            viewModel.ForceApplyFilter(ip);
 
-        if (result != null && result.Length > 0)
-        {
-            string selectedFilePath = result[0];
-            Attachment.Text = selectedFilePath;
-        }
-        else
-        {
-            // Handle case where no file was selected
-            Attachment.Text = "No file selected.";
+            // Deselect so the item can be clicked again later
+            lb.SelectedItem = null;
         }
     }
 
-
-    private async void UploadFile(object sender, Avalonia.Interactivity.RoutedEventArgs e)
+    // ── View Desktop (new) ───────────────────────────────────────────────────
+    private async void ViewDesktop(object sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
         var targetIp = this.FindControl<TextBox>("IPTarget");
-        var attachment = this.FindControl<TextBox>("Attachment");
+        string ip = targetIp?.Text ?? string.Empty;
+        if (string.IsNullOrWhiteSpace(ip)) return;
+
         var viewModel = (MainWindowViewModel)DataContext;
-        viewModel.UploadFile(targetIp.Text, $"{attachment.Text}");
+        var win = new DesktopWindow(viewModel, ip);
+        win.Show();
+        await viewModel.StartScreenStreamAsync(ip);
     }
 
+    // ── File Manager (new) ───────────────────────────────────────────────────
+    private void OpenFileManager(object sender, Avalonia.Interactivity.RoutedEventArgs e)
+    {
+        var targetIp = this.FindControl<TextBox>("IPTarget");
+        string ip = targetIp?.Text ?? string.Empty;
+        if (string.IsNullOrWhiteSpace(ip)) return;
+
+        var viewModel = (MainWindowViewModel)DataContext;
+        var fmVm = viewModel.GetOrCreateFileManager(ip);
+
+        // Wire upload: FileManagerWindow calls UploadSelectedAsync which
+        // delegates actual byte-sending to MainWindowViewModel
+        // SendCommand is fully wired inside GetOrCreateFileManager — no override needed here.
+
+        var win = new FileManagerWindow(fmVm);
+        win.Show();
+    }
 
 }

